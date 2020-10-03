@@ -2,7 +2,7 @@
 
 
 
-## Risk [Link](/risk.md)
+## Risk
 
 ### Counterparty Credit Risk
 Counterparty credit risk measurement is credit exposure (CE). It is the cost of replacing or hedging a contract at the time of default. Other measures 
