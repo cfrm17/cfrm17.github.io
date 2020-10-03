@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Risk
 
-Counterparty Credit Risk
+# Counterparty Credit Risk
 [Link](/ccr-1.pdf)
 
 
