@@ -6,8 +6,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Risk
 
-# Counterparty Credit Risk
+**Bold** Counterparty Credit Risk
 [Link](/ccr-1.pdf)
+
+
+**Bold** Counterparty Credit Risk Simulation Methodology
+[Link](/ccrSimulation-2.pdf)
+
+**Bold** Collateral Management
+[Link](/collateral-3.pdf)
+
+
+**Bold** Credit Valuation Adjustment
+[Link](/cva-4.pdf)
+
+**Bold** Funding Valuation Adjustment
+[Link](/cvaFva-5.pdf)
+
+**Bold** FRTB Standarlized Approach
+[Link](/frtbSa-6.pdf)
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
