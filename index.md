@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Risk
 
 Counterparty Credit Risk
-[Link](/ccr-1.pdf)
+[Link](https:/cfrm17.github.io/ccr-1.pdf)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
