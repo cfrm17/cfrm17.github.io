@@ -6,24 +6,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Risk
 
-**Bold** Counterparty Credit Risk
+Counterparty Credit Risk
 [Link](/ccr-1.pdf)
 
 
-**Bold** Counterparty Credit Risk Simulation Methodology
+Counterparty Credit Risk Simulation Methodology
 [Link](/ccrSimulation-2.pdf)
 
-**Bold** Collateral Management
+Collateral Management
 [Link](/collateral-3.pdf)
 
 
-**Bold** Credit Valuation Adjustment
+Credit Valuation Adjustment
 [Link](/cva-4.pdf)
 
-**Bold** Funding Valuation Adjustment
+Funding Valuation Adjustment
 [Link](/cvaFva-5.pdf)
 
-**Bold** FRTB Standarlized Approach
+FRTB Standarlized Approach
 [Link](/frtbSa-6.pdf)
 
 
