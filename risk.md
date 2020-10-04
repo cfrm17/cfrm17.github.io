@@ -96,6 +96,7 @@ More details at: [Link](/ParametricVaR-12.pdf)
 ### Financial Sensitivity
 Risk sensitivities or Greeks are vital for risk management. They can help financial market participants isolating risk, hedging risk and explaining profit & loss. 
 This presentation gives certain practical insights onto this topic. 
+
 More details at: [Link](/sensitivity-13.pdf)
 
 ### Monte Carlo Value at Risk
