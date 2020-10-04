@@ -75,3 +75,33 @@ A financial market is a market where people trade financial products. Typical fi
 the equity market, the commodity market and the credit market. 
 
 More details at: [Link](/market-10.pdf)
+
+### Market Risk Economic Capital 
+Economic capital falls into the category of Value at Risk (VaR) measures as both try to capture value change due to market movement. Most institutions use the 
+existing VaR system to compute economic capital. VaR captures the market risk of 1-day time period at 99% confidence level whereas Economic capital measures the 
+market risk of 1-year time period at 99.95 confidence level. Therefore, scaling methodology is the key to compute economic capital, i.e., scaling 1-day to 1-year 
+and 99% to 99.95%. This presentation is intended to answer several fundamental economic capital questions: what is economic capital? What is the difference 
+between economic capital and regulatory capital? How to compute economic capital? 
+
+More details at: [Link](/mrEc-11.pdf)
+
+### Parametric Value at Risk
+Value at Risk (VaR) is the regulatory measurement for assessing market risk. It reports the maximum likely loss on a portfolio for a given probability defined 
+as x% confidence level over N days. VaR is vital in market risk management and control. Also regulatory and economic capital computation is based on VaR results. 
+Although VaR measure is objective and intuitive, it doesn’t capture tail risk. There are three commonly used methodologies to calculate VaR – parametric, 
+historical simulation and Monte Carlo simulation. This presentation focuses on parametric VaR.  
+
+More details at: [Link](/ParametricVaR-12.pdf)
+
+### Financial Sensitivity
+Risk sensitivities or Greeks are vital for risk management. They can help financial market participants isolating risk, hedging risk and explaining profit & loss. 
+This presentation gives certain practical insights onto this topic. 
+More details at: [Link](/sensitivity-13.pdf)
+
+### Monte Carlo Value at Risk
+Value at Risk (VaR) is the regulatory measurement for assessing market risk. It reports the maximum likely loss on a portfolio for a given probability defined 
+as x% confidence level over N days. VaR is vital in market risk management and control. Also regulatory and economic capital computation is based on VaR results. 
+Although VaR measure is objective and intuitive, it doesn’t capture tail risk. There are three commonly used methodologies to calculate VaR – parametric, 
+historical simulation and Monte Carlo simulation. This presentation focuses on Monte Carlo VaR.  
+
+More details at: [Link](/MonteCarloVaR-14.pdf)
