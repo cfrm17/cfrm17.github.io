@@ -8,6 +8,8 @@ governing counterparty risk?
 
 More details at: [Link](/ccr-1.pdf)
 
+[Paper](https://pubhtml5.com/noml/vrdb/basic)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -18,12 +20,16 @@ portfolio at the time of the counterparty default.
 
 More details at: [Link](/ccrSimulation-2.pdf)
 
+[Paper](https://pubhtml5.com/noml/ihcx/basic)
+
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
 that mitigates risk by reducing credit exposure. Collateral doesn’t turn a bad counterparty into a good one and doesn’t eliminate credit risk. Instead, 
 it just reduces the loss at the time of default. Collateral arrangement is an essential element in the plumbing of the financial system. 
 
 More details at: [Link](/collateral-3.pdf)
+
+[Paper](https://pubhtml5.com/noml/swvt/basic)
 
 
 ### Credit Valuation Adjustment
@@ -33,6 +39,8 @@ counterparty risk as a single measurable P&L number, but also offers an opportun
 The benefits of CVA are widely acknowledged. Many banks have set up internal credit risk trading desks to manage counterparty risk on derivatives.
 
 More details at: [Link](/cva-4.pdf)
+
+[Paper](https://pubhtml5.com/noml/evsz/basic)
 
 ### Funding Valuation Adjustment
 Funding Valuation Adjustment (FVA) is introduced to capture the incremental costs of funding uncollateralized derivatives. It can be referred to as the 
