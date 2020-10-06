@@ -7,13 +7,13 @@ Risk management is a process to identity and measure risk. The goal of risk mana
 In capital market, risk management is accountable for oversighting and monitoring the profit and loss, market risk, credit risk, liquidity risk, and valuation
 risk of a firm.
 
-More details at: [Link](/risk.md)
+[More details](/risk.md)
 
 ### Market Data
 Market data are information collected in financial markets, that help market participants to understand market behaviors, historical trends, and risk. Sometimes,
 market data need to be further processed by market data analytics that is an area using algorithm and model to process and study to extract useful information.
 
-More details at: 
+[More details](/data.md)
 
 
 ### Trade lifecycle
