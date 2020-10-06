@@ -8,7 +8,9 @@ governing counterparty risk?
 
 More details at: [Link](/ccr-1.pdf)
 
-[Paper collateral](https://pubhtml5.com/noml/vrdb/basic)
+[PubHtml5 collateral](https://pubhtml5.com/noml/vrdb/basic)
+
+[ScienceMedia collateral](http://science-media.org/userfiles/1020/papers/1020_paper_1183.pdf)
 
 [FlipHtml5 ccr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDN4UzM5ITPkl0av9mY)
 
@@ -22,7 +24,9 @@ portfolio at the time of the counterparty default.
 
 More details at: [Link](/ccrSimulation-2.pdf)
 
-[Paper cva](https://pubhtml5.com/noml/ihcx/basic)
+[PubHtml5 cva](https://pubhtml5.com/noml/ihcx/basic)
+
+[ScienceMedia cva](http://science-media.org/userfiles/1020/papers/1020_paper_1184.pdf)
 
 [FlipHtml5 ccr simulation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
 
