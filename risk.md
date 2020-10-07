@@ -38,7 +38,7 @@ it just reduces the loss at the time of default. Collateral arrangement is an es
 
 More details at: [Link](/collateral-3.pdf)
 
-[Paper convertible](https://pubhtml5.com/noml/swvt/basic)
+[PubHtml5 convertible](https://pubhtml5.com/noml/swvt/basic)
 
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
 
@@ -51,7 +51,7 @@ The benefits of CVA are widely acknowledged. Many banks have set up internal cre
 
 More details at: [Link](/cva-4.pdf)
 
-[Paper lmm](https://pubhtml5.com/noml/evsz/basic)
+[PubHtml5 lmm](https://pubhtml5.com/noml/evsz/basic)
 
 [FlipHtml5 cva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjMwkzM5ITPkl0av9mY)
 
@@ -66,6 +66,8 @@ also calculated at portfolio level.
 
 More details at: [Link](/cvaFva-5.pdf)
 
+[PubHtml5 jump](https://pubhtml5.com/noml/jfjo/basic)
+
 [FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
 
 [FlipHtml5 fva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgzM2IjNyETPkl0av9mY)
@@ -78,6 +80,8 @@ inspired by the undercapitalisation of trading book exposures witnessed during t
 
 More details at: [Link](/frtbSa-6.pdf)
 
+[PubHtml5 exam](https://pubhtml5.com/noml/snjn/basic)
+
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
 
 
@@ -89,6 +93,8 @@ historical simulation and Monte Carlo simulation. This presentation focuses on h
 
 More details at: [Link](/HistoricalVaR-7.pdf)
 
+[PubHtml5 dependency](https://pubhtml5.com/noml/czqz/basic)
+
 [FlipHtml5 historical var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
 
 
@@ -98,6 +104,8 @@ is very likely to become the market standard. It is designed to provide a common
 Initial margin calculation is counterparty-portfolio-based. Given this standardized approach, counterparties can easily reconcile the results. 
 
 More details at: [Link](/initialMargin-8.pdf)
+
+[PubHtml5 irc](https://pubhtml5.com/noml/hqie/basic)
 
 [FlipHtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
 
