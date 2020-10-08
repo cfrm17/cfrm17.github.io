@@ -14,6 +14,8 @@ More details at: [Link](/ccr-1.pdf)
 
 [FlipHtml5 ccr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDN4UzM5ITPkl0av9mY)
 
+[Authorstream ccr](http://www.authorstream.com/Presentation/tommills-4394404-counterparty-credit-risk-introduction/)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -30,6 +32,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [FlipHtml5 ccr simulation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
 
+[Authorstream cva](http://www.authorstream.com/Presentation/tommills-4394407-credit-risk-simulation-methodology/)
+
 
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
@@ -41,6 +45,8 @@ More details at: [Link](/collateral-3.pdf)
 [PubHtml5 convertible](https://pubhtml5.com/noml/swvt/basic)
 
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
+
+[Authorstream collateral](http://www.authorstream.com/Presentation/tommills-4394409-collateral-management/)
 
 
 ### Credit Valuation Adjustment
@@ -57,6 +63,8 @@ More details at: [Link](/cva-4.pdf)
 
 [FlipHtml5 cva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzM2IjNyETPkl0av9mY)
 
+[Authorstream cva](http://www.authorstream.com/Presentation/tommills-4395428-credit-valuation-adjustment/)
+
 
 ### Funding Valuation Adjustment
 Funding Valuation Adjustment (FVA) is introduced to capture the incremental costs of funding uncollateralized derivatives. It can be referred to as the 
@@ -72,6 +80,8 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [FlipHtml5 fva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgzM2IjNyETPkl0av9mY)
 
+[Authorstream fva](http://www.authorstream.com/Presentation/tommills-4395431-funding-valuation-adjustment/)
+
 
 ### FRTB Standarlized Approach
 The Fundamental Review of the Trading Book (FRTB) is a new Basel committee framework for the next generation market risk regulatory capital rules. It is 
@@ -83,6 +93,8 @@ More details at: [Link](/frtbSa-6.pdf)
 [PubHtml5 exam](https://pubhtml5.com/noml/snjn/basic)
 
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
+
+[Authorstream frtb](http://www.authorstream.com/Presentation/tommills-4397625-fundamental-review-trading-book/)
 
 
 ### Historical VaR
@@ -97,6 +109,8 @@ More details at: [Link](/HistoricalVaR-7.pdf)
 
 [FlipHtml5 historical var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
 
+[Authorstream historical var](http://www.authorstream.com/Presentation/tommills-4397626-historical-value-risk-introduction/)
+
 
 ### Initial Margin
 Initial Margin (IM) is the amount of collateral required to open a position with a broker or an exchange or a bank. The Standard Initial Margin Model (SIMM) 
@@ -109,6 +123,8 @@ More details at: [Link](/initialMargin-8.pdf)
 
 [FlipHtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
 
+[Authorstream simm](http://www.authorstream.com/Presentation/tommills-3421694-standard-initial-margin-model-simm-methodology/)
+
 
 ### Incremental Risk Charge
 The incremental risk charge (IRC) is a regulatory requirement from the Basel Committee in response to the financial crisis. It supplements existing Value-at-Risk 
@@ -118,6 +134,8 @@ More details at: [Link](/irc-9.pdf)
 
 [FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
+[Authorstream irc](http://www.authorstream.com/Presentation/tommills-4397631-incremental-risk-charge-irc-introduction/)
+
 
 ### Financial Market
 A financial market is a market where people trade financial products. Typical financial markets are the fixed income and interest rate market, the currency market, 
@@ -126,6 +144,8 @@ the equity market, the commodity market and the credit market.
 More details at: [Link](/market-10.pdf)
 
 [FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
+
+[Authorstream market](http://www.authorstream.com/Presentation/tommills-4404325-financial-market-basics/)
 
 
 ### Market Risk Economic Capital 
@@ -139,6 +159,8 @@ More details at: [Link](/mrEc-11.pdf)
 
 [FlipHtml5 mrec](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
 
+[Authorstream mrec](http://www.authorstream.com/Presentation/tommills-4404333-market-risk-economic-capital-introduction/)
+
 
 ### Parametric Value at Risk
 Value at Risk (VaR) is the regulatory measurement for assessing market risk. It reports the maximum likely loss on a portfolio for a given probability defined 
@@ -150,6 +172,8 @@ More details at: [Link](/ParametricVaR-12.pdf)
 
 [FlipHtml5 parametric var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
 
+[Authorstream parametric var](http://www.authorstream.com/Presentation/tommills-4404343-parametric-value-risk-summary/)
+
 
 ### Financial Sensitivity
 Risk sensitivities or Greeks are vital for risk management. They can help financial market participants isolating risk, hedging risk and explaining profit & loss. 
@@ -158,6 +182,8 @@ This presentation gives certain practical insights onto this topic.
 More details at: [Link](/sensitivity-13.pdf)
 
 [FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
+
+[Authorstream sensitivity](http://www.authorstream.com/Presentation/tommills-4404344-risk-sensitivity-or-greek-introduction/)
 
 
 ### Monte Carlo Value at Risk
@@ -169,3 +195,5 @@ historical simulation and Monte Carlo simulation. This presentation focuses on M
 More details at: [Link](/MonteCarloVaR-14.pdf)
 
 [FlipHtml5 mc var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNzQTN5ITPkl0av9mY)
+
+[Authorstream mc var](http://www.authorstream.com/Presentation/tommills-4404346-monte-carlo-value-risk-introduction/)
