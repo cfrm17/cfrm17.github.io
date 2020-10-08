@@ -16,6 +16,8 @@ More details at: [Link](/ccr-1.pdf)
 
 [Authorstream ccr](http://www.authorstream.com/Presentation/tommills-4394404-counterparty-credit-risk-introduction/)
 
+[Slideserve ccr](https://www.slideserve.com/davidxiao/counterparty-credit-risk-powerpoint-ppt-presentation)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -34,6 +36,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [Authorstream cva](http://www.authorstream.com/Presentation/tommills-4394407-credit-risk-simulation-methodology/)
 
+[Slideserve ccr simulation](https://www.slideserve.com/davidxiao/counterparty-credit-risk-simulation-methodology-powerpoint-ppt-presentation)
+
 
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
@@ -47,6 +51,8 @@ More details at: [Link](/collateral-3.pdf)
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
 
 [Authorstream collateral](http://www.authorstream.com/Presentation/tommills-4394409-collateral-management/)
+
+[Slideserve collateral](https://www.slideserve.com/davidxiao/collateral-management-powerpoint-ppt-presentation)
 
 
 ### Credit Valuation Adjustment
@@ -64,6 +70,8 @@ More details at: [Link](/cva-4.pdf)
 [FlipHtml5 cva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzM2IjNyETPkl0av9mY)
 
 [Authorstream cva](http://www.authorstream.com/Presentation/tommills-4395428-credit-valuation-adjustment/)
+
+[Slideserve cva](https://www.slideserve.com/davidxiao/credit-valuation-adjustment-cva-powerpoint-ppt-presentation)
 
 
 ### Funding Valuation Adjustment
