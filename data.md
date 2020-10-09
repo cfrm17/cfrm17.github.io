@@ -11,6 +11,8 @@ making the swap term structure a more efficient hedging and pricing vehicle.
 
 [Slideserve yield curve](https://www.slideserve.com/davidxiao/yield-curve-data-analytics-powerpoint-ppt-presentation)
 
+[Authorstream yield curve](http://www.authorstream.com/Presentation/tommills-4431103-yield-curve/)
+
 
 ### Yield Curve Construction
 Yield curves are derived or bootstrapped from observed market instruments that represent the most liquid and dominant interest rate products for 
@@ -23,6 +25,8 @@ flow date sequentially so that all curve instruments can be priced back to the m
 
 [Slideserve yield curve construction](https://www.slideserve.com/davidxiao/yield-curve-construction-powerpoint-ppt-presentation)
 
+[Authorstream yield curve construction](http://www.authorstream.com/Presentation/tommills-4431108-yield-curve-construction/)
+
 
 ### Basis Curve
 The basis curve construction methodology is based on the most liquid market instruments. Normally a basis curve is divided into two parts. The short 
@@ -34,6 +38,8 @@ end of the term structure is determined using LIBOR rates and the remaining is d
 
 [Slideserve basis curve](https://www.slideserve.com/davidxiao/zero-rate-curve-generation-powerpoint-ppt-presentation)
 
+[Authorstream basis curve](http://www.authorstream.com/Presentation/tommills-4431121-basis-curve/)
+
 
 ### OIS Curve
 Many banks now consider that overnight indexed swap (OIS) rates should be used for discounting when collateralized portfolios are valued and that 
@@ -44,6 +50,8 @@ LIBOR should be used for discounting when portfolios are not collateralized.
 [FlipHtml5 ois](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETN0MDN2ITPkl0av9mY)
 
 [Slideserve ois](https://www.slideserve.com/davidxiao/ois-curve-construction-and-ois-discounting-powerpoint-ppt-presentation)
+
+[Authorstream ois](http://www.authorstream.com/Presentation/tommills-4431124-ois-curve-construction-discounting/)
 
 
 ### FX Implied Volatility
