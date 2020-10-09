@@ -18,6 +18,8 @@ More details at: [Link](/ccr-1.pdf)
 
 [Slideserve ccr](https://www.slideserve.com/davidxiao/counterparty-credit-risk-powerpoint-ppt-presentation)
 
+[Hcommon ccr](https://hcommons.org/deposits/download/hc:32754/CONTENT/ccr-1.pdf)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
