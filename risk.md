@@ -40,6 +40,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [Slideserve ccr simulation](https://www.slideserve.com/davidxiao/counterparty-credit-risk-simulation-methodology-powerpoint-ppt-presentation)
 
+[Hcommons ccr simulation](https://hcommons.org/deposits/download/hc:32772/CONTENT/ccrsimulation-2.pdf)
+
 
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
