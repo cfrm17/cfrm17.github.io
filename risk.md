@@ -24,6 +24,8 @@ More details at: [Link](/ccr-1.pdf)
 
 [Bitbucket ccr](https://bitbucket.org/cfrm17/ccr/downloads/ccr-1.pdf)
 
+[Github ccr](https://github.com/cfrm17/ccr/raw/master/ccr-1.pdf)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -50,6 +52,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [Bitbucket ccr simulation](https://bitbucket.org/cfrm17/ccrsimulation/downloads/ccrSimulation-2.pdf)
 
+[Github ccr simulation](https://github.com/cfrm17/ccrSimulation/raw/master/ccrSimulation-2.pdf)
+
 
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
@@ -69,6 +73,8 @@ More details at: [Link](/collateral-3.pdf)
 [Gitlab collateral](https://gitlab.com/cfrm171/collateral/-/raw/master/collateral-3.pdf)
 
 [Bitbucket collateral](https://bitbucket.org/cfrm17/collateral/downloads/collateral-3.pdf)
+
+[Github collateral](https://github.com/cfrm17/collateral/raw/master/collateral-3.pdf)
 
 
 ### Credit Valuation Adjustment
@@ -93,6 +99,8 @@ More details at: [Link](/cva-4.pdf)
 
 [Bitbucket cva](https://bitbucket.org/cfrm17/cva/downloads/cva-4.pdf)
 
+[Github cva](https://github.com/cfrm17/cva/raw/master/cva-4.pdf)
+
 
 ### Funding Valuation Adjustment
 Funding Valuation Adjustment (FVA) is introduced to capture the incremental costs of funding uncollateralized derivatives. It can be referred to as the 
@@ -110,6 +118,8 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [Authorstream fva](http://www.authorstream.com/Presentation/tommills-4395431-funding-valuation-adjustment/)
 
+[Github fva](https://github.com/cfrm17/fva/releases/download/1/cvaFva-5.pdf)
+
 
 ### FRTB Standarlized Approach
 The Fundamental Review of the Trading Book (FRTB) is a new Basel committee framework for the next generation market risk regulatory capital rules. It is 
@@ -123,6 +133,8 @@ More details at: [Link](/frtbSa-6.pdf)
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
 
 [Authorstream frtb](http://www.authorstream.com/Presentation/tommills-4397625-fundamental-review-trading-book/)
+
+[Github frtb](https://github.com/cfrm17/frtb/raw/master/frtbSa-6.pdf)
 
 
 ### Historical VaR
@@ -139,6 +151,8 @@ More details at: [Link](/HistoricalVaR-7.pdf)
 
 [Authorstream historical var](http://www.authorstream.com/Presentation/tommills-4397626-historical-value-risk-introduction/)
 
+[Github historical var](https://github.com/cfrm17/historicalVaR/raw/main/HistoricalVaR-7.pdf)
+
 
 ### Initial Margin
 Initial Margin (IM) is the amount of collateral required to open a position with a broker or an exchange or a bank. The Standard Initial Margin Model (SIMM) 
@@ -153,6 +167,8 @@ More details at: [Link](/initialMargin-8.pdf)
 
 [Authorstream simm](http://www.authorstream.com/Presentation/tommills-3421694-standard-initial-margin-model-simm-methodology/)
 
+[Github simm](https://github.com/cfrm17/simm/raw/main/initialMargin-8.pdf)
+
 
 ### Incremental Risk Charge
 The incremental risk charge (IRC) is a regulatory requirement from the Basel Committee in response to the financial crisis. It supplements existing Value-at-Risk 
@@ -164,6 +180,8 @@ More details at: [Link](/irc-9.pdf)
 
 [Authorstream irc](http://www.authorstream.com/Presentation/tommills-4397631-incremental-risk-charge-irc-introduction/)
 
+[Github irc](https://github.com/cfrm17/irc/raw/main/irc-9.pdf)
+
 
 ### Financial Market
 A financial market is a market where people trade financial products. Typical financial markets are the fixed income and interest rate market, the currency market, 
@@ -174,6 +192,8 @@ More details at: [Link](/market-10.pdf)
 [FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
 
 [Authorstream market](http://www.authorstream.com/Presentation/tommills-4404325-financial-market-basics/)
+
+[Github market](https://github.com/cfrm17/market/raw/main/market-10.pdf)
 
 
 ### Market Risk Economic Capital 
@@ -189,6 +209,8 @@ More details at: [Link](/mrEc-11.pdf)
 
 [Authorstream mrec](http://www.authorstream.com/Presentation/tommills-4404333-market-risk-economic-capital-introduction/)
 
+[Github mrec](https://github.com/cfrm17/mrec/raw/main/mrEc-11.pdf)
+
 
 ### Parametric Value at Risk
 Value at Risk (VaR) is the regulatory measurement for assessing market risk. It reports the maximum likely loss on a portfolio for a given probability defined 
@@ -202,6 +224,8 @@ More details at: [Link](/ParametricVaR-12.pdf)
 
 [Authorstream parametric var](http://www.authorstream.com/Presentation/tommills-4404343-parametric-value-risk-summary/)
 
+[Github parametric var](https://github.com/cfrm17/parametricVaR/raw/main/ParametricVaR-12.pdf)
+
 
 ### Financial Sensitivity
 Risk sensitivities or Greeks are vital for risk management. They can help financial market participants isolating risk, hedging risk and explaining profit & loss. 
@@ -212,6 +236,8 @@ More details at: [Link](/sensitivity-13.pdf)
 [FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
 
 [Authorstream sensitivity](http://www.authorstream.com/Presentation/tommills-4404344-risk-sensitivity-or-greek-introduction/)
+
+[Github sensitivity](https://github.com/cfrm17/sensitivity/raw/main/sensitivity-13.pdf)
 
 
 ### Monte Carlo Value at Risk
@@ -225,3 +251,7 @@ More details at: [Link](/MonteCarloVaR-14.pdf)
 [FlipHtml5 mc var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNzQTN5ITPkl0av9mY)
 
 [Authorstream mc var](http://www.authorstream.com/Presentation/tommills-4404346-monte-carlo-value-risk-introduction/)
+
+[Github mc var](https://github.com/cfrm17/MonteCarloVaR/raw/main/MonteCarloVaR-14.pdf)
+
+
