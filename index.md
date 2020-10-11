@@ -20,6 +20,6 @@ market data need to be further processed by market data analytics that is an are
 All the steps involved in a trade, from the point of order placed and trade execution through to trade settlement, are commonly referred to as the trade life cycle.
 Managing the life cycle of a trade is the fundamental activity of exchanges, investment banks, hedge funds, pension funds and many other financial companies.
 
-More details at: 
+[More details](/faq.md) 
 
 
