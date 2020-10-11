@@ -20,6 +20,10 @@ More details at: [Link](/ccr-1.pdf)
 
 [Hcommon ccr](https://hcommons.org/deposits/download/hc:32754/CONTENT/ccr-1.pdf)
 
+[Gitlab ccr](https://gitlab.com/cfrm171/ccr/-/raw/master/ccr-1.pdf)
+
+[Bitbucket ccr](https://bitbucket.org/cfrm17/ccr/downloads/ccr-1.pdf)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -42,6 +46,10 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [Hcommons ccr simulation](https://hcommons.org/deposits/download/hc:32772/CONTENT/ccrsimulation-2.pdf)
 
+[Gitlab ccr simulation](https://gitlab.com/cfrm171/ccrsimulation/-/raw/master/ccrSimulation-2.pdf)
+
+[Bitbucket ccr simulation](https://bitbucket.org/cfrm17/ccrsimulation/downloads/ccrSimulation-2.pdf)
+
 
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
@@ -57,6 +65,10 @@ More details at: [Link](/collateral-3.pdf)
 [Authorstream collateral](http://www.authorstream.com/Presentation/tommills-4394409-collateral-management/)
 
 [Slideserve collateral](https://www.slideserve.com/davidxiao/collateral-management-powerpoint-ppt-presentation)
+
+[Gitlab collateral](https://gitlab.com/cfrm171/collateral/-/raw/master/collateral-3.pdf)
+
+[Bitbucket collateral](https://bitbucket.org/cfrm17/collateral/downloads/collateral-3.pdf)
 
 
 ### Credit Valuation Adjustment
@@ -76,6 +88,10 @@ More details at: [Link](/cva-4.pdf)
 [Authorstream cva](http://www.authorstream.com/Presentation/tommills-4395428-credit-valuation-adjustment/)
 
 [Slideserve cva](https://www.slideserve.com/davidxiao/credit-valuation-adjustment-cva-powerpoint-ppt-presentation)
+
+[Gitlab cva](https://gitlab.com/cfrm171/cva/-/raw/master/cva-4.pdf)
+
+[Bitbucket cva](https://bitbucket.org/cfrm17/cva/downloads/cva-4.pdf)
 
 
 ### Funding Valuation Adjustment
