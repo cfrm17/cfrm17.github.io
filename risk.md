@@ -14,10 +14,6 @@ More details at: [Link](/ccr-1.pdf)
 
 [FlipHtml5 ccr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDN4UzM5ITPkl0av9mY)
 
-[Authorstream ccr](http://www.authorstream.com/Presentation/tommills-4394404-counterparty-credit-risk-introduction/)
-
-[Slideserve ccr](https://www.slideserve.com/davidxiao/counterparty-credit-risk-powerpoint-ppt-presentation)
-
 [Hcommon ccr](https://hcommons.org/deposits/download/hc:32754/CONTENT/ccr-1.pdf)
 
 [Gitlab ccr](https://gitlab.com/cfrm171/ccr/-/raw/master/ccr-1.pdf)
@@ -25,6 +21,8 @@ More details at: [Link](/ccr-1.pdf)
 [Bitbucket ccr](https://bitbucket.org/cfrm17/ccr/downloads/ccr-1.pdf)
 
 [Github ccr](https://github.com/cfrm17/ccr/raw/master/ccr-1.pdf)
+
+[Pubpub ccr](https://interestrate.pubpub.org/pub/22fdjmi8/download/pdf)
 
 
 ### Counterparty Credit Risk Simulation Methodology
@@ -42,10 +40,6 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [FlipHtml5 ccr simulation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
 
-[Authorstream cva](http://www.authorstream.com/Presentation/tommills-4394407-credit-risk-simulation-methodology/)
-
-[Slideserve ccr simulation](https://www.slideserve.com/davidxiao/counterparty-credit-risk-simulation-methodology-powerpoint-ppt-presentation)
-
 [Hcommons ccr simulation](https://hcommons.org/deposits/download/hc:32772/CONTENT/ccrsimulation-2.pdf)
 
 [Gitlab ccr simulation](https://gitlab.com/cfrm171/ccrsimulation/-/raw/master/ccrSimulation-2.pdf)
@@ -53,6 +47,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 [Bitbucket ccr simulation](https://bitbucket.org/cfrm17/ccrsimulation/downloads/ccrSimulation-2.pdf)
 
 [Github ccr simulation](https://github.com/cfrm17/ccrSimulation/raw/master/ccrSimulation-2.pdf)
+
+[Pubpub ccr simulation](https://interestrate.pubpub.org/pub/tjzhcqez/download/pdf)
 
 
 ### Collateral Management
@@ -66,15 +62,13 @@ More details at: [Link](/collateral-3.pdf)
 
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
 
-[Authorstream collateral](http://www.authorstream.com/Presentation/tommills-4394409-collateral-management/)
-
-[Slideserve collateral](https://www.slideserve.com/davidxiao/collateral-management-powerpoint-ppt-presentation)
-
 [Gitlab collateral](https://gitlab.com/cfrm171/collateral/-/raw/master/collateral-3.pdf)
 
 [Bitbucket collateral](https://bitbucket.org/cfrm17/collateral/downloads/collateral-3.pdf)
 
 [Github collateral](https://github.com/cfrm17/collateral/raw/master/collateral-3.pdf)
+
+[Pubpub collateral](https://interestrate.pubpub.org/pub/qi11f8gf/download/pdf)
 
 
 ### Credit Valuation Adjustment
@@ -91,15 +85,13 @@ More details at: [Link](/cva-4.pdf)
 
 [FlipHtml5 cva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzM2IjNyETPkl0av9mY)
 
-[Authorstream cva](http://www.authorstream.com/Presentation/tommills-4395428-credit-valuation-adjustment/)
-
-[Slideserve cva](https://www.slideserve.com/davidxiao/credit-valuation-adjustment-cva-powerpoint-ppt-presentation)
-
 [Gitlab cva](https://gitlab.com/cfrm171/cva/-/raw/master/cva-4.pdf)
 
 [Bitbucket cva](https://bitbucket.org/cfrm17/cva/downloads/cva-4.pdf)
 
 [Github cva](https://github.com/cfrm17/cva/raw/master/cva-4.pdf)
+
+[Pubpub cva](https://interestrate.pubpub.org/pub/tjzhcqez/download/pdf)
 
 
 ### Funding Valuation Adjustment
@@ -116,9 +108,9 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [FlipHtml5 fva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgzM2IjNyETPkl0av9mY)
 
-[Authorstream fva](http://www.authorstream.com/Presentation/tommills-4395431-funding-valuation-adjustment/)
-
 [Github fva](https://github.com/cfrm17/fva/releases/download/1/cvaFva-5.pdf)
+
+[Pubpub fva](https://interestrate.pubpub.org/pub/ozumceme/download/pdf)
 
 
 ### FRTB Standarlized Approach
@@ -132,9 +124,9 @@ More details at: [Link](/frtbSa-6.pdf)
 
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
 
-[Authorstream frtb](http://www.authorstream.com/Presentation/tommills-4397625-fundamental-review-trading-book/)
-
 [Github frtb](https://github.com/cfrm17/frtb/raw/master/frtbSa-6.pdf)
+
+[Pubpub frtb](https://interestrate.pubpub.org/pub/w33dt1rs/download/pdf)
 
 
 ### Historical VaR
@@ -149,9 +141,9 @@ More details at: [Link](/HistoricalVaR-7.pdf)
 
 [FlipHtml5 historical var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
 
-[Authorstream historical var](http://www.authorstream.com/Presentation/tommills-4397626-historical-value-risk-introduction/)
-
 [Github historical var](https://github.com/cfrm17/historicalVaR/raw/main/HistoricalVaR-7.pdf)
+
+[Pubpub historical var](https://interestrate.pubpub.org/pub/116rqssv/download/pdf)
 
 
 ### Initial Margin
@@ -165,9 +157,9 @@ More details at: [Link](/initialMargin-8.pdf)
 
 [FlipHtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
 
-[Authorstream simm](http://www.authorstream.com/Presentation/tommills-3421694-standard-initial-margin-model-simm-methodology/)
-
 [Github simm](https://github.com/cfrm17/simm/raw/main/initialMargin-8.pdf)
+
+[Pubpub simm](https://interestrate.pubpub.org/pub/wushuobx/download/pdf)
 
 
 ### Incremental Risk Charge
@@ -178,9 +170,9 @@ More details at: [Link](/irc-9.pdf)
 
 [FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
-[Authorstream irc](http://www.authorstream.com/Presentation/tommills-4397631-incremental-risk-charge-irc-introduction/)
-
 [Github irc](https://github.com/cfrm17/irc/raw/main/irc-9.pdf)
+
+[Pubpub irc](https://interestrate.pubpub.org/pub/469v839f/download/pdf)
 
 
 ### Financial Market
@@ -191,9 +183,9 @@ More details at: [Link](/market-10.pdf)
 
 [FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
 
-[Authorstream market](http://www.authorstream.com/Presentation/tommills-4404325-financial-market-basics/)
-
 [Github market](https://github.com/cfrm17/market/raw/main/market-10.pdf)
+
+[Pubpub market](https://interestrate.pubpub.org/pub/hd1pqked/download/pdf)
 
 
 ### Market Risk Economic Capital 
@@ -207,9 +199,9 @@ More details at: [Link](/mrEc-11.pdf)
 
 [FlipHtml5 mrec](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
 
-[Authorstream mrec](http://www.authorstream.com/Presentation/tommills-4404333-market-risk-economic-capital-introduction/)
-
 [Github mrec](https://github.com/cfrm17/mrec/raw/main/mrEc-11.pdf)
+
+[Pubpub mrec](https://interestrate.pubpub.org/pub/r47dfv0a/download/pdf)
 
 
 ### Parametric Value at Risk
@@ -222,9 +214,9 @@ More details at: [Link](/ParametricVaR-12.pdf)
 
 [FlipHtml5 parametric var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
 
-[Authorstream parametric var](http://www.authorstream.com/Presentation/tommills-4404343-parametric-value-risk-summary/)
-
 [Github parametric var](https://github.com/cfrm17/parametricVaR/raw/main/ParametricVaR-12.pdf)
+
+[Pubpub parametric var](https://interestrate.pubpub.org/pub/2u0jpbfi/download/pdf)
 
 
 ### Financial Sensitivity
@@ -235,9 +227,9 @@ More details at: [Link](/sensitivity-13.pdf)
 
 [FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
 
-[Authorstream sensitivity](http://www.authorstream.com/Presentation/tommills-4404344-risk-sensitivity-or-greek-introduction/)
-
 [Github sensitivity](https://github.com/cfrm17/sensitivity/raw/main/sensitivity-13.pdf)
+
+[Pubpub sensitivity](https://interestrate.pubpub.org/pub/nq9sk3q4/download/pdf)
 
 
 ### Monte Carlo Value at Risk
@@ -250,8 +242,8 @@ More details at: [Link](/MonteCarloVaR-14.pdf)
 
 [FlipHtml5 mc var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNzQTN5ITPkl0av9mY)
 
-[Authorstream mc var](http://www.authorstream.com/Presentation/tommills-4404346-monte-carlo-value-risk-introduction/)
-
 [Github mc var](https://github.com/cfrm17/MonteCarloVaR/raw/main/MonteCarloVaR-14.pdf)
+
+[Pubpub mc var](https://interestrate.pubpub.org/pub/guu4ru3z/download/pdf)
 
 
