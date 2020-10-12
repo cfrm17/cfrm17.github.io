@@ -9,11 +9,9 @@ making the swap term structure a more efficient hedging and pricing vehicle.
 
 [FlipHtml5 yield curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTNyITM2ITPkl0av9mY)
 
-[Slideserve yield curve](https://www.slideserve.com/davidxiao/yield-curve-data-analytics-powerpoint-ppt-presentation)
-
-[Authorstream yield curve](http://www.authorstream.com/Presentation/tommills-4431103-yield-curve/)
-
 [Github yield curve](https://github.com/cfrm17/YieldCurve/raw/main/IrCurveIntroduction-1.pdf)
+
+[Pubpub yield curve](https://david.pubpub.org/pub/c7n9gnqy/download/pdf)
 
 
 ### Yield Curve Construction
@@ -25,11 +23,9 @@ flow date sequentially so that all curve instruments can be priced back to the m
 
 [FlipHtml5 yield curve construction](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDO1kzM2ITPkl0av9mY)
 
-[Slideserve yield curve construction](https://www.slideserve.com/davidxiao/yield-curve-construction-powerpoint-ppt-presentation)
-
-[Authorstream yield curve construction](http://www.authorstream.com/Presentation/tommills-4431108-yield-curve-construction/)
-
 [Github yield curve construction](https://github.com/cfrm17/YieldCurveConstruction/raw/main/IrCurve-2.pdf)
+
+[Pubpub yield curve construction](https://david.pubpub.org/pub/pmwcp6ah/download/pdf)
 
 
 ### Basis Curve
@@ -40,11 +36,9 @@ end of the term structure is determined using LIBOR rates and the remaining is d
 
 [FlipHtml5 basis curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM2kzM2ITPkl0av9mY)
 
-[Slideserve basis curve](https://www.slideserve.com/davidxiao/zero-rate-curve-generation-powerpoint-ppt-presentation)
-
-[Authorstream basis curve](http://www.authorstream.com/Presentation/tommills-4431121-basis-curve/)
-
 [Github basis curve](https://github.com/cfrm17/BasisCurve/raw/main/IrBasisCurve-3.pdf)
+
+[Pubpub basis curve](https://david.pubpub.org/pub/j9ol7gvf/download/pdf)
 
 
 ### OIS Curve
@@ -55,11 +49,9 @@ LIBOR should be used for discounting when portfolios are not collateralized.
 
 [FlipHtml5 ois](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETN0MDN2ITPkl0av9mY)
 
-[Slideserve ois](https://www.slideserve.com/davidxiao/ois-curve-construction-and-ois-discounting-powerpoint-ppt-presentation)
-
-[Authorstream ois](http://www.authorstream.com/Presentation/tommills-4431124-ois-curve-construction-discounting/)
-
 [Github ois](https://github.com/cfrm17/OisCurve/raw/main/IrOIS-4.pdf)
+
+[Pubpub ois](https://david.pubpub.org/pub/x9tb74np/download/pdf)
 
 
 ### FX Implied Volatility
@@ -70,9 +62,9 @@ instruments and as such a calibration procedure to construct a volatility- delta
 
 [FlipHtml5 fx vol](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjMyYDN2ITPkl0av9mY)
 
-[Slideserve fx vol](https://www.slideserve.com/davidxiao/fx-volatility-surface-data-introduction-powerpoint-ppt-presentation)
-
 [Github fx vol](https://github.com/cfrm17/fxVol/raw/main/FxVol-5.pdf)
+
+[Pubpub fx vol](https://david.pubpub.org/pub/q1ujtvfx/download/pdf)
 
 
 ### Swaption Implied Volatility
@@ -83,9 +75,9 @@ long-term swap rates. A crucial property of the implied volatility surface is th
 
 [FlipHtml5 swaption vol](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNyYDN2ITPkl0av9mY)
 
-[slideserve swaption vol](https://www.slideserve.com/davidxiao/a-practical-guide-for-constructing-swaption-volatility-surfaces-powerpoint-ppt-presentation)
-
 [Github swaption vol](https://github.com/cfrm17/swaptionVol/raw/main/IrSwnVol-6.pdf)
+
+[Pubpub swaption vol](https://david.pubpub.org/pub/r83v30ev/download/pdf)
 
 
 ### Cap Implied Volatility
@@ -97,9 +89,9 @@ volatility of a cap as a function of strike and maturity.
 
 [FlipHtml5 cap vol](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN0ITN2ITPkl0av9mY)
 
-[Slideserve cap vol](https://www.slideserve.com/davidxiao/cap-implied-volatility-construction-powerpoint-ppt-presentation)
-
 [Github cap vol](https://github.com/cfrm17/capVol/raw/main/IrCapVol-7.pdf)
+
+[Pubpub cap vol](https://david.pubpub.org/pub/d1mdbxkw/download/pdf)
 
 
 ### FX Forward Points
@@ -111,6 +103,6 @@ is based on the arbitrage-free relationship between forward FX rates and the dis
 
 [FlipHtml5 fx forward](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO0ITN2ITPkl0av9mY)
 
-[Slideserve fx forward](https://www.slideserve.com/davidxiao/fx-forward-points-and-fx-yield-curve-powerpoint-ppt-presentation)
-
 [Github fx forward](https://github.com/cfrm17/fxForwardPoints/raw/main/FxForwardCurve-8.pdf)
+
+[Pubpub fx forward](https://david.pubpub.org/pub/6utrh10z/download/pdf)
