@@ -22,7 +22,7 @@ activities, processing transactions and backing up all data.
 
 [FlipHtml5 eod](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
 
-[Pubpub eod](https://david.pubpub.org/pub/fqgr4qtg/download/pdf]
+[Pubpub eod](https://david.pubpub.org/pub/fqgr4qtg/download/pdf)
 
 
 ### Curve Construction Guide
