@@ -24,6 +24,8 @@ More details at: [Link](/ccr-1.pdf)
 
 [Pubpub ccr](https://interestrate.pubpub.org/pub/22fdjmi8/download/pdf)
 
+[Zenodo ccr](https://zenodo.org/record/4016295/files/ccr-1.pdf)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -50,6 +52,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [Pubpub ccr simulation](https://interestrate.pubpub.org/pub/tjzhcqez/download/pdf)
 
+[Zenodo ccr simulation](https://zenodo.org/record/4016304/files/ccrSimulation-2.pdf)
+
 
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
@@ -69,6 +73,8 @@ More details at: [Link](/collateral-3.pdf)
 [Github collateral](https://github.com/cfrm17/collateral/raw/master/collateral-3.pdf)
 
 [Pubpub collateral](https://interestrate.pubpub.org/pub/qi11f8gf/download/pdf)
+
+[Zenodo collateral](https://zenodo.org/record/4016310/files/collateral-3.pdf)
 
 
 ### Credit Valuation Adjustment
@@ -93,6 +99,8 @@ More details at: [Link](/cva-4.pdf)
 
 [Pubpub cva](https://interestrate.pubpub.org/pub/tjzhcqez/download/pdf)
 
+[Zenodo cva](https://zenodo.org/record/4016321/files/cva-4.pdf)
+
 
 ### Funding Valuation Adjustment
 Funding Valuation Adjustment (FVA) is introduced to capture the incremental costs of funding uncollateralized derivatives. It can be referred to as the 
@@ -112,6 +120,8 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [Pubpub fva](https://interestrate.pubpub.org/pub/ozumceme/download/pdf)
 
+[Zenodo fva](https://zenodo.org/record/4017723/files/cvaFva-5.pdf)
+
 
 ### FRTB Standarlized Approach
 The Fundamental Review of the Trading Book (FRTB) is a new Basel committee framework for the next generation market risk regulatory capital rules. It is 
@@ -127,6 +137,8 @@ More details at: [Link](/frtbSa-6.pdf)
 [Github frtb](https://github.com/cfrm17/frtb/raw/master/frtbSa-6.pdf)
 
 [Pubpub frtb](https://interestrate.pubpub.org/pub/w33dt1rs/download/pdf)
+
+[Zenodo frtb](https://zenodo.org/record/4017728/files/frtbSa-6.pdf)
 
 
 ### Historical VaR
@@ -145,6 +157,8 @@ More details at: [Link](/HistoricalVaR-7.pdf)
 
 [Pubpub historical var](https://interestrate.pubpub.org/pub/116rqssv/download/pdf)
 
+[Zenodo historical var](https://zenodo.org/record/4017733/files/HistoricalVaR-7.pdf)
+
 
 ### Initial Margin
 Initial Margin (IM) is the amount of collateral required to open a position with a broker or an exchange or a bank. The Standard Initial Margin Model (SIMM) 
@@ -161,6 +175,8 @@ More details at: [Link](/initialMargin-8.pdf)
 
 [Pubpub simm](https://interestrate.pubpub.org/pub/wushuobx/download/pdf)
 
+[Zenodo simm](https://zenodo.org/record/4025373/files/initialMargin-8.pdf)
+
 
 ### Incremental Risk Charge
 The incremental risk charge (IRC) is a regulatory requirement from the Basel Committee in response to the financial crisis. It supplements existing Value-at-Risk 
@@ -174,6 +190,8 @@ More details at: [Link](/irc-9.pdf)
 
 [Pubpub irc](https://interestrate.pubpub.org/pub/469v839f/download/pdf)
 
+[Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
+
 
 ### Financial Market
 A financial market is a market where people trade financial products. Typical financial markets are the fixed income and interest rate market, the currency market, 
@@ -186,6 +204,8 @@ More details at: [Link](/market-10.pdf)
 [Github market](https://github.com/cfrm17/market/raw/main/market-10.pdf)
 
 [Pubpub market](https://interestrate.pubpub.org/pub/hd1pqked/download/pdf)
+
+[Zenodo market](https://zenodo.org/record/4025380/files/market-10.pdf)
 
 
 ### Market Risk Economic Capital 
@@ -203,6 +223,8 @@ More details at: [Link](/mrEc-11.pdf)
 
 [Pubpub mrec](https://interestrate.pubpub.org/pub/r47dfv0a/download/pdf)
 
+[Zenodo mrec](https://zenodo.org/record/4027801/files/mrEc-11.pdf)
+
 
 ### Parametric Value at Risk
 Value at Risk (VaR) is the regulatory measurement for assessing market risk. It reports the maximum likely loss on a portfolio for a given probability defined 
@@ -218,6 +240,8 @@ More details at: [Link](/ParametricVaR-12.pdf)
 
 [Pubpub parametric var](https://interestrate.pubpub.org/pub/2u0jpbfi/download/pdf)
 
+[Zenodo parametric var](https://zenodo.org/record/4027809/files/ParametricVaR-12.pdf)
+
 
 ### Financial Sensitivity
 Risk sensitivities or Greeks are vital for risk management. They can help financial market participants isolating risk, hedging risk and explaining profit & loss. 
@@ -230,6 +254,8 @@ More details at: [Link](/sensitivity-13.pdf)
 [Github sensitivity](https://github.com/cfrm17/sensitivity/raw/main/sensitivity-13.pdf)
 
 [Pubpub sensitivity](https://interestrate.pubpub.org/pub/nq9sk3q4/download/pdf)
+
+[Zenodo sensitivity](https://zenodo.org/record/4027817/files/sensitivity-13.pdf)
 
 
 ### Monte Carlo Value at Risk
@@ -245,5 +271,7 @@ More details at: [Link](/MonteCarloVaR-14.pdf)
 [Github mc var](https://github.com/cfrm17/MonteCarloVaR/raw/main/MonteCarloVaR-14.pdf)
 
 [Pubpub mc var](https://interestrate.pubpub.org/pub/guu4ru3z/download/pdf)
+
+[Zenodo mc var](https://zenodo.org/record/4027823/files/MonteCarloVaR-14.pdf)
 
 
