@@ -13,6 +13,8 @@ making the swap term structure a more efficient hedging and pricing vehicle.
 
 [Pubpub yield curve](https://david.pubpub.org/pub/c7n9gnqy/download/pdf)
 
+[Zenodo yield curve](https://zenodo.org/record/3928440/files/IrCurveIntroduction-1.pdf)
+
 
 ### Yield Curve Construction
 Yield curves are derived or bootstrapped from observed market instruments that represent the most liquid and dominant interest rate products for 
@@ -27,6 +29,8 @@ flow date sequentially so that all curve instruments can be priced back to the m
 
 [Pubpub yield curve construction](https://david.pubpub.org/pub/pmwcp6ah/download/pdf)
 
+[Zenodo yield curve construction](https://zenodo.org/record/3928459/files/IrCurve-2.pdf)
+
 
 ### Basis Curve
 The basis curve construction methodology is based on the most liquid market instruments. Normally a basis curve is divided into two parts. The short 
@@ -39,6 +43,8 @@ end of the term structure is determined using LIBOR rates and the remaining is d
 [Github basis curve](https://github.com/cfrm17/BasisCurve/raw/main/IrBasisCurve-3.pdf)
 
 [Pubpub basis curve](https://david.pubpub.org/pub/j9ol7gvf/download/pdf)
+
+[Zenodo basis curve](https://zenodo.org/record/3928459/files/IrCurve-2.pdf)
 
 
 ### OIS Curve
@@ -53,6 +59,8 @@ LIBOR should be used for discounting when portfolios are not collateralized.
 
 [Pubpub ois](https://david.pubpub.org/pub/x9tb74np/download/pdf)
 
+[Zenodo ois](https://zenodo.org/record/3928515/files/IrOIS-4.pdf)
+
 
 ### FX Implied Volatility
 Unlike in other markets that quote volatility versus strike directly, the FX smile is given implicitly as a set of restrictions implied by market 
@@ -66,6 +74,8 @@ instruments and as such a calibration procedure to construct a volatility- delta
 
 [Pubpub fx vol](https://david.pubpub.org/pub/q1ujtvfx/download/pdf)
 
+[Zenodo fx vol](https://zenodo.org/record/3928657/files/FxVol-5.pdf)
+
 
 ### Swaption Implied Volatility
 The term structures of implied volatilities which provide indications of the market’s near- and long-term uncertainty about future short- and 
@@ -78,6 +88,8 @@ long-term swap rates. A crucial property of the implied volatility surface is th
 [Github swaption vol](https://github.com/cfrm17/swaptionVol/raw/main/IrSwnVol-6.pdf)
 
 [Pubpub swaption vol](https://david.pubpub.org/pub/r83v30ev/download/pdf)
+
+[Zenodo swaption vol](https://zenodo.org/record/3928662/files/IrSwnVol-6.pdf)
 
 
 ### Cap Implied Volatility
@@ -93,6 +105,8 @@ volatility of a cap as a function of strike and maturity.
 
 [Pubpub cap vol](https://david.pubpub.org/pub/d1mdbxkw/download/pdf)
 
+[Zenodo cap vol](https://zenodo.org/record/3928669/files/IrCapVol-7.pdf)
+
 
 ### FX Forward Points
 Market standard is to use FX quoted forward spreads and USD zero rate curve to generate FX implied forward curve. In other words, FX curve 
@@ -106,3 +120,5 @@ is based on the arbitrage-free relationship between forward FX rates and the dis
 [Github fx forward](https://github.com/cfrm17/fxForwardPoints/raw/main/FxForwardCurve-8.pdf)
 
 [Pubpub fx forward](https://david.pubpub.org/pub/6utrh10z/download/pdf)
+
+[Zenodo fx forward](https://zenodo.org/record/3928681/files/FxForwardCurve-8.pdf)
