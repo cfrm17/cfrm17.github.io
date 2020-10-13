@@ -11,6 +11,8 @@ Trading system user account management is a process to manage client information
 
 [Pubpub account](https://david.pubpub.org/pub/zsjsig2m/download/pdf)
 
+[Zenodo account](https://zenodo.org/record/3929818/files/AccountLicense-1.pdf)
+
 
 ### End of Day Process
 The EOD process can be performed manually, as well as automatically, as scheduled jobs through a job scheduler. The EOD jobs involved closing down daily 
@@ -23,6 +25,8 @@ activities, processing transactions and backing up all data.
 [FlipHtml5 eod](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
 
 [Pubpub eod](https://david.pubpub.org/pub/fqgr4qtg/download/pdf)
+
+[Zenodo eod](https://zenodo.org/record/3929826/files/BatchJob-2.pdf)
 
 
 ### Curve Construction Guide
@@ -38,6 +42,8 @@ as a benchmark for pricing and hedging.
 
 [Pubpub curve construction](https://david.pubpub.org/pub/mfw66cuv/download/pdf)
 
+[Zenodo curve construction](https://zenodo.org/record/3929831/files/CurveConstruction-3.pdf)
+
 
 ### Installation
 FinPricing is a capital market software system and solution that covers the entire transaction lifecycle for derivatives, securities and cash instruments, 
@@ -51,6 +57,8 @@ user guides and instructions on how to download and install FinPricing
 [FlipHtml5 install](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTN1MTM3ITPkl0av9mY)
 
 [Pubpub install](https://david.pubpub.org/pub/784ng851/download/pdf)
+
+[Zenodo install](https://zenodo.org/record/3929835/files/DownloadInstall-4.pdf)
 
 
 ### Back Office
@@ -66,6 +74,8 @@ regulatory compliance, accounting, and IT services.
 
 [Pubpub back office](https://david.pubpub.org/pub/sovvbl8h/download/pdf)
 
+[Zenodo back office](https://zenodo.org/record/3929839/files/ManageBackofficeEntity-5.pdf)
+
 
 ### Back Office Function
 The back office is the supporting department of a company that carries out administrative functions that assist
@@ -79,6 +89,8 @@ settlements, clearances, record maintenance, regulatory compliance, accounting, 
 [FlipHtml5 back office function](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETMxYTM3ITPkl0av9mY)
  
 [Pubpub back office function](https://fixedincome.pubpub.org/pub/jmmakvm5/download/pdf)
+
+[Zenodo back office function](https://zenodo.org/record/3930859/files/ManageBackofficeFunction-6.pdf)
 
 
 ### Market Data Management
@@ -94,6 +106,8 @@ market data is to get as much information about the asset you are planning to tr
 
 [Pubpub data](https://fixedincome.pubpub.org/pub/hrhclczr/download/pdf)
 
+[Zenodo data](https://zenodo.org/record/3930863/files/ManageData-7.pdf)
+
 
 ### Trade Life Cycle Part 1
 A trade, also called a deal, is an exchange of financial products from one entity to another. The life cycle of a trade is the fundamental activity 
@@ -106,6 +120,8 @@ of exchanges, investment banks, hedge funds, pension funds and many other financ
 [FlipHtml5 lifecycle1](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjMyYTM3ITPkl0av9mY)
 
 [Pubpub lifecycle1](https://fixedincome.pubpub.org/pub/7e8lxrd0/download/pdf)
+
+[Zenodo lifecycle1](https://zenodo.org/record/3930936/files/TradeLifecycle1-8.pdf)
 
 
 ### Trade Life Cycle Part 2
@@ -121,6 +137,8 @@ process. It also provides user guides and instructions on how to manage trade li
 
 [Pubpub lifecycle2](https://fixedincome.pubpub.org/pub/kaz5jvfi/download/pdf)
 
+[Zenodo lifecycle2](https://zenodo.org/record/3930943/files/TradeLifecycle2-9.pdf)
+
 
 ### Trade Life Cycle Part 3
 Trade life cycle has different stages, by which a trade flows through. These detail steps are from the point of order, receipt, execution through 
@@ -135,3 +153,5 @@ life cycle process. It also provides user guides and instructions on how to mana
 [FlipHtml5 lifecycle3](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDNyYTM3ITPkl0av9mY)
 
 [Pubpub lifecycle3](https://fixedincome.pubpub.org/pub/vqm85i3n/download/pdf)
+
+[Zenodo lifecycle3](https://zenodo.org/record/3930947/files/TradeLifecycle3-10.pdf)
