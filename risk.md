@@ -122,6 +122,8 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [Zenodo fva](https://zenodo.org/record/4017723/files/cvaFva-5.pdf)
 
+[Bitbucket fva](https://bitbucket.org/cfrm17/fva/downloads/cvaFva-5.pdf)
+
 
 ### FRTB Standarlized Approach
 The Fundamental Review of the Trading Book (FRTB) is a new Basel committee framework for the next generation market risk regulatory capital rules. It is 
@@ -139,6 +141,8 @@ More details at: [Link](/frtbSa-6.pdf)
 [Pubpub frtb](https://interestrate.pubpub.org/pub/w33dt1rs/download/pdf)
 
 [Zenodo frtb](https://zenodo.org/record/4017728/files/frtbSa-6.pdf)
+
+[bitbucket frtb](https://bitbucket.org/cfrm17/frtb/downloads/frtbSa-6.pdf)
 
 
 ### Historical VaR
@@ -159,6 +163,8 @@ More details at: [Link](/HistoricalVaR-7.pdf)
 
 [Zenodo historical var](https://zenodo.org/record/4017733/files/HistoricalVaR-7.pdf)
 
+[Bitbucket historical var](https://bitbucket.org/cfrm17/historicalvar/downloads/HistoricalVaR-7.pdf)
+
 
 ### Initial Margin
 Initial Margin (IM) is the amount of collateral required to open a position with a broker or an exchange or a bank. The Standard Initial Margin Model (SIMM) 
@@ -177,6 +183,8 @@ More details at: [Link](/initialMargin-8.pdf)
 
 [Zenodo simm](https://zenodo.org/record/4025373/files/initialMargin-8.pdf)
 
+[Bitbucket simm](https://bitbucket.org/cfrm17/simm/downloads/initialMargin-8.pdf)
+
 
 ### Incremental Risk Charge
 The incremental risk charge (IRC) is a regulatory requirement from the Basel Committee in response to the financial crisis. It supplements existing Value-at-Risk 
@@ -192,6 +200,8 @@ More details at: [Link](/irc-9.pdf)
 
 [Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
 
+[Bitbucket irc](https://bitbucket.org/cfrm17/irc/downloads/irc-9.pdf)
+
 
 ### Financial Market
 A financial market is a market where people trade financial products. Typical financial markets are the fixed income and interest rate market, the currency market, 
@@ -206,6 +216,8 @@ More details at: [Link](/market-10.pdf)
 [Pubpub market](https://interestrate.pubpub.org/pub/hd1pqked/download/pdf)
 
 [Zenodo market](https://zenodo.org/record/4025380/files/market-10.pdf)
+
+[Bitbucket market](https://bitbucket.org/cfrm17/market/downloads/market-10.pdf)
 
 
 ### Market Risk Economic Capital 
