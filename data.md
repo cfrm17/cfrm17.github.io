@@ -15,6 +15,10 @@ making the swap term structure a more efficient hedging and pricing vehicle.
 
 [Zenodo yield curve](https://zenodo.org/record/3928440/files/IrCurveIntroduction-1.pdf)
 
+[Gitlab yield curve](https://gitlab.com/timxiao1203/ircurveintroduction/-/raw/master/IrCurveIntroduction-1.pdf)
+
+[Bitbucket yield curve](https://bitbucket.org/timxiao1203/ircurveintroduction/downloads/IrCurveIntroduction-1.pdf)
+
 
 ### Yield Curve Construction
 Yield curves are derived or bootstrapped from observed market instruments that represent the most liquid and dominant interest rate products for 
@@ -31,6 +35,10 @@ flow date sequentially so that all curve instruments can be priced back to the m
 
 [Zenodo yield curve construction](https://zenodo.org/record/3928459/files/IrCurve-2.pdf)
 
+[Gitlab yield curve construction](https://gitlab.com/timxiao1203/ircurve/-/raw/master/IrCurve-2.pdf)
+
+[Bitbucket yield curve construction](https://bitbucket.org/timxiao1203/ircurve/downloads/IrCurve-2.pdf)
+
 
 ### Basis Curve
 The basis curve construction methodology is based on the most liquid market instruments. Normally a basis curve is divided into two parts. The short 
@@ -45,6 +53,10 @@ end of the term structure is determined using LIBOR rates and the remaining is d
 [Pubpub basis curve](https://david.pubpub.org/pub/j9ol7gvf/download/pdf)
 
 [Zenodo basis curve](https://zenodo.org/record/3928459/files/IrCurve-2.pdf)
+
+[Gitlab basis curve](https://gitlab.com/timxiao1203/irbasiscurve/-/raw/master/IrBasisCurve-3.pdf)
+
+[Bitbucket basis curve](https://bitbucket.org/timxiao1203/irbasiscurve/downloads/IrBasisCurve-3.pdf)
 
 
 ### OIS Curve
