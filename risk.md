@@ -249,6 +249,10 @@ More details at: [Link](/mrEc-11.pdf)
 
 [Zenodo mrec](https://zenodo.org/record/4027801/files/mrEc-11.pdf)
 
+[Gitlab mrec](https://gitlab.com/cfrm17/mrec/-/raw/master/mrEc-11.pdf)
+
+[Bitbucket mrec](https://bitbucket.org/cfrm17/mrec/downloads/mrEc-11.pdf)
+
 
 ### Parametric Value at Risk
 Value at Risk (VaR) is the regulatory measurement for assessing market risk. It reports the maximum likely loss on a portfolio for a given probability defined 
@@ -266,6 +270,10 @@ More details at: [Link](/ParametricVaR-12.pdf)
 
 [Zenodo parametric var](https://zenodo.org/record/4027809/files/ParametricVaR-12.pdf)
 
+[Gitlab parametric var](https://gitlab.com/cfrm17/parametricvar/-/raw/master/ParametricVaR-12.pdf)
+
+[Bitbucket parametric var](https://bitbucket.org/cfrm17/parametricvar/downloads/ParametricVaR-12.pdf)
+
 
 ### Financial Sensitivity
 Risk sensitivities or Greeks are vital for risk management. They can help financial market participants isolating risk, hedging risk and explaining profit & loss. 
@@ -280,6 +288,10 @@ More details at: [Link](/sensitivity-13.pdf)
 [Pubpub sensitivity](https://interestrate.pubpub.org/pub/nq9sk3q4/download/pdf)
 
 [Zenodo sensitivity](https://zenodo.org/record/4027817/files/sensitivity-13.pdf)
+
+[Gitlab sensitivity](https://gitlab.com/cfrm17/sensitivity/-/raw/master/sensitivity-13.pdf)
+
+[Bitbucket sensitivity](https://bitbucket.org/cfrm17/sensitivity/downloads/sensitivity-13.pdf)
 
 
 ### Monte Carlo Value at Risk
@@ -297,5 +309,9 @@ More details at: [Link](/MonteCarloVaR-14.pdf)
 [Pubpub mc var](https://interestrate.pubpub.org/pub/guu4ru3z/download/pdf)
 
 [Zenodo mc var](https://zenodo.org/record/4027823/files/MonteCarloVaR-14.pdf)
+
+[Gitlab mc var](https://gitlab.com/cfrm17/montecarlovar/-/raw/master/MonteCarloVaR-14.pdf)
+
+[Bitbucket mc var](https://bitbucket.org/cfrm17/montecarlovar/downloads/MonteCarloVaR-14.pdf)
 
 
