@@ -73,6 +73,10 @@ LIBOR should be used for discounting when portfolios are not collateralized.
 
 [Zenodo ois](https://zenodo.org/record/3928515/files/IrOIS-4.pdf)
 
+[Gitlab ois](https://gitlab.com/timxiao1203/irois/-/raw/master/IrOIS-4.pdf)
+
+[Bitbucket ois](https://bitbucket.org/timxiao1203/irois/downloads/IrOIS-4.pdf)
+
 
 ### FX Implied Volatility
 Unlike in other markets that quote volatility versus strike directly, the FX smile is given implicitly as a set of restrictions implied by market 
@@ -88,6 +92,10 @@ instruments and as such a calibration procedure to construct a volatility- delta
 
 [Zenodo fx vol](https://zenodo.org/record/3928657/files/FxVol-5.pdf)
 
+[Gitlab fx vol](https://gitlab.com/timxiao1203/fxvol/-/raw/master/FxVol-5.pdf)
+
+[Bitbucket fx vol](https://bitbucket.org/timxiao1203/fxvol/downloads/FxVol-5.pdf)
+
 
 ### Swaption Implied Volatility
 The term structures of implied volatilities which provide indications of the market’s near- and long-term uncertainty about future short- and 
@@ -102,6 +110,10 @@ long-term swap rates. A crucial property of the implied volatility surface is th
 [Pubpub swaption vol](https://david.pubpub.org/pub/r83v30ev/download/pdf)
 
 [Zenodo swaption vol](https://zenodo.org/record/3928662/files/IrSwnVol-6.pdf)
+
+[Gitlab swaption vol](https://gitlab.com/timxiao1203/irswnvol/-/raw/master/IrSwnVol-6.pdf)
+
+[Bitbucket swaption vol](https://bitbucket.org/timxiao1203/irswnvol/downloads/IrSwnVol-6.pdf)
 
 
 ### Cap Implied Volatility
@@ -119,6 +131,10 @@ volatility of a cap as a function of strike and maturity.
 
 [Zenodo cap vol](https://zenodo.org/record/3928669/files/IrCapVol-7.pdf)
 
+[Gitlab cap vol](https://gitlab.com/timxiao1203/ircapvol/-/raw/master/IrCapVol-7.pdf)
+
+[Bitbucket cap vol](https://bitbucket.org/timxiao1203/ircapvol/downloads/IrCapVol-7.pdf)
+
 
 ### FX Forward Points
 Market standard is to use FX quoted forward spreads and USD zero rate curve to generate FX implied forward curve. In other words, FX curve 
@@ -134,3 +150,8 @@ is based on the arbitrage-free relationship between forward FX rates and the dis
 [Pubpub fx forward](https://david.pubpub.org/pub/6utrh10z/download/pdf)
 
 [Zenodo fx forward](https://zenodo.org/record/3928681/files/FxForwardCurve-8.pdf)
+
+[Gitlab fx forward](https://gitlab.com/timxiao1203/fxforwardpoints/-/raw/master/FxForwardCurve-8.pdf)
+
+[Bitbucket fx forward](https://bitbucket.org/timxiao1203/fxforwardpoint/downloads/FxForwardCurve-8.pdf)
+
