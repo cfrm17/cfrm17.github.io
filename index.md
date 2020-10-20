@@ -22,4 +22,7 @@ Managing the life cycle of a trade is the fundamental activity of exchanges, inv
 
 [More details](/faq.md) 
 
+### Financial Research
+Financial research involves using finanicla models, algorithms, analytics, and data to assess and forecast financial market trends, asset values, and risk.
 
+[More details](/paper.md) 

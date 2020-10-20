@@ -62,7 +62,7 @@ it just reduces the loss at the time of default. Collateral arrangement is an es
 
 More details at: [Link](/collateral-3.pdf)
 
-[PubHtml5 convertible](https://pubhtml5.com/noml/swvt/basic)
+[PubHtml5 collateral](https://pubhtml5.com/noml/swvt/basic)
 
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
 
@@ -229,7 +229,7 @@ More details at: [Link](/market-10.pdf)
 
 [Bitbucket market](https://bitbucket.org/cfrm17/market/downloads/market-10.pdf)
 
-[Github market](https://gitlab.com/cfrm171/market/-/raw/master/market-10.pdf)
+[Gitlab market](https://gitlab.com/cfrm171/market/-/raw/master/market-10.pdf)
 
 
 ### Market Risk Economic Capital 
