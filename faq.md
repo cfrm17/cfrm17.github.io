@@ -13,6 +13,10 @@ Trading system user account management is a process to manage client information
 
 [Zenodo account](https://zenodo.org/record/3929818/files/AccountLicense-1.pdf)
 
+[Gitlab account](https://gitlab.com/cfrm17/account/-/raw/master/AccountLicense-1.pdf)
+
+[Bitbucket account](https://bitbucket.org/cfrm17/account/downloads/AccountLicense-1.pdf)
+
 
 ### End of Day Process
 The EOD process can be performed manually, as well as automatically, as scheduled jobs through a job scheduler. The EOD jobs involved closing down daily 
@@ -27,6 +31,10 @@ activities, processing transactions and backing up all data.
 [Pubpub eod](https://david.pubpub.org/pub/fqgr4qtg/download/pdf)
 
 [Zenodo eod](https://zenodo.org/record/3929826/files/BatchJob-2.pdf)
+
+[Gitlab eod](https://gitlab.com/cfrm17/batch/-/raw/master/BatchJob-2.pdf)
+
+[Bitbucket eod](https://bitbucket.org/cfrm17/batch/downloads/BatchJob-2.pdf)
 
 
 ### Curve Construction Guide
@@ -44,6 +52,10 @@ as a benchmark for pricing and hedging.
 
 [Zenodo curve construction](https://zenodo.org/record/3929831/files/CurveConstruction-3.pdf)
 
+[Gitlab curve construction](https://gitlab.com/cfrm17/ircurve/-/raw/master/CurveConstruction-3.pdf)
+
+[Bitbucket curve construction](https://bitbucket.org/cfrm17/ircurve/downloads/CurveConstruction-3.pdf)
+
 
 ### Installation
 FinPricing is a capital market software system and solution that covers the entire transaction lifecycle for derivatives, securities and cash instruments, 
@@ -60,6 +72,10 @@ user guides and instructions on how to download and install FinPricing
 
 [Zenodo install](https://zenodo.org/record/3929835/files/DownloadInstall-4.pdf)
 
+[Gitlab install](https://gitlab.com/cfrm17/install/-/raw/master/DownloadInstall-4.pdf)
+
+[Bitbucket install](https://bitbucket.org/cfrm17/install/downloads/DownloadInstall-4.pdf)
+
 
 ### Back Office
 A back office is the portion of a company made up of administration and support personnel who are behind-the-scenes and not client-facing, while front 
@@ -75,6 +91,10 @@ regulatory compliance, accounting, and IT services.
 [Pubpub back office](https://david.pubpub.org/pub/sovvbl8h/download/pdf)
 
 [Zenodo back office](https://zenodo.org/record/3929839/files/ManageBackofficeEntity-5.pdf)
+
+[Gitlab back office](https://gitlab.com/cfrm17/backoffice/-/raw/master/ManageBackofficeEntity-5.pdf)
+
+[Bitbucket back office](https://bitbucket.org/cfrm17/backoffice/downloads/ManageBackofficeEntity-5.pdf)
 
 
 ### Back Office Function
