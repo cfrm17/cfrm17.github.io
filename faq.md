@@ -112,6 +112,10 @@ settlements, clearances, record maintenance, regulatory compliance, accounting, 
 
 [Zenodo back office function](https://zenodo.org/record/3930859/files/ManageBackofficeFunction-6.pdf)
 
+[Gitlab back office function](https://gitlab.com/cfrm17/backofficefunction/-/raw/master/ManageBackofficeFunction-6.pdf)
+
+[Bitbucket back office function](https://bitbucket.org/cfrm17/backofficefunction/downloads/ManageBackofficeFunction-6.pdf)
+
 
 ### Market Data Management
 Trading venues provide reports on various assets and financial instruments, which are then distributed to traders and firms. Market data is available 
@@ -128,6 +132,10 @@ market data is to get as much information about the asset you are planning to tr
 
 [Zenodo data](https://zenodo.org/record/3930863/files/ManageData-7.pdf)
 
+[Gitlab data](https://gitlab.com/cfrm17/managedata/-/raw/master/ManageData-7.pdf)
+
+[Bitbucket data](https://bitbucket.org/cfrm17/managedata/downloads/ManageData-7.pdf)
+
 
 ### Trade Life Cycle Part 1
 A trade, also called a deal, is an exchange of financial products from one entity to another. The life cycle of a trade is the fundamental activity 
@@ -142,6 +150,10 @@ of exchanges, investment banks, hedge funds, pension funds and many other financ
 [Pubpub lifecycle1](https://fixedincome.pubpub.org/pub/7e8lxrd0/download/pdf)
 
 [Zenodo lifecycle1](https://zenodo.org/record/3930936/files/TradeLifecycle1-8.pdf)
+
+[Gitlab lifecycle1](https://gitlab.com/cfrm17/tradelifecyclepart1/-/raw/master/TradeLifecycle1-8.pdf)
+
+[Bitbucket lifecycle1](https://bitbucket.org/cfrm17/tradelifecyclepart1/downloads/TradeLifecycle1-8.pdf)
 
 
 ### Trade Life Cycle Part 2
@@ -159,6 +171,10 @@ process. It also provides user guides and instructions on how to manage trade li
 
 [Zenodo lifecycle2](https://zenodo.org/record/3930943/files/TradeLifecycle2-9.pdf)
 
+[Gitlab lifecycle2](https://gitlab.com/cfrm17/tradelifecyclepart2/-/raw/master/TradeLifecycle2-9.pdf)
+
+[Bitbucket lifecycle2](https://bitbucket.org/cfrm17/tradelifecyclepart2/downloads/TradeLifecycle2-9.pdf)
+
 
 ### Trade Life Cycle Part 3
 Trade life cycle has different stages, by which a trade flows through. These detail steps are from the point of order, receipt, execution through 
@@ -175,3 +191,8 @@ life cycle process. It also provides user guides and instructions on how to mana
 [Pubpub lifecycle3](https://fixedincome.pubpub.org/pub/vqm85i3n/download/pdf)
 
 [Zenodo lifecycle3](https://zenodo.org/record/3930947/files/TradeLifecycle3-10.pdf)
+
+[Gitlab lifecycle3](https://gitlab.com/cfrm17/tradelifecyclepart3/-/raw/master/TradeLifecycle3-10.pdf)
+
+[Bitbucket lifecycle3](https://bitbucket.org/cfrm17/tradelifecyclepart3/downloads/TradeLifecycle3-10.pdf)
+
