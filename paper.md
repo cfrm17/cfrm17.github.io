@@ -38,6 +38,8 @@ More details at: [Link](/pricing-collateralized-derivatives-1-preprint.pdf)
 
 [Figshare collateral](https://figshare.com/articles/A_New_Model_for_Pricing_Collateralized_OTC_Derivatives/8226545/files/22974665.pdf)
 
+[Philpaper collateral](https://philarchive.org/archive/XIAANM-2)
+
 
 ### An Accurate Solution for Credit Valuation Adjustment (CVA) and Wrong Way Risk
 This paper presents a Least Square Monte Carlo approach for accurately calculating credit value adjustment (CVA). In contrast to previous studies, 
@@ -71,6 +73,8 @@ More details at: [Link](/cva-solution-2.pdf)
 [Econstor cva](https://www.econstor.eu/bitstream/10419/198046/1/cva-solution-2.pdf)
 
 [Figshare cva](https://figshare.com/articles/An_Accurate_Solution_for_Credit_Valuation_Adjustment_CVA_and_Wrong_Way_Risk/8259077/files/22974764.pdf)
+
+[Philpaper cva](https://philpapers.org/archive/XIAAAS.pdf)
 
 
 ### A Simple and Precise Method for Pricing Convertible Bond with Credit Risk
@@ -109,6 +113,8 @@ More details at: [Link](/pricing-convertible-bond-3.pdf)
 
 [Figshare convertible](https://figshare.com/articles/A_Simple_and_Precise_Method_for_Pricing_Convertible_Bond_with_Credit_Risk/8292215/files/22984094.pdf)
 
+[Philpaper convertible](https://philpapers.org/archive/XIAASA-2.pdf)
+
 
 ### AN EFFICIENT LATTICE ALGORITHM FOR THE LIBOR MARKET MODEL
 The LIBOR Market Model has become one of the most popular models for pricing interest rate products. It is commonly believed that Monte-Carlo 
@@ -142,6 +148,8 @@ More details at: [Link](/Lattice-in-LMM-4.pdf)
 [Figshare lmm](https://figshare.com/articles/AN_EFFICIENT_LATTICE_ALGORITHM_FOR_THE_LIBOR_MARKET_MODEL/8323430/files/23026811.pdf)
 
 [ScienceMedia lmm](http://science-media.org/userfiles/1020/papers/1020_paper_1186.pdf)
+
+[Philpaper lmm](https://philpapers.org/archive/XIAAEL.pdf)
 
 
 ### Is the Jump-Diffusion Model a Good Solution for Credit Risk Modeling? The Case of Convertible Bonds
@@ -179,6 +187,8 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [Figshare jump](https://figshare.com/articles/Is_the_Jump-Diffusion_Model_a_Good_Solution_for_Credit_Risk_Modeling_The_Case_of_Convertible_Bonds/8378858/files/23064137.pdf)
 
+[Philpaper jump](https://philpapers.org/archive/XIAITJ.pdf)
+
 
 ### An Economic Examination of Collateralization in Different Financial Markets
 This paper attempts to assess the economic significance and implications of collateralization in different financial markets, which is essentially a 
@@ -213,6 +223,8 @@ More details at: [Link](/examining-collateralization-6.pdf)
 
 [ScienceMedia exam](http://science-media.org/userfiles/1020/papers/1020_paper_1188.pdf)
 
+[Philpaper exam](https://philpapers.org/archive/XIAAEE.pdf)
+
 
 ### The Impact of Default Dependency and Collateralization on Asset Pricing and Credit Risk Modeling
 This article presents a comprehensive framework for valuing financial instruments subject to credit risk. In particular, we focus on the impact of 
@@ -244,6 +256,8 @@ More details at: [Link](/default-dependency-collateralization-7.pdf)
 [Figshare dependency](https://figshare.com/articles/The_Impact_of_Default_Dependency_and_Collateralization_on_Asset_Pricing_and_Credit_Risk_Modeling/8956958/files/16378208.pdf)
 
 [ScienceMedia dependency](http://science-media.org/userfiles/1020/papers/1020_paper_1189.pdf)
+
+[Philpaper dependency](https://philpapers.org/archive/XIATIO-6.pdf)
 
 
 ### Incremental Risk Charge Methodology
@@ -278,6 +292,8 @@ More details at: [Link](/IRC-Modeling-8.pdf)
 
 [ScienceMedia irc](http://science-media.org/userfiles/1020/papers/1020_paper_1190.pdf)
 
+[Philpaper irc](https://philpapers.org/archive/XIAIRC.pdf)
+
 
 ### Pricing Financial Derivatives Subject to Multilateral Credit Risk and Collateralization
 This article presents a new model for valuing financial contracts subject to credit risk and collateralization. Examples include the valuation of a 
@@ -310,6 +326,8 @@ More details at: [Link](/pricing-credit-risk-9.pdf)
 
 [pubhtml5 multiple](https://pubhtml5.com/noml/jnmv/basic)
 
+[Philpaper multiple](https://philpapers.org/archive/XIAPFD.pdf)
+
 
 ### Bilateral Defaultable Financial Derivatives Pricing and Credit Valuation Adjustment
 The one-side defaultable financial derivatives valuation problems have been studied extensively, but the valuation of bilateral derivatives with 
@@ -340,7 +358,9 @@ More details at: [Link](/valuing-defaultable-derivatives-10.pdf)
 
 [Figshare bilateral](https://figshare.com/articles/Bilateral_Defaultable_Financial_Derivatives_Pricing_and_Credit_Valuation_Adjustment/12491990/files/23170082.pdf)
 
-[ScienceMedia bilateral](ttp://science-media.org/userfiles/1020/papers/1020_paper_1193.pdf)
+[ScienceMedia bilateral](http://science-media.org/userfiles/1020/papers/1020_paper_1193.pdf)
+
+[Philpaper bilateral](https://philpapers.org/archive/XIABDF.pdf)
 
 
 ### The Valuation of Interest Rate Swap with Bilateral Counterparty Risk 
@@ -373,6 +393,8 @@ More details at: [Link](/defaultable-swap-valuation-11.pdf)
 
 [ScienceMedia swap](http://science-media.org/userfiles/1020/papers/1020_paper_1194.pdf)
 
+[Philpaper swap](https://philpapers.org/archive/XIATVO.pdf)
+
 
 ### The Valuation of Credit Default Swap with Counterparty Risk and Collateralization
 This article presents a new model for valuing a credit default swap (CDS) contract that is affected by multiple credit risks of the buyer, seller 
@@ -403,6 +425,8 @@ More details at: [Link](/pricing-defaultable-cds-12.pdf)
 [Figshare cds](https://figshare.com/articles/The_Valuation_of_Credit_Default_Swap_with_Counterparty_Risk_and_Collateralization/12497342/files/23184398.pdf)
 
 [ScienceMedia cds](http://science-media.org/userfiles/1020/papers/1020_paper_1195.pdf)
+
+[Philpaper cds](https://philpapers.org/archive/XIATVO-2.pdf)
 
 
 ### The Valuation of Financial Derivatives Subject to Counterparty Risk and Credit Value Adjustment
@@ -435,5 +459,7 @@ More details at: [Link](/derivativeCVA -13.pdf)
 [Figshare derivative cva](https://figshare.com/articles/The_Valuation_of_Financial_Derivatives_Subject_to_Counterparty_Risk_and_Credit_Value_Adjustment/12497423/files/23184656.pdf)
 
 [ScienceMedia derivative cva](http://science-media.org/userfiles/1020/papers/1020_paper_1196.pdf)
+
+[Philpaper derivative cva](https://philpapers.org/archive/XIATVO-3.pdf)
 
 
