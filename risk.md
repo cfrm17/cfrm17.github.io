@@ -101,6 +101,8 @@ More details at: [Link](/cva-4.pdf)
 
 [Zenodo cva](https://zenodo.org/record/4016321/files/cva-4.pdf)
 
+[Hcommon cva](https://hcommons.org/deposits/download/hc:32984/CONTENT/cva-4.pdf)
+
 
 ### Funding Valuation Adjustment
 Funding Valuation Adjustment (FVA) is introduced to capture the incremental costs of funding uncollateralized derivatives. It can be referred to as the 
