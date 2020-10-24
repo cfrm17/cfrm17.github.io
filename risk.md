@@ -26,6 +26,8 @@ More details at: [Link](/ccr-1.pdf)
 
 [Zenodo ccr](https://zenodo.org/record/4016295/files/ccr-1.pdf)
 
+[ScienceMedia ccr](http://science-media.org/userfiles/1020/presentations/1020_presentation_432.pdf)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -54,6 +56,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 
 [Zenodo ccr simulation](https://zenodo.org/record/4016304/files/ccrSimulation-2.pdf)
 
+[ScienceMedia ccr simulation](http://science-media.org/userfiles/1020/presentations/1020_presentation_433.pdf)
+
 
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
@@ -75,6 +79,8 @@ More details at: [Link](/collateral-3.pdf)
 [Pubpub collateral](https://interestrate.pubpub.org/pub/qi11f8gf/download/pdf)
 
 [Zenodo collateral](https://zenodo.org/record/4016310/files/collateral-3.pdf)
+
+[ScienceMedia collateral](http://science-media.org/userfiles/1020/presentations/1020_presentation_434.pdf)
 
 
 ### Credit Valuation Adjustment
@@ -102,6 +108,8 @@ More details at: [Link](/cva-4.pdf)
 [Zenodo cva](https://zenodo.org/record/4016321/files/cva-4.pdf)
 
 [Hcommon cva](https://hcommons.org/deposits/download/hc:32984/CONTENT/cva-4.pdf)
+
+[ScienceMedia cva](http://science-media.org/userfiles/1020/presentations/1020_presentation_436.pdf)
 
 
 ### Funding Valuation Adjustment
