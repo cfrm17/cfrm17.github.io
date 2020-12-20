@@ -155,3 +155,48 @@ is based on the arbitrage-free relationship between forward FX rates and the dis
 
 [Bitbucket fx forward](https://bitbucket.org/timxiao1203/fxforwardpoint/downloads/FxForwardCurve-8.pdf)
 
+
+### Inflation Curve
+Inflation curve or inflation forward curve is also called Consumer Price Index (CPI) curve that is the term structures of CPI rates is defined as 
+the relationship between CPI and different terms. The popular indices are Euro HICPxT, UK RPI, and US CPI.
+
+[More details](/IrInflationCurve-9.pdf)
+
+
+
+### Inflation Linked Bond Curve
+Inflation indexed bonds, also called inflation linked bonds or real return bonds, are bonds where the principal is indexed to inflation or deflation 
+on a daily basis in terms of a reference index, such as Consumer Price Index (CPI). The primary purpose of these bonds is the transfer of inflation risk.
+
+[More details](/FiInflationBondCurve-10.pdf)
+
+
+### Treasury Benchmark Curve
+Treasury curve or treasury benchmark curve is the term structures of treasury bill/bond prices vs maturities. The two major types of marketable 
+securities issued by government are treasury bills and treasury bonds.
+
+[More details](/FiTreasuryCurve-11.pdf)
+
+
+### Treasury Yield Curve
+Treasury yield curve or treasury zero coupon yield curve is the term structures of treasury yields-to-maturity. The yield is also called the zero 
+coupon rate or the implied forward rate.
+
+[More details](/FiTreasuryYieldCurve-12.pdf)
+
+
+### SIFMA Municipal Swap Index Curve 
+SIFMA (Securities Industry and Financial Markets Association) is a trading organization in US. The SIFMA Municipal Swap Index, formerly the Bond 
+Market Association Index, is a market index composed of tax-exempt variable rate demand obligations (VRDOs). VRDOs are municipal bonds with floating 
+interest rates. The SIFMA index is issued weekly. 
+
+[More details](/FiSifmaCurve-13.pdf)
+
+
+### Cross Currency Basis Curve
+Cross currency swap differs from single currency swaps in that the interest rate payments on the two legs are in different currencies. At inception 
+of the trade, the notional principal amounts in the two currencies are usually set to be fair given the spot exchange rate. Contrary to single 
+currency swap, there is an exchange of principals at inception and maturity, or even in each period of the swap.
+
+[More details](/IrXccyBasisCurve-14.pdf)
+
