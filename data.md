@@ -162,6 +162,10 @@ the relationship between CPI and different terms. The popular indices are Euro H
 
 [More details](/IrInflationCurve-9.pdf)
 
+[Zenodo inflation curve](https://zenodo.org/record/4299095/files/IrInflationCurve-9.pdf)
+
+[FlipHtml5 inflation curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN3gDNyMTPkl0av9mY)
+
 
 
 ### Inflation Linked Bond Curve
@@ -170,6 +174,10 @@ on a daily basis in terms of a reference index, such as Consumer Price Index (CP
 
 [More details](/FiInflationBondCurve-10.pdf)
 
+[Zenodo inflation bond curve](https://zenodo.org/record/4299106/files/FiInflationBondCurve-10.pdf)
+
+[FlipHtml5 inflation bond curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTO3gDNyMTPkl0av9mY)
+
 
 ### Treasury Benchmark Curve
 Treasury curve or treasury benchmark curve is the term structures of treasury bill/bond prices vs maturities. The two major types of marketable 
@@ -177,12 +185,20 @@ securities issued by government are treasury bills and treasury bonds.
 
 [More details](/FiTreasuryCurve-11.pdf)
 
+[Zenodo treasury curve](https://zenodo.org/record/4299113/files/FiTreasuryCurve-11.pdf)
+
+[FlipHtml5 treasury curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTM4gDNyMTPkl0av9mY)
+
 
 ### Treasury Yield Curve
 Treasury yield curve or treasury zero coupon yield curve is the term structures of treasury yields-to-maturity. The yield is also called the zero 
 coupon rate or the implied forward rate.
 
 [More details](/FiTreasuryYieldCurve-12.pdf)
+
+[Zenodo treasury yield curve](https://zenodo.org/record/4299119/files/FiTreasuryYieldCurve-12.pdf)
+
+[FlipHtml5 treasury yield curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjM4gDNyMTPkl0av9mY)
 
 
 ### SIFMA Municipal Swap Index Curve 
@@ -192,6 +208,10 @@ interest rates. The SIFMA index is issued weekly.
 
 [More details](/FiSifmaCurve-13.pdf)
 
+[Zenodo sifma curve](https://zenodo.org/record/4313794/files/FiSifmaCurve-13.pdf)
+
+[FlipHtml5 sifma curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTO5ADMzMTPkl0av9mY)
+
 
 ### Cross Currency Basis Curve
 Cross currency swap differs from single currency swaps in that the interest rate payments on the two legs are in different currencies. At inception 
@@ -199,4 +219,8 @@ of the trade, the notional principal amounts in the two currencies are usually s
 currency swap, there is an exchange of principals at inception and maturity, or even in each period of the swap.
 
 [More details](/IrXccyBasisCurve-14.pdf)
+
+[Zenodo xccy curve](https://zenodo.org/record/4313815/files/IrXccyBasisCurve-14.pdf)
+
+[FlipHtml5 xccy curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUDMwEDMzMTPkl0av9mY)
 
