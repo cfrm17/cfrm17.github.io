@@ -220,7 +220,21 @@ currency swap, there is an exchange of principals at inception and maturity, or 
 
 [More details](/IrXccyBasisCurve-14.pdf)
 
-[Zenodo xccy curve](https://zenodo.org/record/4313815/files/IrXccyBasisCurve-14.pdf)
+[Zenodo cross currency basis curve](https://zenodo.org/record/4313815/files/IrXccyBasisCurve-14.pdf)
 
-[FlipHtml5 xccy curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUDMwEDMzMTPkl0av9mY)
+[FlipHtml5 cross currency basis curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUDMwEDMzMTPkl0av9mY)
+
+
+### Precious Metal Implied Volatility
+Precious metals are trading commodities. But a precious metal quote is very similar to a Forex quote. The quote is represented in the same way as a quote 
+for a currency pair. For instance, the spot gold traded against the US dollar is XAU/USD.
+
+An implied volatility is the volatility implied by the market price of an option based on the Black-Scholes option pricing model. A volatility surface 
+is derived from quoted volatilities that provides a way to interpolate an implied volatility at any strike and maturity.
+
+[More details](/CmcPreciousMetalVol-15.pdf)
+
+[Zenodo precious metal vol](https://zenodo.org/record/4407401/files/CmcPreciousMetalVol-15.pdf)
+
+[FlipHtml5 precious metal vol](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjN3ATOzMTPkl0av9mY)
 
