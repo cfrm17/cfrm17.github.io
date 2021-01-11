@@ -19,6 +19,8 @@ making the swap term structure a more efficient hedging and pricing vehicle.
 
 [Bitbucket yield curve](https://bitbucket.org/timxiao1203/ircurveintroduction/downloads/IrCurveIntroduction-1.pdf)
 
+[Hcommons yield curve](https://hcommons.org/deposits/download/hc:33676/CONTENT/ircurveintroduction-1.pdf)
+
 
 ### Yield Curve Construction
 Yield curves are derived or bootstrapped from observed market instruments that represent the most liquid and dominant interest rate products for 

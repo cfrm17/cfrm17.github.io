@@ -28,6 +28,8 @@ More details at: [Link](/ccr-1.pdf)
 
 [ScienceMedia ccr](http://science-media.org/userfiles/1020/presentations/1020_presentation_432.pdf)
 
+[Archive ccr](https://ia600105.us.archive.org/18/items/alex_Ccr/ccr-1.pdf)
+
 
 ### Counterparty Credit Risk Simulation Methodology
 Counterparty credit risk (CCR) is the risk of loss that will be incurred in the event of default by a counterparty. It will be incurred in the event of 
@@ -57,6 +59,8 @@ More details at: [Link](/ccrSimulation-2.pdf)
 [Zenodo ccr simulation](https://zenodo.org/record/4016304/files/ccrSimulation-2.pdf)
 
 [ScienceMedia ccr simulation](http://science-media.org/userfiles/1020/presentations/1020_presentation_433.pdf)
+
+[Archive ccr simulation](https://ia801006.us.archive.org/24/items/ccrSimulation/ccrSimulation-2.pdf)
 
 
 ### Collateral Management
@@ -136,6 +140,8 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [Gitlab fva](https://gitlab.com/cfrm171/fva/-/raw/master/cvaFva-5.pdf)
 
+[ScienceMedia fva](https://science-media.org/userfiles/1020/presentations/1020_presentation_466.pdf)
+
 
 ### FRTB Standarlized Approach
 The Fundamental Review of the Trading Book (FRTB) is a new Basel committee framework for the next generation market risk regulatory capital rules. It is 
@@ -157,6 +163,8 @@ More details at: [Link](/frtbSa-6.pdf)
 [bitbucket frtb](https://bitbucket.org/cfrm17/frtb/downloads/frtbSa-6.pdf)
 
 [Gitlab frtb](https://gitlab.com/cfrm171/frtb/-/raw/master/frtbSa-6.pdf)
+
+[ScienceMedia frtb](https://science-media.org/userfiles/1020/presentations/1020_presentation_467.pdf)
 
 
 ### Historical VaR
