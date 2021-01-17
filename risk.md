@@ -1,10 +1,22 @@
 ## Risk Management
 
 ### Counterparty Credit Risk
+Counterparty credit risk (CCR) refers to the risk that a counterparty to a bilateral financial derivative contract may fail to fulfill its contractual 
+obligation causing financial loss to the non-defaulting party. It will be incurred in the event of default by a counterparty.
+
 Counterparty credit risk measurement is credit exposure (CE). It is the cost of replacing or hedging a contract at the time of default. Other measures 
 include Potential future exposure (PFE), Expected exposure (EE), Expected Positive Exposure (EPE), Effective expected exposure (EEE), Effective EPE, 
 Exposure at default or EAD. This presentation is intended to answer several fundamental questions: what is CCR? How to measure CCR? What are the provisions 
 governing counterparty risk?
+
+If one party of a contract defaults, the non-defaulting party will find a similar contract with another counterparty in the market to replace the 
+default one. That is why counterparty credit risk sometimes is referred to as replacement risk.
+
+Only over-the-counter (OTC) derivatives and financial security transactions (e.g., repo) are subject to counterparty risk. If one party of a contract 
+defaults, the non-defaulting party will find a similar contract with another counterparty in the market to replace the default one. That is why 
+counterparty credit risk sometimes is referred as replacement risk. The replacement risk is the MTM value of a counterparty portfolio at the 
+time of the counterparty default.
+
 
 More details at: [Link](/ccr-1.pdf)
 
@@ -38,6 +50,10 @@ If one party of a contract defaults, the non-defaulting party will find a simila
 default one. That is why counterparty credit risk sometimes is referred as replacement risk. The replacement risk is the MTM value of a counterparty 
 portfolio at the time of the counterparty default.
 
+Counterparty credit risk measure is credit exposure. As credit exposures in future are stochastic, one needs to simulate market evolution in order 
+to quantify CCR. This presentation provides some details about CCR simulation.
+
+
 More details at: [Link](/ccrSimulation-2.pdf)
 
 [PubHtml5 cva](https://pubhtml5.com/noml/ihcx/basic)
@@ -66,7 +82,16 @@ More details at: [Link](/ccrSimulation-2.pdf)
 ### Collateral Management
 Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool 
 that mitigates risk by reducing credit exposure. Collateral doesn’t turn a bad counterparty into a good one and doesn’t eliminate credit risk. Instead, 
-it just reduces the loss at the time of default. Collateral arrangement is an essential element in the plumbing of the financial system. 
+it just reduces the loss at the time of default. Collateral arrangement is an essential element in the plumbing of the financial system.
+
+In the derivatives world, collateral posting is a risk reduction tool that mitigates risk by reducing credit exposure. It allows financial institutions 
+to reduce economic capital and credit risk, free up lines of credit, and expand the range of counterparties. All of these factors contribute to the 
+growth of financial markets. The benefits are broadly acknowledged and affect dealers and end users, as well as the financial system generally.  
+
+The Bankruptcy code affords special treatment to financial derivative contracts that allows counterparties to terminate derivative contracts with a 
+debtor in bankruptcy and seize the underlying collaterals. This presentation gives an overview of collateral arrangement in the derivatives market. 
+It also illustrates how collateral management impact valuation and counterparty credit risk.  
+
 
 More details at: [Link](/collateral-3.pdf)
 
@@ -86,12 +111,24 @@ More details at: [Link](/collateral-3.pdf)
 
 [ScienceMedia collateral](http://science-media.org/userfiles/1020/presentations/1020_presentation_434.pdf)
 
+[Archive collateral](https://ia803105.us.archive.org/8/items/collateral_201804/collateral-3.pdf)
+
 
 ### Credit Valuation Adjustment
 Credit value adjustment (CVA) is the market price of counterparty credit risk that has become a central part of counterparty credit risk management.  
 By definition, CVA is the difference between the risk-free portfolio value and the true/risky portfolio value. CVA not only allows institutions to quantify 
 counterparty risk as a single measurable P&L number, but also offers an opportunity for banks to dynamically manage, price, and hedge counterparty risk. 
 The benefits of CVA are widely acknowledged. Many banks have set up internal credit risk trading desks to manage counterparty risk on derivatives.
+
+CVA not only allows institutions to quantify counterparty risk as a single measurable P&L number, but also offers an opportunity for banks to dynamically 
+manage, price, and hedge counterparty risk. The benefits of CVA are widely acknowledged. Many banks have set up internal credit risk trading desks 
+to manage counterparty risk on derivatives. 
+
+CVA, by definition, is the difference between the risk-free portfolio value and the true (or risky or defaultable) portfolio value that takes into 
+account the possibility of a counterparty’s default. The risk-free portfolio value is what brokers quote or what trading systems or models normally 
+report. The risky portfolio value, however, is a relatively less explored and less transparent area, which is the main challenge and core theme for CVA. 
+In other words, central to CVA is risky valuation.
+
 
 More details at: [Link](/cva-4.pdf)
 
@@ -115,12 +152,20 @@ More details at: [Link](/cva-4.pdf)
 
 [ScienceMedia cva](http://science-media.org/userfiles/1020/presentations/1020_presentation_436.pdf)
 
+[Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
+
 
 ### Funding Valuation Adjustment
 Funding Valuation Adjustment (FVA) is introduced to capture the incremental costs of funding uncollateralized derivatives. It can be referred to as the 
 difference between the rate paid for the collateral to the bank’s treasury and rate paid by the clearinghouse. Also FVA can be thought of as a hedging 
 cost or benefit arising from the mismatch between an uncollateralized client trade and a collateralized hedge in the interdealer market. FVA should be 
 also calculated at portfolio level.
+
+FVA is the cost of funding that is considered in the valuation of uncollateralized derivatives. It is introduced to quantify the adjustment to the 
+value of derivatives in order to ensure that a trader recovers funding costs that are consistent with the market’s view of the funding costs associated 
+with the same trade. This presentation elaborates an integrated framework for calculating both CVA and FVA. We also discuss the pros and cons of comparing 
+the popular credit exposure approach and the more accurate least square Monte Carlo approach. 
+
 
 More details at: [Link](/cvaFva-5.pdf)
 
@@ -142,11 +187,18 @@ More details at: [Link](/cvaFva-5.pdf)
 
 [ScienceMedia fva](https://science-media.org/userfiles/1020/presentations/1020_presentation_466.pdf)
 
+[Archive fva](https://ia801009.us.archive.org/21/items/cvaFva/cvaFva-5.pdf)
+
 
 ### FRTB Standarlized Approach
 The Fundamental Review of the Trading Book (FRTB) is a new Basel committee framework for the next generation market risk regulatory capital rules. It is 
 inspired by the undercapitalisation of trading book exposures witnessed during the financial crisis. FRTB aims to address shortcoming of the current Basel 
 2.5 market risk capital framework.
+
+FRTB provides a clear definition of the boundary between the trading book and the banking book. It consists of an overhaul of the internal model 
+approach (IMA) to focus on tail risk and an overhaul of the standardized approach (SA) to make it more risk sensitive. Each approach also explicitly 
+captures default risk and other residual risks. Liquidity risk is explicitly included for different asset classes via liquidity horizons.
+ 
 
 More details at: [Link](/frtbSa-6.pdf)
 
@@ -166,12 +218,16 @@ More details at: [Link](/frtbSa-6.pdf)
 
 [ScienceMedia frtb](https://science-media.org/userfiles/1020/presentations/1020_presentation_467.pdf)
 
+[Archive frtb](https:////ia601407.us.archive.org/28/items/frtbSa-6/frtbSa-6.pdf)
+
 
 ### Historical VaR
 Value at Risk (VaR) is the regulatory measurement for assessing market risk. It reports the maximum likely loss on a portfolio for a given probability defined 
 as x% confidence level over N days. VaR is vital in market risk management and control. Also regulatory and economic capital computation is based on VaR results. 
 Although VaR measure is objective and intuitive, it doesn’t capture tail risk. There are three commonly used methodologies to calculate VaR – parametric, 
-historical simulation and Monte Carlo simulation. This presentation focuses on historical VaR.  
+historical simulation and Monte Carlo simulation. This section focuses on historical VaR.  
+
+
 
 More details at: [Link](/HistoricalVaR-7.pdf)
 
@@ -189,11 +245,19 @@ More details at: [Link](/HistoricalVaR-7.pdf)
 
 [Gitlab historical var](https://gitlab.com/cfrm171/historicalvar/-/raw/master/HistoricalVaR-7.pdf)
 
+[ScienceMedia historical var](https://science-media.org/userfiles/1020/presentations/1020_presentation_468.pdf)
+
+[Archive historical var](https://ia801502.us.archive.org/15/items/historical-va-r-7/HistoricalVaR-7.pdf)
+
 
 ### Initial Margin
 Initial Margin (IM) is the amount of collateral required to open a position with a broker or an exchange or a bank. The Standard Initial Margin Model (SIMM) 
 is very likely to become the market standard. It is designed to provide a common methodology for calculating initial margin for uncleared OTC derivatives. 
 Initial margin calculation is counterparty-portfolio-based. Given this standardized approach, counterparties can easily reconcile the results. 
+
+Initial margin calculation is counterparty-portfolio-based. It applies to non-cleared OTC derivatives only. Derivative trades belonging to a counterparty 
+will be divided into cleared-trade portfolio and non-cleared-trade portfolio. The initial margin is computed for the non-cleared portfolio. 
+
 
 More details at: [Link](/initialMargin-8.pdf)
 
@@ -211,10 +275,32 @@ More details at: [Link](/initialMargin-8.pdf)
 
 [Gitlab simm](https://gitlab.com/cfrm171/simm/-/raw/master/initialMargin-8.pdf)
 
+[ScienceMedia simm](https://science-media.org/userfiles/1020/presentations/1020_presentation_469.pdf)
+
+[Archive simm](https://ia801501.us.archive.org/28/items/initialMargin-8/initialMargin-8.pdf)
+
+
 
 ### Incremental Risk Charge
 The incremental risk charge (IRC) is a regulatory requirement from the Basel Committee in response to the financial crisis. It supplements existing Value-at-Risk 
 (VaR) and captures the loss due to default and migration events at a 99.9% confidence level over a one-year capital horizon. 
+
+The liquidity of a position is explicitly modeled in IRC through liquidity horizon and constant level of risk. The constant level of risk is a new concept 
+in IRC. It assumes banks hold portfolio constant over a liquidity horizon. At the beginning of the next horizon, they rebalance any default, downgraded, 
+or upgraded positions and roll over any matured trades. This presentation describes methodology and implementation details of IRC. 
+
+The Basel Committee on Banking Supervision (see Basel [2009 a]) released the new guidelines for Incremental Risk Charge (IRC) that are part of the new 
+rules developed in response to the financial crisis and is a key part of a series of regulatory enhancements being rolled out by regulators.
+
+IRC supplements existing Value-at-Risk (VaR) and captures the loss due to default and migration events at a 99.9% confidence level over a one-year 
+capital horizon. The liquidity of position is explicitly modeled in IRC through liquidity horizon and constant level of risk.
+
+The constant level of risk assumption in IRC reflects the view that securities and derivatives held in the trading book are generally more liquid than 
+those in the banking book and may be rebalanced more frequently than once a year.  IRC should assume a constant level of risk over 
+a one-year capital horizon which may contain shorter liquidity horizons. This constant level of risk assumption implies that a bank would rebalance, 
+or rollover, its positions over the one-year capital horizon in a manner that maintains the initial risk level, as indicated by the profile of exposure 
+by credit rating and concentration.
+
 
 More details at: [Link](/irc-9.pdf)
 
@@ -230,10 +316,17 @@ More details at: [Link](/irc-9.pdf)
 
 [Gitlab irc](https://gitlab.com/cfrm171/irc/-/raw/master/irc-9.pdf)
 
+[Archive irc](https://ia601401.us.archive.org/13/items/irc-9/irc-9.pdf)
+
+
 
 ### Financial Market
 A financial market is a market where people trade financial products. Typical financial markets are the fixed income and interest rate market, the currency market, 
 the equity market, the commodity market and the credit market. 
+
+One of the central tenets of financial economics is the necessity of some trade off between risk and expected return. This presentation gives an overview 
+of financial market basics. Click the links below for details.
+
 
 More details at: [Link](/market-10.pdf)
 
@@ -248,6 +341,8 @@ More details at: [Link](/market-10.pdf)
 [Bitbucket market](https://bitbucket.org/cfrm17/market/downloads/market-10.pdf)
 
 [Gitlab market](https://gitlab.com/cfrm171/market/-/raw/master/market-10.pdf)
+
+[Archive market](https://ia801000.us.archive.org/29/items/market_20180417/market-10.pdf)
 
 
 ### Market Risk Economic Capital 
