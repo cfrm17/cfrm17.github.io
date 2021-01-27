@@ -20,6 +20,16 @@ time of the counterparty default.
 
 More details at: [Link](/ccr-1.pdf)
 
+[Pub ccr](https://interestrate.pubpub.org/pub/22fdjmi8)
+
+[Pub ccr pdf](https://assets.pubpub.org/l7qmf5sa/01598705440961.pdf)
+
+[Authorstream ccr](http://www.authorstream.com/Presentation/tommills-4394404-counterparty-credit-risk-introduction/)
+
+[Powershow ccr](https://www.powershow.com/view0/90bf55-NjVkZ/Counterparty_Credit_Risk_Computation_powerpoint_ppt_presentation)
+
+[Slideserve ccr](https://www.slideserve.com/davidxiao/counterparty-credit-risk-powerpoint-ppt-presentation)
+
 [PubHtml5 collateral](https://pubhtml5.com/noml/vrdb/basic)
 
 [ScienceMedia collateral](http://science-media.org/userfiles/1020/papers/1020_paper_1183.pdf)
@@ -34,7 +44,7 @@ More details at: [Link](/ccr-1.pdf)
 
 [Github ccr](https://github.com/cfrm17/ccr/raw/master/ccr-1.pdf)
 
-[Pubpub ccr](https://interestrate.pubpub.org/pub/22fdjmi8/download/pdf)
+[Pubpub ccr txt](https://interestrate.pubpub.org/pub/22fdjmi8/download/pdf)
 
 [Zenodo ccr](https://zenodo.org/record/4016295/files/ccr-1.pdf)
 
@@ -55,6 +65,16 @@ to quantify CCR. This presentation provides some details about CCR simulation.
 
 
 More details at: [Link](/ccrSimulation-2.pdf)
+
+[Pub ccr sim](https://interestrate.pubpub.org/pub/uv7fnc6p)
+
+[Pub ccr sim pdf](https://assets.pubpub.org/3d8smglr/51598705809692.pdf)
+
+[Authorstream ccr sim](http://www.authorstream.com/Presentation/tommills-4394407-credit-risk-simulation-methodology/)
+
+[Powershow ccr sim](https://www.powershow.com/view0/90bf56-M2NiY/Credit_Risk_Simulation_Model_powerpoint_ppt_presentation)
+
+[Slideserve ccr sim](https://www.slideserve.com/davidxiao/counterparty-credit-risk-simulation-methodology-powerpoint-ppt-presentation)
 
 [PubHtml5 cva](https://pubhtml5.com/noml/ihcx/basic)
 
@@ -95,6 +115,16 @@ It also illustrates how collateral management impact valuation and counterparty 
 
 More details at: [Link](/collateral-3.pdf)
 
+[Pub col](https://interestrate.pubpub.org/pub/qi11f8gf)
+
+[Pub col pdf](https://assets.pubpub.org/r4v9jytz/11598709246717.pdf)
+
+[Authorstream collateral](https://assets.pubpub.org/r4v9jytz/11598709246717.pdf)
+
+[Powershow collateral](http://www.authorstream.com/Presentation/tommills-4394409-collateral-management/)
+
+[Slideserve collateral](https://www.slideserve.com/davidxiao/collateral-management-powerpoint-ppt-presentation)
+
 [PubHtml5 collateral](https://pubhtml5.com/noml/swvt/basic)
 
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
@@ -131,6 +161,16 @@ In other words, central to CVA is risky valuation.
 
 
 More details at: [Link](/cva-4.pdf)
+
+[Pub cva home](https://interestrate.pubpub.org/pub/tjzhcqez)
+
+[Pub cva pdf](https://assets.pubpub.org/aocf2qy5/21598709554191.pdf)
+
+[Authorstream cva](http://www.authorstream.com/Presentation/tommills-4395428-credit-valuation-adjustment/)
+
+[Powershow cva](https://www.powershow.com/view0/90c16e-YmQ1M/Credit_Valuation_Adjustment_powerpoint_ppt_presentation)
+
+[Slideserve cva](https://www.slideserve.com/davidxiao/credit-valuation-adjustment-cva-powerpoint-ppt-presentation)
 
 [PubHtml5 lmm](https://pubhtml5.com/noml/evsz/basic)
 
@@ -169,6 +209,20 @@ the popular credit exposure approach and the more accurate least square Monte Ca
 
 More details at: [Link](/cvaFva-5.pdf)
 
+[Pub fva home](https://interestrate.pubpub.org/pub/ozumceme)
+
+[Pub fva pdf](https://assets.pubpub.org/0zt6yman/51598723652925.pdf)
+
+[Authorstream fva](http://www.authorstream.com/Presentation/tommills-4395431-funding-valuation-adjustment/)
+
+[Hcommon fva](https://hcommons.org/deposits/download/hc:33096/CONTENT/cvafva-5.pdf)
+
+[Pub fva home](https://interestrate.pubpub.org/pub/ozumceme)
+
+[Pub fva pdf](https://assets.pubpub.org/0zt6yman/51598723652925.pdf)
+
+[Authorstream fva](http://www.authorstream.com/Presentation/tommills-4395431-funding-valuation-adjustment/)
+
 [PubHtml5 jump](https://pubhtml5.com/noml/jfjo/basic)
 
 [FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
@@ -202,6 +256,14 @@ captures default risk and other residual risks. Liquidity risk is explicitly inc
 
 More details at: [Link](/frtbSa-6.pdf)
 
+[Pub frtb home](https://interestrate.pubpub.org/pub/w33dt1rs)
+
+[Pub frtb pdf](https://assets.pubpub.org/lrv4ks4q/01598723913093.pdf)
+
+[Authorstream frtb](http://www.authorstream.com/Presentation/tommills-4397625-fundamental-review-trading-book/)
+
+[Hcommon frtb](https://hcommons.org/deposits/download/hc:33098/CONTENT/frtbsa-6.pdf)
+
 [PubHtml5 exam](https://pubhtml5.com/noml/snjn/basic)
 
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
@@ -230,6 +292,14 @@ historical simulation and Monte Carlo simulation. This section focuses on histor
 
 
 More details at: [Link](/HistoricalVaR-7.pdf)
+
+[Pubpub histovar home](https://interestrate.pubpub.org/pub/116rqssv/release/1)
+
+[Pubpub histovar pdf](https://assets.pubpub.org/4u9agnc5/01599313202010.pdf)
+
+[Authorstream histovar](http://www.authorstream.com/Presentation/tommills-4397626-historical-value-risk-introduction/)
+
+[Hcommon histovar](https://hcommons.org/deposits/download/hc:33480/CONTENT/historicalvar-7.pdf)
 
 [PubHtml5 dependency](https://pubhtml5.com/noml/czqz/basic)
 
@@ -260,6 +330,14 @@ will be divided into cleared-trade portfolio and non-cleared-trade portfolio. Th
 
 
 More details at: [Link](/initialMargin-8.pdf)
+
+[Pubpub simm home](https://interestrate.pubpub.org/pub/wushuobx/release/1)
+
+[Pubpub simm pdf](https://assets.pubpub.org/dvdo34s1/61599313482128.pdf)
+
+[Authorstream simm](http://www.authorstream.com/Presentation/tommills-3421694-standard-initial-margin-model-simm-methodology/)
+
+[Hcommon simm](https://hcommons.org/deposits/download/hc:33508/CONTENT/initialmargin-8.pdf)
 
 [PubHtml5 irc](https://pubhtml5.com/noml/hqie/basic)
 
@@ -304,6 +382,14 @@ by credit rating and concentration.
 
 More details at: [Link](/irc-9.pdf)
 
+[Pubpub irc home](https://interestrate.pubpub.org/pub/469v839f/release/1)
+
+[Pubpub irc pdf](https://assets.pubpub.org/z66vbt2h/31599313871841.pdf)
+
+[Authorstream irc](http://www.authorstream.com/Presentation/tommills-4397631-incremental-risk-charge-irc-introduction/)
+
+[Hcommon irc](https://hcommons.org/deposits/download/hc:33530/CONTENT/irc-9.pdf)
+
 [FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
 [Github irc](https://github.com/cfrm17/irc/raw/main/irc-9.pdf)
@@ -330,6 +416,14 @@ of financial market basics. Click the links below for details.
 
 More details at: [Link](/market-10.pdf)
 
+[Pubpub market home](https://interestrate.pubpub.org/pub/hd1pqked/release/1)
+
+[Pubpub market pdf](https://assets.pubpub.org/jguugo0r/21599314143214.pdf)
+
+[Authorstream market](http://www.authorstream.com/Presentation/tommills-4404325-financial-market-basics/)
+
+[Hcommon market](https://hcommons.org/deposits/download/hc:33532/CONTENT/market-10.pdf)
+
 [FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
 
 [Github market](https://github.com/cfrm17/market/raw/main/market-10.pdf)
@@ -354,6 +448,19 @@ between economic capital and regulatory capital? How to compute economic capital
 
 More details at: [Link](/mrEc-11.pdf)
 
+ 					<li style="font-size:16px"><a href="">pub MREC</a></li>
+					<li style="font-size:16px"><a href="">Pub mrec pdf</a></li>
+ 					<li style="font-size:16px"><a href="">authorstream MREC</a></li>					
+					<li style="font-size:16px"><a href="">Hcommons mrec</a></li>
+
+[Pubpub mrec home](https://interestrate.pubpub.org/pub/r47dfv0a/release/1)
+
+[Pubpub mrec pdf](https://assets.pubpub.org/v0rcak2u/01599314367878.pdf)
+
+[Authorstream mrec](http://www.authorstream.com/Presentation/tommills-4404333-market-risk-economic-capital-introduction/)
+
+[Hcommon mrec](https://hcommons.org/deposits/download/hc:33534/CONTENT/mrec-11.pdf)
+
 [FlipHtml5 mrec](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
 
 [Github mrec](https://github.com/cfrm17/mrec/raw/main/mrEc-11.pdf)
@@ -375,6 +482,14 @@ historical simulation and Monte Carlo simulation. This presentation focuses on p
 
 More details at: [Link](/ParametricVaR-12.pdf)
 
+[Pubpub paramVar home](https://interestrate.pubpub.org/pub/2u0jpbfi/release/1)
+
+[Pubpub paramVar pdf](https://assets.pubpub.org/c2ar5ldv/01599314635228.pdf)
+
+[Authorstream paramVar](http://www.authorstream.com/Presentation/tommills-4404343-parametric-value-risk-summary/)
+
+[Hcommon paramVar](https://hcommons.org/deposits/download/hc:33536/CONTENT/parametricvar-12.pdf)
+
 [FlipHtml5 parametric var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
 
 [Github parametric var](https://github.com/cfrm17/parametricVaR/raw/main/ParametricVaR-12.pdf)
@@ -393,6 +508,14 @@ Risk sensitivities or Greeks are vital for risk management. They can help financ
 This presentation gives certain practical insights onto this topic. 
 
 More details at: [Link](/sensitivity-13.pdf)
+
+[Pubpub sensitivity home](https://interestrate.pubpub.org/pub/nq9sk3q4/release/1)
+
+[Pubpub sensitivity pdf](https://assets.pubpub.org/axpymst1/31599314925777.pdf)
+
+[Authorstream sensitivity](http://www.authorstream.com/Presentation/tommills-4404344-risk-sensitivity-or-greek-introduction/)
+
+[Hcommon sensitivity](https://hcommons.org/deposits/download/hc:33592/CONTENT/sensitivity-13.pdf)
 
 [FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
 
@@ -414,6 +537,14 @@ Although VaR measure is objective and intuitive, it doesn’t capture tail risk.
 historical simulation and Monte Carlo simulation. This presentation focuses on Monte Carlo VaR.  
 
 More details at: [Link](/MonteCarloVaR-14.pdf)
+
+[Pubpub McVar home](https://interestrate.pubpub.org/pub/guu4ru3z/release/1)
+
+[Pubpub McVar pdf](https://assets.pubpub.org/40b9fx6f/21599315191080.pdf)
+
+[Authorstream McVar](http://www.authorstream.com/Presentation/tommills-4404346-monte-carlo-value-risk-introduction/)
+
+[Hcommon McVar](https://hcommons.org/deposits/download/hc:33594/CONTENT/montecarlovar-14.pdf)
 
 [FlipHtml5 mc var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNzQTN5ITPkl0av9mY)
 
