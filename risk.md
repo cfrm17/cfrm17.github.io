@@ -19,7 +19,7 @@ markets.
 
 [Counterparty Credit Risk](ccr.md)
 
-[Counterparty Credit Risk Monte Carlo Simulation](ccrSimulation.md)
+[Counterparty Credit Risk Monte Carlo Simulation](ccrsimulation.md)
 
 [Collateral Management](collateral.md)
 
