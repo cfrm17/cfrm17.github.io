@@ -48,3 +48,4 @@ Reference:
 
 [Archive historical var](https://ia801502.us.archive.org/15/items/historical-va-r-7/HistoricalVaR-7.pdf)
 
+[OSF historical var](https://osf.io/m9j7v/download)
