@@ -41,3 +41,4 @@ Reference:
 
 [Bitbucket parametric var](https://bitbucket.org/cfrm17/parametricvar/downloads/ParametricVaR-12.pdf)
 
+[OSF parametric var](https://osf.io/uzpk3/download)
