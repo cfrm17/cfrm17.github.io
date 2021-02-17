@@ -42,4 +42,8 @@ Reference:
 
 [Bitbucket lifecycle1](https://bitbucket.org/cfrm17/tradelifecyclepart1/downloads/TradeLifecycle1-8.pdf)
 
+[OSF lifecycle1](https://osf.io/asx8r/download)
 
+[Pub lifecycle1](https://fixedincome.pubpub.org/pub/7e8lxrd0/release/1)
+
+[Git lifecycle1](https://github.com/cfrm17/tradeLifeCycle1)

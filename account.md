@@ -40,3 +40,9 @@ Reference:
 [Gitlab account](https://gitlab.com/cfrm17/account/-/raw/master/AccountLicense-1.pdf)
 
 [Bitbucket account](https://bitbucket.org/cfrm17/account/downloads/AccountLicense-1.pdf)
+
+[OSF account](https://osf.io/kvzwe/download)
+
+[pub account](https://david.pubpub.org/pub/zsjsig2m)
+
+[git account](https://github.com/cfrm17/account)

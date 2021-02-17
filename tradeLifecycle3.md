@@ -36,3 +36,8 @@ Reference:
 
 [Bitbucket lifecycle3](https://bitbucket.org/cfrm17/tradelifecyclepart3/downloads/TradeLifecycle3-10.pdf)
 
+[OSF lifecycle3](https://osf.io/e5z7a/download)
+
+[PUb lifecycle3](https://fixedincome.pubpub.org/pub/vqm85i3n/release/1)
+
+[Git lifecycle3](https://github.com/cfrm17/tradeLifeCycle3)

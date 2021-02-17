@@ -23,7 +23,7 @@ Reference:
 
 [Curve Construction](/CurveConstruction-3.pdf)
 
-[Github curve construction](https://github.com/cfrm17/curve/raw/main/CurveConstruction-3.pdf)
+[Github curve construction pdf](https://github.com/cfrm17/curve/raw/main/CurveConstruction-3.pdf)
 
 [FlipHtml5 curve construction](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO0MTM3ITPkl0av9mY)
 
@@ -35,3 +35,8 @@ Reference:
 
 [Bitbucket curve construction](https://bitbucket.org/cfrm17/ircurve/downloads/CurveConstruction-3.pdf)
 
+[OSF curve construction](https://osf.io/hg5ez/download)
+
+[Pub curve construction](https://david.pubpub.org/pub/mfw66cuv)
+
+[Github curve construction](https://github.com/cfrm17/curve)

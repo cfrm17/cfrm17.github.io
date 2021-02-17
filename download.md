@@ -41,3 +41,7 @@ Reference:
 
 [Bitbucket install](https://bitbucket.org/cfrm17/install/downloads/DownloadInstall-4.pdf)
 
+[Pub install](https://david.pubpub.org/pub/784ng851/release/2)
+
+[Git install](https://github.com/cfrm17/download)
+

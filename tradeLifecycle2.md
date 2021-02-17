@@ -40,5 +40,8 @@ Reference:
 
 [Bitbucket lifecycle2](https://bitbucket.org/cfrm17/tradelifecyclepart2/downloads/TradeLifecycle2-9.pdf)
 
+[OSF lifecycle2](https://osf.io/js7mg/download)
 
+[PUb lifecycle2](https://fixedincome.pubpub.org/pub/kaz5jvfi/release/1)
 
+[Git lifecycle2](https://github.com/cfrm17/tradeLifeCycle2)

@@ -32,7 +32,7 @@ Referencce:
 
 [Batch Process](/BatchJob-2.pdf)
 
-[Github eod](https://github.com/cfrm17/eod/raw/main/BatchJob-2.pdf)
+[Github eod pdf](https://github.com/cfrm17/eod/raw/main/BatchJob-2.pdf)
 
 [FlipHtml5 eod](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
 
@@ -44,3 +44,8 @@ Referencce:
 
 [Bitbucket eod](https://bitbucket.org/cfrm17/batch/downloads/BatchJob-2.pdf)
 
+[OSF eod](https://osf.io/wer6f/download)
+
+[Pub eod](https://david.pubpub.org/pub/fqgr4qtg)
+
+[Github eod](https://github.com/cfrm17/eod)
