@@ -45,3 +45,4 @@ markets.
 
 [Monte Carlo Value at Risk](mcVaR.md)
 
+[Independent Valuation](independentValuation.md)
