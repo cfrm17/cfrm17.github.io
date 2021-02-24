@@ -40,3 +40,5 @@ Reference:
 
 [Github](https://github.com/cfrm17/independentValuation/raw/main/IndependentValuation-15.pdf)
 
+[Zenodo](https://zenodo.org/record/4560524/files/IndependentValuation-15.pdf)
+
