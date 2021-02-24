@@ -42,3 +42,5 @@ Reference:
 
 [Zenodo](https://zenodo.org/record/4560524/files/IndependentValuation-15.pdf)
 
+[FlipHtml5](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTO5MDO2MTPkl0av9mY)
+
