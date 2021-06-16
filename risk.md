@@ -29,6 +29,8 @@ Exposure at default or EAD.
 
 [Archive ccr](https://ia600105.us.archive.org/18/items/alex_Ccr/ccr-1.pdf)
 
+[Github ccr](https://github.com/cfrm17/ccr)
+
 
 ### Credit Risk Simulation
 
@@ -45,6 +47,10 @@ non-mean reverting risk factors: dS=μSdt+σSdW. The calibration results for dif
 [Archive ccr sim](https://ia801006.us.archive.org/24/items/ccrSimulation/ccrSimulation-2.pdf)
 
 [FlipHtml5 ccr sim](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
+
+[Github ccr sim](https://github.com/cfrm17/ccrSimulation)
+
+
 
 
 ### Collateral Management
@@ -63,6 +69,9 @@ growth of financial markets. The benefits are broadly acknowledged and affect de
 [Science Media collateral](http://science-media.org/userfiles/1020/presentations/1020_presentation_434.pdf)
 
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
+
+[Github collateral](https://github.com/cfrm17/collateral)
+
 
 
 ### CVA
@@ -83,6 +92,10 @@ In other words, central to CVA is risky valuation.
 
 [Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
 
+[Github cva](https://github.com/cfrm17/cva)
+
+
+
 
 ### FVA
 
@@ -102,6 +115,9 @@ the popular credit exposure approach and the more accurate least square Monte Ca
 
 [FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
 
+[Github fva](https://github.com/cfrm17/fva)
+
+
 
 
 ### FRTB
@@ -120,6 +136,9 @@ captures default risk and other residual risks. Liquidity risk is explicitly inc
 [Science Media frtb](https://science-media.org/userfiles/1020/presentations/1020_presentation_467.pdf)
 
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
+
+[Github frtb](https://github.com/cfrm17/frtb)
+
 
 
 
@@ -142,6 +161,9 @@ The VaR is the average between 2nd and 3rd lowest (negative) numbers.
 [Science Media var](https://science-media.org/userfiles/1020/presentations/1020_presentation_468.pdf)
 
 [FlipHtml5 var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
+
+[Github var](https://github.com/cfrm17/historicalVaR)
+
 
 
 
@@ -166,6 +188,8 @@ the margin balance back to initial margin.
 
 [FlipHtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
 
+[Github simm](https://github.com/cfrm17/simm)
+
 
 
 ### IRC
@@ -187,6 +211,9 @@ one.
 
 [FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
+[Github irc](https://github.com/timxiao1203/irc)
+
+
 
 
 ### Market
@@ -206,6 +233,9 @@ loss on an investment. Return is more important than value itself.
 [Science Media market](https://science-media.org/userfiles/1020/presentations/1020_presentation_472.pdf)
 
 [FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
+
+[Github market](https://github.com/cfrm17/market)
+
 
 
 
@@ -230,6 +260,9 @@ between economic capital and regulatory capital? How to compute economic capital
 
 [FlipHtml5 capital](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
 
+[Github capital](https://github.com/cfrm17/mrec)
+
+
 
 
 ### Parametric VaR
@@ -249,6 +282,8 @@ historical simulation and Monte Carlo simulation. This presentation focuses on p
 [Science media Par VaR](https://science-media.org/userfiles/1020/presentations/1020_presentation_474.pdf)
 
 [FlipHtml5 Par VaR](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
+
+[Github Par VaR](https://github.com/cfrm17/parametricVaR)
 
 
 
@@ -273,6 +308,8 @@ of a financial instrument with respect to time.
 
 [FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
 
+[Github sensitivity](https://github.com/cfrm17/sensitivity)
+
 
 
 ### Monte Carlo VaR
@@ -291,6 +328,8 @@ If number of breaches is 10 or more, the VaR system is in Red zone.
 [Archive mc var](https://ia801407.us.archive.org/30/items/monte-carlo-va-r-14/MonteCarloVaR-14.pdf)
 
 [Science Media mc var](https://science-media.org/userfiles/1020/presentations/1020_presentation_476.pdf)
+
+[Github mc var](https://github.com/cfrm17/MonteCarloVaR)
 
 
 [Independent Valuation](independentValuation.md)
