@@ -37,7 +37,7 @@ Reference:
 
 [Bitbucket back office](https://bitbucket.org/cfrm17/backoffice/downloads/ManageBackofficeEntity-5.pdf)
 
-[OSF back office](https://osf.io/az9qw/download)
+[OSF back office](https://osf.io/t7fna/download)
 
 [Pub back office](https://david.pubpub.org/pub/sovvbl8h/release/1)
 

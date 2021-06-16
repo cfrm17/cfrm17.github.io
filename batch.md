@@ -44,7 +44,7 @@ Referencce:
 
 [Bitbucket eod](https://bitbucket.org/cfrm17/batch/downloads/BatchJob-2.pdf)
 
-[OSF eod](https://osf.io/wer6f/download)
+[OSF eod](https://osf.io/4q3tf/download)
 
 [Pub eod](https://david.pubpub.org/pub/fqgr4qtg)
 

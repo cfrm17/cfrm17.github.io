@@ -40,7 +40,7 @@ Reference:
 
 [Bitbucket back office function](https://bitbucket.org/cfrm17/backofficefunction/downloads/ManageBackofficeFunction-6.pdf)
 
-[OSF back office function](https://osf.io/c53jy/download)
+[OSF back office function](https://osf.io/ndtcq/download)
 
 [Pub back office function](https://fixedincome.pubpub.org/pub/jmmakvm5/release/1)
 

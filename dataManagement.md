@@ -41,7 +41,7 @@ Reference:
 
 [Bitbucket data](https://bitbucket.org/cfrm17/managedata/downloads/ManageData-7.pdf)
 
-[OSF data](https://osf.io/b4wha/download)
+[OSF data](https://osf.io/exz9b/download)
 
 [Pub data](https://fixedincome.pubpub.org/pub/hrhclczr/release/1)
 

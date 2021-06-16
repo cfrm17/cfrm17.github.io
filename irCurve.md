@@ -35,7 +35,7 @@ Reference:
 
 [Bitbucket curve construction](https://bitbucket.org/cfrm17/ircurve/downloads/CurveConstruction-3.pdf)
 
-[OSF curve construction](https://osf.io/hg5ez/download)
+[OSF curve construction](https://osf.io/evzp4/download)
 
 [Pub curve construction](https://david.pubpub.org/pub/mfw66cuv)
 

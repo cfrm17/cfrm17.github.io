@@ -41,7 +41,7 @@ Reference:
 
 [Bitbucket account](https://bitbucket.org/cfrm17/account/downloads/AccountLicense-1.pdf)
 
-[OSF account](https://osf.io/kvzwe/download)
+[OSF account](https://osf.io/fhtcw/download)
 
 [pub account](https://david.pubpub.org/pub/zsjsig2m)
 
