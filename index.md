@@ -26,3 +26,11 @@ Managing the life cycle of a trade is the fundamental activity of exchanges, inv
 Financial research involves using finanicla models, algorithms, analytics, and data to assess and forecast financial market trends, asset values, and risk.
 
 [More details](/paper.md) 
+
+
+### Analytic Tool
+The analytic tools give users valuable insights into financial products and markets. They are commonly used by traders and risk managers for model validation, 
+intraday, what-if scenario, sensitivity and profit & loss (P&L) analysis. With the tools, the benefits of complex trading and risk management are not anymore 
+reserved for only large institutions.
+
+[More details](/tool.md) 
