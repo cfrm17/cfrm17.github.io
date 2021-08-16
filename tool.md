@@ -15,7 +15,7 @@ More details at: [Link](/ToolEqVol-1.pdf)
 
 [Zenodo vol](https://zenodo.org/record/5207836/files/ToolEqVol-1.pdf)
 
-[OSF vol](https://osf.io/xp5s6/download)
+[Github vol](https://github.com/cfrm17/ImpliedVolCalculator)
 
-
+[Fliphtml5 vol](https://www.fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjMxUjM1QTPkl0av9mY)
 
