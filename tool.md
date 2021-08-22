@@ -9,7 +9,9 @@ The term structures of implied volatilities which provide indications of the mar
 Vol skew or smile pattern is directly related to the conditional non-normality of the underlying return risk-neutral distribution. In particular, a smile reflects fat tails in the return distribution whereas a skew indicates return distribution asymmetry.
 
 
-More details at: [Link](/ToolEqVol-1.pdf)
+References:
+ 
+[Link](/ToolEqVol-1.pdf)
 
 [OSF vol](https://osf.io/xp5s6/download)
 
@@ -18,4 +20,19 @@ More details at: [Link](/ToolEqVol-1.pdf)
 [Github vol](https://github.com/cfrm17/ImpliedVolCalculator)
 
 [Fliphtml5 vol](https://www.fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjMxUjM1QTPkl0av9mY)
+
+
+
+### Forward Dividend Calculator
+
+Forward dividends are also called expected future dividends, or projected dividend, or implied dividends. They are critical for valuing any equity products. In other words, the key factor for pricing equity products is to correctly calculate equity forward taking all dividends into account. The stock price is adjusted by dividends over ex-dividend dates. 
+
+An equity model must account for all the dividend payments between valuation date and the option maturity date. Those dividends are forward (or future or projected or implied) dividends. FinPricing provides tools for computing forward dividends based on market prices. Those dividends will allow you to match market quotes, expectations, and forecasting. By using the implied forward dividends, you can archive risk neutral or no arbitrage valuation.
+
+Dividends tend to reduce the price of a stock on ex-dividend date by the amount of the dividend. All the equity models need to be adjusted to allow for the payout of dividends. There are three types of dividends: constant dividend yield, term structure of dividend yields, and term structure of discrete dividends.
+
+
+References:
+ 
+[Link](/ToolEqDiv-2.pdf)
 
