@@ -34,3 +34,7 @@ intraday, what-if scenario, sensitivity and profit & loss (P&L) analysis. With t
 reserved for only large institutions.
 
 [More details](/tool.md) 
+
+### List of Derivative Pricing Models
+
+[References](https://finpricing.com/FinPricing-ProductBrochure.pdf) 

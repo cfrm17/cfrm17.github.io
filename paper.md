@@ -1,5 +1,12 @@
 ## Financial Market Analysis
 
+
+### Derivatives Pricing Models
+
+[Reference](https://finpricing.com/FinPricing-ProductBrochure.pdf)
+
+
+
 ### Incremental Risk Charge Methodology
 
 The incremental risk charge (IRC) is a new regulatory requirement from the Basel Committee in response to the recent financial crisis. Notably few 
