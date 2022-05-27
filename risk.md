@@ -29,7 +29,7 @@ Exposure at default or EAD.
 
 [Archive ccr](https://ia600105.us.archive.org/18/items/alex_Ccr/ccr-1.pdf)
 
-[Github ccr](https://github.com/cfrm17/ccr)
+[OSF pooling](https://osf.io/atyb9/download)
 
 
 ### Credit Risk Simulation
@@ -48,7 +48,7 @@ non-mean reverting risk factors: dS=μSdt+σSdW. The calibration results for dif
 
 [FlipHtml5 ccr sim](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
 
-[Github ccr sim](https://github.com/cfrm17/ccrSimulation)
+[OSF himalaya](https://osf.io/cg5x4/download)
 
 
 
@@ -70,7 +70,7 @@ growth of financial markets. The benefits are broadly acknowledged and affect de
 
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
 
-[Github collateral](https://github.com/cfrm17/collateral)
+[OSF securization](https://osf.io/vzfaw/download)
 
 
 
@@ -92,7 +92,7 @@ In other words, central to CVA is risky valuation.
 
 [Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
 
-[Github cva](https://github.com/cfrm17/cva)
+[OSF Brownian](https://osf.io/6dn54/download)
 
 
 
@@ -115,7 +115,7 @@ the popular credit exposure approach and the more accurate least square Monte Ca
 
 [FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
 
-[Github fva](https://github.com/cfrm17/fva)
+[OSF gic](https://osf.io/tgd82/download)
 
 
 
@@ -137,7 +137,7 @@ captures default risk and other residual risks. Liquidity risk is explicitly inc
 
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
 
-[Github frtb](https://github.com/cfrm17/frtb)
+[OSF local vol](https://osf.io/74s83/downloand)
 
 
 
@@ -162,7 +162,7 @@ The VaR is the average between 2nd and 3rd lowest (negative) numbers.
 
 [FlipHtml5 var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
 
-[Github var](https://github.com/cfrm17/historicalVaR)
+[OSF asset back](https://osf.io/eg6mv/download)
 
 
 
@@ -188,7 +188,7 @@ the margin balance back to initial margin.
 
 [FlipHtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
 
-[Github simm](https://github.com/cfrm17/simm)
+[OSF bond curve](https://osf.io/4nhyb/download)
 
 
 
@@ -211,7 +211,7 @@ one.
 
 [FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
-[Github irc](https://github.com/timxiao1203/irc)
+[OSF hw vol](https://osf.io/k3wc9/download)
 
 
 
@@ -234,7 +234,7 @@ loss on an investment. Return is more important than value itself.
 
 [FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
 
-[Github market](https://github.com/cfrm17/market)
+[OSF exchangeable](https://osf.io/zgx8c/download)
 
 
 
@@ -260,7 +260,7 @@ between economic capital and regulatory capital? How to compute economic capital
 
 [FlipHtml5 capital](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
 
-[Github capital](https://github.com/cfrm17/mrec)
+[OSF forward starting](https://osf.io/37fbt/download)
 
 
 
@@ -283,7 +283,7 @@ historical simulation and Monte Carlo simulation. This presentation focuses on p
 
 [FlipHtml5 Par VaR](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
 
-[Github Par VaR](https://github.com/cfrm17/parametricVaR)
+[OSF 3 factors](https://osf.io/pbjf8/download)
 
 
 
@@ -308,7 +308,7 @@ of a financial instrument with respect to time.
 
 [FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
 
-[Github sensitivity](https://github.com/cfrm17/sensitivity)
+[OSF hw convertible](https://osf.io/eyb8c/download)
 
 
 
@@ -329,7 +329,6 @@ If number of breaches is 10 or more, the VaR system is in Red zone.
 
 [Science Media mc var](https://science-media.org/userfiles/1020/presentations/1020_presentation_476.pdf)
 
-[Github mc var](https://github.com/cfrm17/MonteCarloVaR)
 
 
 [Independent Valuation](independentValuation.md)
