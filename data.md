@@ -18,7 +18,7 @@ term structure of the yields-to-maturity of zero coupon bonds. Given a zero rate
 
 [FlipHtml5 swap curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTNyITM2ITPkl0av9mY)
 
-[Github swap curve](https://github.com/timxiao1203/SwapCurve)
+[OSF collateral](https://osf.io/preprints/inarxiv/dwz2m/download)
 
 
 ### Yield Curve Construction
@@ -35,7 +35,7 @@ All bootstrapping methods build up the term structure from shorter maturities to
 
 [Hcommons curve construction](https://hcommons.org/deposits/download/hc:34016/CONTENT/ircurve-2.pdf)
 
-[Github curve construction](https://github.com/cfrm17/YieldCurveConstruction)
+[OSF cva](https://osf.io/preprints/inarxiv/9765p/download)
 
 
 ### Basis Curve
@@ -44,9 +44,9 @@ Basis curves are used as the forecast curves for pricing interest rate products.
 The basis curve construction methodology is based on the most liquid market instruments. Normally a basis curve is divided into two parts. The short end of the term 
 structure is determined using LIBOR rates and the remaining is derived using basis swaps.
 
-[Github basis curve](https://github.com/cfrm17/BasisCurve/raw/main/IrBasisCurve-3.pdf)
+[Zenodo basis swap](https://zenodo.org/record/6588375#.YpEh86gpDq4)
 
-
+[OSF convertible](https://osf.io/preprints/inarxiv/zv2xe/download)
 
 
 ### OIS Curve
@@ -70,6 +70,9 @@ transactions.
 
 [Hcommons ois](https://hcommons.org/deposits/download/hc:34720/CONTENT/irois-4.pdf)
 
+[OSF diffution model](https://osf.io/preprints/inarxiv/zxk7w/download)
+
+
 
 ### Forex Volatility
 
@@ -81,6 +84,8 @@ procedure to construct a volatility- delta or volatility-strike smile is used.
 [OSF fx vol](https://osf.io/nd4tx/download)
 
 [FlipHtml5 fx vol](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjMyYDN2ITPkl0av9mY)
+
+[OSF test](https://osf.io/preprints/inarxiv/qh7vj/download)
 
 
 
@@ -95,6 +100,8 @@ A crucial property of the implied volatility surface is the absence of arbitrage
 [FlipHtml5 swaption volatility](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNyYDN2ITPkl0av9mY)
 
 [Hcommons swaption volatility](https://hcommons.org/deposits/download/hc:35170/CONTENT/irswnvol-6.pdf)
+
+[OSF determination](https://osf.io/preprints/inarxiv/n29s7/download)
 
 
 
@@ -120,6 +127,8 @@ absence of arbitrage.
 
 [OSF cap vol](https://osf.io/gav3c/download)
 
+[OSF irc](https://osf.io/preprints/inarxiv/f6v43/download)
+
 
 
 ### FX Foward Spreads
@@ -132,7 +141,7 @@ methodology is based on the arbitrage-free relationship between forward FX rates
 
 [Gitbook fx spreads](https://cfrm17.gitbook.io/fx-forward-curve-introduction/)
 
-[Github fx spreads](https://github.com/cfrm17/fxForwardPoints)
+[OSF multiple](https://osf.io/preprints/inarxiv/3p7fy/download)
 
 
 
@@ -149,7 +158,7 @@ securities and inflation derivatives, such as inflation linked bonds, inflation 
 
 [FlipHtml5 inflation curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN3gDNyMTPkl0av9mY)
 
-[Github inflation curve](https://github.com/timxiao1203/inflationCurve)
+[OSF impact](https://osf.io/preprints/inarxiv/chjxe/download)
 
 
 
@@ -177,7 +186,7 @@ financial institutions, that are usually treated as government-issued inflation-
 
 [Gitbook inflation bond curve](https://cfrm17.gitbook.io/inflation-linked-bond-curve/)
 
-[Github inflation bond curve](https://github.com/timxiao1203/inflationBondCurve)
+[OSF swap](https://osf.io/preprints/inarxiv/f98aq/download)
 
 
 ### Treasury Benchmark Curve
@@ -192,7 +201,7 @@ and mature at their par value, are issued at short terms. Issurance occurs throu
 
 [FlipHtml5 treasury benchmark curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTM4gDNyMTPkl0av9mY)
 
-[Github treasury benchmark curve](https://github.com/timxiao1203/treasuryBenchmarkCurve)
+[OSF derivatives](https://osf.io/preprints/inarxiv/9765p/download)
 
 
 
@@ -210,7 +219,6 @@ from specific representations of bond price.
 
 [FlipHtml5 treasury yield](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjM4gDNyMTPkl0av9mY)
 
-[Github treasury yield](https://github.com/timxiao1203/treasuryYieldCurve)
 
 
 
@@ -229,7 +237,6 @@ demand obligations. In general, the SIFMA rate trades as a proportion of LIBOR r
 
 [FlipHtml5 sifma curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTO5ADMzMTPkl0av9mY)
 
-[Github sifma curve](https://github.com/timxiao1203/sifmaCurve)
 
 
 
@@ -257,7 +264,6 @@ a measure of the dollar shortage in the market. The more negative the basis is, 
 
 [Zenodo xccy curve](https://zenodo.org/record/4313815/files/IrXccyBasisCurve-14.pdf)
 
-[Github xccy curve](https://github.com/timxiao1203/crossCurrencyBasis)
 
 
 
@@ -277,7 +283,6 @@ a volatility- delta or volatility-strike smile is used.
 
 [FlipHtml5 precious metal volatility](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjN3ATOzMTPkl0av9mY)
 
-[Github precious metal volatility](https://github.com/timxiao1203/preciousMetalVol)
 
 
 
@@ -294,5 +299,4 @@ the event of default endogenously, but characterizes it exogenously by a jump pr
 
 [FlipHtml5 credit spread](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNykTM0MTPkl0av9mY)
 
-[Github credit spread](https://github.com/timxiao1203/creditSpreadCurve)
 
