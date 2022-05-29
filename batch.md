@@ -32,20 +32,9 @@ Referencce:
 
 [Batch Process](/BatchJob-2.pdf)
 
-[Github eod pdf](https://github.com/cfrm17/eod/raw/main/BatchJob-2.pdf)
-
 [FlipHtml5 eod](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
 
-[Pubpub eod](https://david.pubpub.org/pub/fqgr4qtg/download/pdf)
-
-[Zenodo eod](https://zenodo.org/record/3929826/files/BatchJob-2.pdf)
-
-[Gitlab eod](https://gitlab.com/cfrm17/batch/-/raw/master/BatchJob-2.pdf)
-
-[Bitbucket eod](https://bitbucket.org/cfrm17/batch/downloads/BatchJob-2.pdf)
+[Zenodo eod](https://zenodo.org/record/6514611#.YpO2XagpBD9)
 
 [OSF eod](https://osf.io/4q3tf/download)
 
-[Pub eod](https://david.pubpub.org/pub/fqgr4qtg)
-
-[Github eod](https://github.com/cfrm17/eod)
