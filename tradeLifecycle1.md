@@ -30,20 +30,9 @@ Reference:
 
 [Trade Lifecycel 1](/TradeLifecycle1-8.pdf)
 
-[Github lifecycle1](https://github.com/cfrm17/tradeLifeCycle1/raw/main/TradeLifecycle1-8.pdf)
-
 [FlipHtml5 lifecycle1](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjMyYTM3ITPkl0av9mY)
 
-[Pubpub lifecycle1](https://fixedincome.pubpub.org/pub/7e8lxrd0/download/pdf)
-
-[Zenodo lifecycle1](https://zenodo.org/record/3930936/files/TradeLifecycle1-8.pdf)
-
-[Gitlab lifecycle1](https://gitlab.com/cfrm17/tradelifecyclepart1/-/raw/master/TradeLifecycle1-8.pdf)
-
-[Bitbucket lifecycle1](https://bitbucket.org/cfrm17/tradelifecyclepart1/downloads/TradeLifecycle1-8.pdf)
+[Zenodo lifecycle1](https://zenodo.org/record/6514321#.YpOyoKgpBD8)
 
 [OSF lifecycle1](https://osf.io/jskg5/download)
 
-[Pub lifecycle1](https://fixedincome.pubpub.org/pub/7e8lxrd0/release/1)
-
-[Git lifecycle1](https://github.com/cfrm17/tradeLifeCycle1)

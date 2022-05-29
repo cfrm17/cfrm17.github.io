@@ -31,24 +31,10 @@ Reference:
 
 [Sensitivity](/sensitivity-13.pdf)
 
-[Pubpub sensitivity home](https://interestrate.pubpub.org/pub/nq9sk3q4/release/1)
-
-[Pubpub sensitivity pdf](https://assets.pubpub.org/axpymst1/31599314925777.pdf)
-
-[Authorstream sensitivity](http://www.authorstream.com/Presentation/tommills-4404344-risk-sensitivity-or-greek-introduction/)
-
 [Hcommon sensitivity](https://hcommons.org/deposits/download/hc:33592/CONTENT/sensitivity-13.pdf)
 
 [FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
 
-[Github sensitivity](https://github.com/cfrm17/sensitivity/raw/main/sensitivity-13.pdf)
-
-[Pubpub sensitivity](https://interestrate.pubpub.org/pub/nq9sk3q4/download/pdf)
-
 [Zenodo sensitivity](https://zenodo.org/record/4027817/files/sensitivity-13.pdf)
-
-[Gitlab sensitivity](https://gitlab.com/cfrm17/sensitivity/-/raw/master/sensitivity-13.pdf)
-
-[Bitbucket sensitivity](https://bitbucket.org/cfrm17/sensitivity/downloads/sensitivity-13.pdf)
 
 [OSF sensitivity](https://osf.io/qau3b/download)

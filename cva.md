@@ -1,14 +1,10 @@
 
 ### Credit Valuation Adjustment
 
-Credit value adjustment (CVA) is the market price of counterparty credit risk that has become a central part of counterparty credit risk management.  
-By definition, CVA is the difference between the risk-free portfolio value and the true/risky portfolio value. CVA not only allows institutions to quantify 
-counterparty risk as a single measurable P&L number, but also offers an opportunity for banks to dynamically manage, price, and hedge counterparty risk. 
-The benefits of CVA are widely acknowledged. Many banks have set up internal credit risk trading desks to manage counterparty risk on derivatives.
-
-CVA not only allows institutions to quantify counterparty risk as a single measurable P&L number, but also offers an opportunity for banks to dynamically 
-manage, price, and hedge counterparty risk. The benefits of CVA are widely acknowledged. Many banks have set up internal credit risk trading desks 
-to manage counterparty risk on derivatives. 
+Credit Valuation Adjustment (CVA) is a tool in counterparty credit risk management and its application.  Counterparty credit risk is the risk that a counterparty 
+to a financial contract will default prior to expiry, failing to make future contracts and resulting in a credit exposure to the financial institution.  Traditional 
+methods of managing counterparty credit risk include netting agreements and collateralization to reduce the overall exposure to a single counterparty.  Over the past decade, 
+institutions have also used Credit Default Swap (CDS) protection to manage exposures 
 
 CVA, by definition, is the difference between the risk-free portfolio value and the true (or risky or defaultable) portfolio value that takes into 
 account the possibility of a counterparty’s default. The risk-free portfolio value is what brokers quote or what trading systems or models normally 
@@ -19,8 +15,10 @@ In the market, risk-free values are quoted for most financial derivatives. In ot
 that credit risk often leads to significant losses. Therefore, it is obvious to all market participants that credit risk should be taken into account 
 when reporting the fair value of any defaultable derivative. The adjustment to the risk-free value is known as the credit value adjustment (CVA).
 
-First, we want to indicate that the market value of a defaultable derivative is actually a risky value rather than a risk-free value. In fact, in applying 
-the upfront CVA, we already converted the market value of a defaultable derivative from the risk-free value to the risky value.
+More informally, think of CVA as the fair value of buying protection against the counterparty’s potential failure to meet contractual obligations.  From this 
+perspective, calculation of CVA is a pricing exercise similar to option pricing.  In particular, because we are interested in the fair value of protection we 
+can express the problem as the cost of hedging against default, allowing us to work in a risk-neutral measure in which the expected return of the hedged 
+portfolio is the risk-free rate.  
 
 For completeness, our theoretical study covers various cases. We find that the valuation of defaultable derivatives and their CVAs, in most situations, 
 has a backward recursive nature and requires a backward induction valuation. An intuitive explanation is that two counterparties implicitly sell each 
@@ -37,31 +35,11 @@ Reference:
 
 [CVA](/cva-4.pdf)
 
-[Pub cva home](https://interestrate.pubpub.org/pub/tjzhcqez)
-
-[Pub cva pdf](https://assets.pubpub.org/aocf2qy5/21598709554191.pdf)
-
-[Authorstream cva](http://www.authorstream.com/Presentation/tommills-4395428-credit-valuation-adjustment/)
-
-[Powershow cva](https://www.powershow.com/view0/90c16e-YmQ1M/Credit_Valuation_Adjustment_powerpoint_ppt_presentation)
-
-[Slideserve cva](https://www.slideserve.com/davidxiao/credit-valuation-adjustment-cva-powerpoint-ppt-presentation)
-
-[PubHtml5 lmm](https://pubhtml5.com/noml/evsz/basic)
-
 [FlipHtml5 cva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjMwkzM5ITPkl0av9mY)
 
 [FlipHtml5 cva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzM2IjNyETPkl0av9mY)
 
-[Gitlab cva](https://gitlab.com/cfrm171/cva/-/raw/master/cva-4.pdf)
-
-[Bitbucket cva](https://bitbucket.org/cfrm17/cva/downloads/cva-4.pdf)
-
-[Github cva](https://github.com/cfrm17/cva/raw/master/cva-4.pdf)
-
-[Pubpub cva](https://interestrate.pubpub.org/pub/tjzhcqez/download/pdf)
-
-[Zenodo cva](https://zenodo.org/record/4016321/files/cva-4.pdf)
+[Zenodo cva](https://zenodo.org/record/6533799#.YpOqwagpBD8)
 
 [Hcommon cva](https://hcommons.org/deposits/download/hc:32984/CONTENT/cva-4.pdf)
 

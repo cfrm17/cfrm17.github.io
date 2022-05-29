@@ -28,27 +28,11 @@ Reference:
 
 [SIMM](/initialMargin-8.pdf)
 
-[Pubpub simm home](https://interestrate.pubpub.org/pub/wushuobx/release/1)
-
-[Pubpub simm pdf](https://assets.pubpub.org/dvdo34s1/61599313482128.pdf)
-
-[Authorstream simm](http://www.authorstream.com/Presentation/tommills-3421694-standard-initial-margin-model-simm-methodology/)
-
 [Hcommon simm](https://hcommons.org/deposits/download/hc:33508/CONTENT/initialmargin-8.pdf)
-
-[PubHtml5 irc](https://pubhtml5.com/noml/hqie/basic)
 
 [FlipHtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
 
-[Github simm](https://github.com/cfrm17/simm/raw/main/initialMargin-8.pdf)
-
-[Pubpub simm](https://interestrate.pubpub.org/pub/wushuobx/download/pdf)
-
 [Zenodo simm](https://zenodo.org/record/4025373/files/initialMargin-8.pdf)
-
-[Bitbucket simm](https://bitbucket.org/cfrm17/simm/downloads/initialMargin-8.pdf)
-
-[Gitlab simm](https://gitlab.com/cfrm171/simm/-/raw/master/initialMargin-8.pdf)
 
 [ScienceMedia simm](https://science-media.org/userfiles/1020/presentations/1020_presentation_469.pdf)
 

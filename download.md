@@ -29,19 +29,7 @@ Reference:
 
 [Download and Installation](/DownloadInstall-4.pdf)
 
-[Github installation](https://github.com/cfrm17/OisCurve/raw/main/IrOIS-4.pdf)
-
 [FlipHtml5 install](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTN1MTM3ITPkl0av9mY)
 
-[Pubpub install](https://david.pubpub.org/pub/784ng851/download/pdf)
-
-[Zenodo install](https://zenodo.org/record/3929835/files/DownloadInstall-4.pdf)
-
-[Gitlab install](https://gitlab.com/cfrm17/install/-/raw/master/DownloadInstall-4.pdf)
-
-[Bitbucket install](https://bitbucket.org/cfrm17/install/downloads/DownloadInstall-4.pdf)
-
-[Pub install](https://david.pubpub.org/pub/784ng851/release/2)
-
-[Git install](https://github.com/cfrm17/download)
+[Zenodo install](https://zenodo.org/record/6512485#.YpOssagpBD8)
 

@@ -35,25 +35,11 @@ Reference:
 
 [Market](/market-10.pdf)
 
-[Pubpub market home](https://interestrate.pubpub.org/pub/hd1pqked/release/1)
-
-[Pubpub market pdf](https://assets.pubpub.org/jguugo0r/21599314143214.pdf)
-
-[Authorstream market](http://www.authorstream.com/Presentation/tommills-4404325-financial-market-basics/)
-
 [Hcommon market](https://hcommons.org/deposits/download/hc:33532/CONTENT/market-10.pdf)
 
 [FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
 
-[Github market](https://github.com/cfrm17/market/raw/main/market-10.pdf)
-
-[Pubpub market](https://interestrate.pubpub.org/pub/hd1pqked/download/pdf)
-
 [Zenodo market](https://zenodo.org/record/4025380/files/market-10.pdf)
-
-[Bitbucket market](https://bitbucket.org/cfrm17/market/downloads/market-10.pdf)
-
-[Gitlab market](https://gitlab.com/cfrm171/market/-/raw/master/market-10.pdf)
 
 [Archive market](https://ia801000.us.archive.org/29/items/market_20180417/market-10.pdf)
 

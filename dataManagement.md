@@ -29,21 +29,9 @@ Reference:
 
 [Market Data Management](/ManageData-7.pdf)
 
-[Github data](https://github.com/cfrm17/marketData/raw/main/ManageData-7.pdf)
-
 [FlipHtml5 data](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTMxYTM3ITPkl0av9mY)
 
-[Pubpub data](https://fixedincome.pubpub.org/pub/hrhclczr/download/pdf)
-
-[Zenodo data](https://zenodo.org/record/3930863/files/ManageData-7.pdf)
-
-[Gitlab data](https://gitlab.com/cfrm17/managedata/-/raw/master/ManageData-7.pdf)
-
-[Bitbucket data](https://bitbucket.org/cfrm17/managedata/downloads/ManageData-7.pdf)
+[Zenodo data](https://zenodo.org/record/6514309#.YpOsPqgpBD8)
 
 [OSF data](https://osf.io/exz9b/download)
-
-[Pub data](https://fixedincome.pubpub.org/pub/hrhclczr/release/1)
-
-[Git data](https://github.com/cfrm17/marketData)
 

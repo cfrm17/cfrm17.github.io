@@ -20,29 +20,19 @@ VaR at 99% confidence level, where T = 365 for accounting for calendar days only
 using this scaling formula is that 1-day portfolio loss distribution is independent and identically distributed (IID), constant mean and volatility,
 and no autocorrelationl. This scaling approach is most likely under-estimated risk given the assumptions don’t match the reality.
 
+The methodology of scaling Var to calculate the equivalent portion of Economic Capital is developed reviewed within the team.  The algorithm of combining all
+components (stress-based economic capital, equivalent scaled Var, Limit usage at Tier 3 level and Stop-loss limit) to derive the final economic capital is proposed. 
+Sample results for some selected desks are prepared jointly with the Limit work stream.  
+
 
 Reference: 
 
 [Market Risk Economic Capital](/mrEc-11.pdf)
 
-[Pubpub mrec home](https://interestrate.pubpub.org/pub/r47dfv0a/release/1)
-
-[Pubpub mrec pdf](https://assets.pubpub.org/v0rcak2u/01599314367878.pdf)
-
-[Authorstream mrec](http://www.authorstream.com/Presentation/tommills-4404333-market-risk-economic-capital-introduction/)
-
 [Hcommon mrec](https://hcommons.org/deposits/download/hc:33534/CONTENT/mrec-11.pdf)
 
 [FlipHtml5 mrec](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
 
-[Github mrec](https://github.com/cfrm17/mrec/raw/main/mrEc-11.pdf)
-
-[Pubpub mrec](https://interestrate.pubpub.org/pub/r47dfv0a/download/pdf)
-
-[Zenodo mrec](https://zenodo.org/record/4027801/files/mrEc-11.pdf)
-
-[Gitlab mrec](https://gitlab.com/cfrm17/mrec/-/raw/master/mrEc-11.pdf)
-
-[Bitbucket mrec](https://bitbucket.org/cfrm17/mrec/downloads/mrEc-11.pdf)
+[Zenodo mrec](https://zenodo.org/record/6529472#.YpOxFqgpBD8)
 
 [OSF mrec](https://osf.io/fdmb4/download)

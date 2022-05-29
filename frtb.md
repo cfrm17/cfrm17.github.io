@@ -34,27 +34,11 @@ Reference:
 
 [Fundamental Review of Trading Book](/frtbSa-6.pdf)
 
-[Pub frtb home](https://interestrate.pubpub.org/pub/w33dt1rs)
-
-[Pub frtb pdf](https://assets.pubpub.org/lrv4ks4q/01598723913093.pdf)
-
-[Authorstream frtb](http://www.authorstream.com/Presentation/tommills-4397625-fundamental-review-trading-book/)
-
 [Hcommon frtb](https://hcommons.org/deposits/download/hc:33098/CONTENT/frtbsa-6.pdf)
-
-[PubHtml5 exam](https://pubhtml5.com/noml/snjn/basic)
 
 [FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
 
-[Github frtb](https://github.com/cfrm17/frtb/raw/master/frtbSa-6.pdf)
-
-[Pubpub frtb](https://interestrate.pubpub.org/pub/w33dt1rs/download/pdf)
-
 [Zenodo frtb](https://zenodo.org/record/4017728/files/frtbSa-6.pdf)
-
-[bitbucket frtb](https://bitbucket.org/cfrm17/frtb/downloads/frtbSa-6.pdf)
-
-[Gitlab frtb](https://gitlab.com/cfrm171/frtb/-/raw/master/frtbSa-6.pdf)
 
 [ScienceMedia frtb](https://science-media.org/userfiles/1020/presentations/1020_presentation_467.pdf)
 

@@ -18,24 +18,10 @@ Reference:
 
 [Monte Carlo VaR](/MonteCarloVaR-14.pdf)
 
-[Pubpub McVar home](https://interestrate.pubpub.org/pub/guu4ru3z/release/1)
-
-[Pubpub McVar pdf](https://assets.pubpub.org/40b9fx6f/21599315191080.pdf)
-
-[Authorstream McVar](http://www.authorstream.com/Presentation/tommills-4404346-monte-carlo-value-risk-introduction/)
-
 [Hcommon McVar](https://hcommons.org/deposits/download/hc:33594/CONTENT/montecarlovar-14.pdf)
 
 [FlipHtml5 mc var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNzQTN5ITPkl0av9mY)
 
-[Github mc var](https://github.com/cfrm17/MonteCarloVaR/raw/main/MonteCarloVaR-14.pdf)
-
-[Pubpub mc var](https://interestrate.pubpub.org/pub/guu4ru3z/download/pdf)
-
 [Zenodo mc var](https://zenodo.org/record/4027823/files/MonteCarloVaR-14.pdf)
-
-[Gitlab mc var](https://gitlab.com/cfrm17/montecarlovar/-/raw/master/MonteCarloVaR-14.pdf)
-
-[Bitbucket mc var](https://bitbucket.org/cfrm17/montecarlovar/downloads/MonteCarloVaR-14.pdf)
 
 [OSF mc var](https://osf.io/2a58h/download)

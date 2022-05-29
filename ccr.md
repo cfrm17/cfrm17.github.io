@@ -3,6 +3,12 @@
 Counterparty credit risk (CCR) refers to the risk that a counterparty to a bilateral financial derivative contract may fail to fulfill its contractual 
 obligation causing financial loss to the non-defaulting party. It will be incurred in the event of default by a counterparty.
 
+Credit risk is the risk of losses caused by a counterparty or an issuer defaulting on their payment obligations. RiskWatch
+provides credit risk functionality to measure credit risk. It focuses on the calculations of credit exposures and capital
+allocation based on estimated economic losses. In addition to general credit risk measures (i.e., actual exposure, total
+exposure, potential exposure and economic loss), the regulatory credit exposure measurement (BIS methodology) is also
+supported.
+
 If one party of a contract defaults, the non-defaulting party will find a similar contract with another counterparty in the market to replace the default 
 one. That is why counterparty credit risk sometimes is referred to as replacement risk.
 
@@ -35,33 +41,13 @@ Reference:
 
 [ccr](/ccr-1.pdf)
 
-[Pub ccr](https://interestrate.pubpub.org/pub/22fdjmi8)
-
-[Pub ccr pdf](https://assets.pubpub.org/l7qmf5sa/01598705440961.pdf)
-
-[Authorstream ccr](http://www.authorstream.com/Presentation/tommills-4394404-counterparty-credit-risk-introduction/)
-
-[Powershow ccr](https://www.powershow.com/view0/90bf55-NjVkZ/Counterparty_Credit_Risk_Computation_powerpoint_ppt_presentation)
-
-[Slideserve ccr](https://www.slideserve.com/davidxiao/counterparty-credit-risk-powerpoint-ppt-presentation)
-
-[PubHtml5 collateral](https://pubhtml5.com/noml/vrdb/basic)
-
 [ScienceMedia collateral](http://science-media.org/userfiles/1020/papers/1020_paper_1183.pdf)
 
 [FlipHtml5 ccr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDN4UzM5ITPkl0av9mY)
 
 [Hcommon ccr](https://hcommons.org/deposits/download/hc:32754/CONTENT/ccr-1.pdf)
 
-[Gitlab ccr](https://gitlab.com/cfrm171/ccr/-/raw/master/ccr-1.pdf)
-
-[Bitbucket ccr](https://bitbucket.org/cfrm17/ccr/downloads/ccr-1.pdf)
-
-[Github ccr](https://github.com/cfrm17/ccr/raw/master/ccr-1.pdf)
-
-[Pubpub ccr txt](https://interestrate.pubpub.org/pub/22fdjmi8/download/pdf)
-
-[Zenodo ccr](https://zenodo.org/record/4016295/files/ccr-1.pdf)
+[Zenodo ccr](https://zenodo.org/record/6529211#.YpOUF6gpDq4)
 
 [ScienceMedia ccr](http://science-media.org/userfiles/1020/presentations/1020_presentation_432.pdf)
 

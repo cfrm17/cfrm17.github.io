@@ -24,20 +24,8 @@ Reference:
 
 [Trade Lifecycle 3](/TradeLifecycle3-10.pdf)
 
-[Github lifecycle3](https://github.com/cfrm17/tradeLifeCycle3/raw/main/TradeLifecycle3-10.pdf)
-
 [FlipHtml5 lifecycle3](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDNyYTM3ITPkl0av9mY)
 
-[Pubpub lifecycle3](https://fixedincome.pubpub.org/pub/vqm85i3n/download/pdf)
-
-[Zenodo lifecycle3](https://zenodo.org/record/3930947/files/TradeLifecycle3-10.pdf)
-
-[Gitlab lifecycle3](https://gitlab.com/cfrm17/tradelifecyclepart3/-/raw/master/TradeLifecycle3-10.pdf)
-
-[Bitbucket lifecycle3](https://bitbucket.org/cfrm17/tradelifecyclepart3/downloads/TradeLifecycle3-10.pdf)
+[Zenodo lifecycle3](https://zenodo.org/record/6514611#.YpOzLKgpBD8)
 
 [OSF lifecycle3](https://osf.io/a9w5j/download)
-
-[PUb lifecycle3](https://fixedincome.pubpub.org/pub/vqm85i3n/release/1)
-
-[Git lifecycle3](https://github.com/cfrm17/tradeLifeCycle3)

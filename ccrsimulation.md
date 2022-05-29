@@ -36,33 +36,13 @@ Reference:
 
 [CCR Simulation](/ccrSimulation-2.pdf)
 
-[Pub ccr sim](https://interestrate.pubpub.org/pub/uv7fnc6p)
-
-[Pub ccr sim pdf](https://assets.pubpub.org/3d8smglr/51598705809692.pdf)
-
-[Authorstream ccr sim](http://www.authorstream.com/Presentation/tommills-4394407-credit-risk-simulation-methodology/)
-
-[Powershow ccr sim](https://www.powershow.com/view0/90bf56-M2NiY/Credit_Risk_Simulation_Model_powerpoint_ppt_presentation)
-
-[Slideserve ccr sim](https://www.slideserve.com/davidxiao/counterparty-credit-risk-simulation-methodology-powerpoint-ppt-presentation)
-
-[PubHtml5 cva](https://pubhtml5.com/noml/ihcx/basic)
-
 [ScienceMedia cva](http://science-media.org/userfiles/1020/papers/1020_paper_1184.pdf)
 
 [FlipHtml5 ccr simulation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
 
 [Hcommons ccr simulation](https://hcommons.org/deposits/download/hc:32772/CONTENT/ccrsimulation-2.pdf)
 
-[Gitlab ccr simulation](https://gitlab.com/cfrm171/ccrsimulation/-/raw/master/ccrSimulation-2.pdf)
-
-[Bitbucket ccr simulation](https://bitbucket.org/cfrm17/ccrsimulation/downloads/ccrSimulation-2.pdf)
-
-[Github ccr simulation](https://github.com/cfrm17/ccrSimulation/raw/master/ccrSimulation-2.pdf)
-
-[Pubpub ccr simulation](https://interestrate.pubpub.org/pub/tjzhcqez/download/pdf)
-
-[Zenodo ccr simulation](https://zenodo.org/record/4016304/files/ccrSimulation-2.pdf)
+[Zenodo ccr simulation](https://zenodo.org/record/6529250#.YpOUmKgpDq4)
 
 [ScienceMedia ccr simulation](http://science-media.org/userfiles/1020/presentations/1020_presentation_433.pdf)
 

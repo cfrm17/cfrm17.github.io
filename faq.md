@@ -19,8 +19,6 @@ Trading system user account management is a process to manage client information
 
 [Fliphtml5 account](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDO0MTM3ITPkl0av9mY)
 
-[Github account](https://github.com/cfrm17/account)
-
 
 ### End of Day Batch
 
@@ -36,8 +34,6 @@ activities, processing transactions and backing up all data.
 
 [Fliphtml5 batch](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
 
-[Github batch](https://github.com/cfrm17/eod)
-
 
 
 ### Curve Bootstrapping
@@ -51,8 +47,6 @@ making the swap term structure a more efficient hedging and pricing vehicle.
 [OSF curve](https://osf.io/evzp4/download)
 
 [Fliphtml5 curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO0MTM3ITPkl0av9mY)
-
-[Github curve](https://github.com/cfrm17/curve)
 
 
 
@@ -80,8 +74,6 @@ settlements, clearances, record maintenance, regulatory compliance, accounting, 
 
 [OSF backoffice](https://osf.io/t7fna/download)
 
-[Github backoffice](https://github.com/cfrm17/backoffice)
-
 
 
 ### Back Office Function
@@ -95,8 +87,6 @@ business entities in tax-free export zones or offshore centres.
 
 [OSF function](https://osf.io/ndtcq/download)
 
-[Github function](https://github.com/cfrm17/backOfficeFunction)
-
 
 
 ### Data Management
@@ -109,8 +99,6 @@ to project pricing trends and to calculate risk.
 [Market Data Management](dataManagement.md)
 
 [OSF data](https://osf.io/exz9b/download)
-
-[Github data](https://github.com/cfrm17/marketData)
 
 [Fliphtml5 daa](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTMxYTM3ITPkl0av9mY)
 
@@ -144,7 +132,6 @@ process. It also provides user guides and instructions on how to manage trade li
 
 [Fliphtml5 life](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjMyYTM3ITPkl0av9mY)
 
-[Github life](https://github.com/cfrm17/tradeLifeCycle2)
 
 
 
@@ -160,5 +147,4 @@ life cycle process. It also provides user guides and instructions on how to mana
 
 [OSF cycle](https://osf.io/a9w5j/download)
 
-[Github cycle](https://github.com/cfrm17/tradeLifeCycle3)
 

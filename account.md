@@ -29,20 +29,8 @@ Reference:
 
 [Accoupnt Management](/AccountLicense-1.pdf)
 
-[Github account](https://github.com/cfrm17/account/raw/main/AccountLicense-1.pdf)
-
 [FlipHtml5 account](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDO0MTM3ITPkl0av9mY)
 
-[Pubpub account](https://david.pubpub.org/pub/zsjsig2m/download/pdf)
-
-[Zenodo account](https://zenodo.org/record/3929818/files/AccountLicense-1.pdf)
-
-[Gitlab account](https://gitlab.com/cfrm17/account/-/raw/master/AccountLicense-1.pdf)
-
-[Bitbucket account](https://bitbucket.org/cfrm17/account/downloads/AccountLicense-1.pdf)
+[Zenodo account](https://zenodo.org/record/6512430#.YpOSmKgpDq4)
 
 [OSF account](https://osf.io/fhtcw/download)
-
-[pub account](https://david.pubpub.org/pub/zsjsig2m)
-
-[git account](https://github.com/cfrm17/account)

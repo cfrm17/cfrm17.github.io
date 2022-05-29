@@ -14,7 +14,7 @@ Click the BackOffice tab at the top-left corner of the application. Then, expend
 fter that, you can either click the Load button to load an existing trade settlement for review/modification or the New button to generate a new payment 
 settlement.
 
-f you click the New button, a selection window pops up. Expend BackOffice -> Book (e.g., InterestRate) -> Product (e.g., FiBond). All the bond trades 
+You click the New button, a selection window pops up. Expend BackOffice -> Book (e.g., InterestRate) -> Product (e.g., FiBond). All the bond trades 
 within this book are displayed in the main windows.
 
 Select a trade and click the Go button. A new payment settlement template is shown in the main window. Fill all fields and click the Save button. 
@@ -28,20 +28,8 @@ Reference:
 
 [Back Office Function](/ManageBackofficeFunction-6.pdf)
 
-[Github back office function](https://github.com/cfrm17/backOfficeFunction/raw/main/ManageBackofficeFunction-6.pdf)
-
 [FlipHtml5 back office function](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETMxYTM3ITPkl0av9mY)
- 
-[Pubpub back office function](https://fixedincome.pubpub.org/pub/jmmakvm5/download/pdf)
 
-[Zenodo back office function](https://zenodo.org/record/3930859/files/ManageBackofficeFunction-6.pdf)
-
-[Gitlab back office function](https://gitlab.com/cfrm17/backofficefunction/-/raw/master/ManageBackofficeFunction-6.pdf)
-
-[Bitbucket back office function](https://bitbucket.org/cfrm17/backofficefunction/downloads/ManageBackofficeFunction-6.pdf)
+[Zenodo back office function](https://zenodo.org/record/6514299#.YpOTC6gpDq4)
 
 [OSF back office function](https://osf.io/ndtcq/download)
-
-[Pub back office function](https://fixedincome.pubpub.org/pub/jmmakvm5/release/1)
-
-[Git back office function](https://github.com/cfrm17/backOfficeFunction)

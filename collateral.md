@@ -39,29 +39,9 @@ Reference:
 
 [Collateral Management](/collateral-3.pdf)
 
-[Pub col](https://interestrate.pubpub.org/pub/qi11f8gf)
-
-[Pub col pdf](https://assets.pubpub.org/r4v9jytz/11598709246717.pdf)
-
-[Authorstream collateral](https://assets.pubpub.org/r4v9jytz/11598709246717.pdf)
-
-[Powershow collateral](http://www.authorstream.com/Presentation/tommills-4394409-collateral-management/)
-
-[Slideserve collateral](https://www.slideserve.com/davidxiao/collateral-management-powerpoint-ppt-presentation)
-
-[PubHtml5 collateral](https://pubhtml5.com/noml/swvt/basic)
-
 [FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
 
-[Gitlab collateral](https://gitlab.com/cfrm171/collateral/-/raw/master/collateral-3.pdf)
-
-[Bitbucket collateral](https://bitbucket.org/cfrm17/collateral/downloads/collateral-3.pdf)
-
-[Github collateral](https://github.com/cfrm17/collateral/raw/master/collateral-3.pdf)
-
-[Pubpub collateral](https://interestrate.pubpub.org/pub/qi11f8gf/download/pdf)
-
-[Zenodo collateral](https://zenodo.org/record/4016310/files/collateral-3.pdf)
+[Zenodo collateral](https://zenodo.org/record/6529297#.YpOqaKgpBD8)
 
 [ScienceMedia collateral](http://science-media.org/userfiles/1020/presentations/1020_presentation_434.pdf)
 

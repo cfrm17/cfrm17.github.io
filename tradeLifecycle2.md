@@ -28,20 +28,9 @@ Reference:
 
 [Trade Lifecycle 2](/TradeLifecycle2-9.pdf)
 
-[Github lifecycle2](https://github.com/cfrm17/tradeLifeCycle2/raw/main/TradeLifecycle2-9.pdf)
-
 [FlipHtml5 lifecycle2](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjMyYTM3ITPkl0av9mY)
 
-[Pubpub lifecycle2](https://fixedincome.pubpub.org/pub/kaz5jvfi/download/pdf)
-
-[Zenodo lifecycle2](https://zenodo.org/record/3930943/files/TradeLifecycle2-9.pdf)
-
-[Gitlab lifecycle2](https://gitlab.com/cfrm17/tradelifecyclepart2/-/raw/master/TradeLifecycle2-9.pdf)
-
-[Bitbucket lifecycle2](https://bitbucket.org/cfrm17/tradelifecyclepart2/downloads/TradeLifecycle2-9.pdf)
+[Zenodo lifecycle2](https://zenodo.org/record/6514479#.YpOy5qgpBD8)
 
 [OSF lifecycle2](https://osf.io/js7mg/download)
 
-[PUb lifecycle2](https://fixedincome.pubpub.org/pub/kaz5jvfi/release/1)
-
-[Git lifecycle2](https://github.com/cfrm17/tradeLifeCycle2)

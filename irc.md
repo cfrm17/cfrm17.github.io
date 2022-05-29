@@ -29,25 +29,11 @@ Reference:
 
 [IRC](/irc-9.pdf)
 
-[Pubpub irc home](https://interestrate.pubpub.org/pub/469v839f/release/1)
-
-[Pubpub irc pdf](https://assets.pubpub.org/z66vbt2h/31599313871841.pdf)
-
-[Authorstream irc](http://www.authorstream.com/Presentation/tommills-4397631-incremental-risk-charge-irc-introduction/)
-
 [Hcommon irc](https://hcommons.org/deposits/download/hc:33530/CONTENT/irc-9.pdf)
 
 [FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
-[Github irc](https://github.com/cfrm17/irc/raw/main/irc-9.pdf)
-
-[Pubpub irc](https://interestrate.pubpub.org/pub/469v839f/download/pdf)
-
 [Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
-
-[Bitbucket irc](https://bitbucket.org/cfrm17/irc/downloads/irc-9.pdf)
-
-[Gitlab irc](https://gitlab.com/cfrm171/irc/-/raw/master/irc-9.pdf)
 
 [Archive irc](https://ia601401.us.archive.org/13/items/irc-9/irc-9.pdf)
 

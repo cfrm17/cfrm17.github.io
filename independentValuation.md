@@ -28,17 +28,8 @@ We also provide market data analytic tool that allows user to construct curves a
 
 Reference: 
 
-[knowledge](https://finpricing.com/knowledge.html)
 
 [pdf](IndependentValuation-15.pdf)
-
-[Pubpub](https://david.pubpub.org/pub/len5pe9u/release/1)
-
-[Pubpub pdf](https://assets.pubpub.org/50xe2qms/01614109830756.pdf)
-
-[Pub pdf](https://david.pubpub.org/pub/len5pe9u/download/pdf)
-
-[Github](https://github.com/cfrm17/independentValuation/raw/main/IndependentValuation-15.pdf)
 
 [Zenodo](https://zenodo.org/record/4560524/files/IndependentValuation-15.pdf)
 

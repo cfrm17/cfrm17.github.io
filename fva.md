@@ -11,59 +11,31 @@ value of derivatives in order to ensure that a trader recovers funding costs tha
 with the same trade. This presentation elaborates an integrated framework for calculating both CVA and FVA. We also discuss the pros and cons of comparing 
 the popular credit exposure approach and the more accurate least square Monte Carlo approach. 
 
-CVA is very closely related to FVA. Credit value adjustment (CVA) is the market price of counterparty credit risk that has become a central part of 
-counterparty credit risk management.  By definition, CVA is the difference between the risk-free portfolio value and the true/risky portfolio value. 
-CVA not only allows institutions to quantify counterparty risk as a single measurable P&L number, but also offers an opportunity for banks to dynamically 
-manage, price, and hedge counterparty risk. The benefits of CVA are widely acknowledged. Many banks have set up internal credit risk trading desks to 
-manage counterparty risk on derivatives.
-
-CVA not only allows institutions to quantify counterparty risk as a single measurable P&L number, but also offers an opportunity for banks to 
-dynamically manage, price, and hedge counterparty risk. The benefits of CVA are widely acknowledged. Many banks have set up internal credit risk trading 
-desks to manage counterparty risk on derivatives.
-
 Both FVA and CVA are computed on the basis of counterparty portfolio that need to take master agreement and collateral agreement into account. 
 Master agreement is a document agreed between two parties, which applies to all transactions between them. Close out and netting agreement is part of 
 the Master Agreement. If two trades can be netted, the credit exposure is E(t)=max(V_1 (t)+V_2 (t),0). If two trade cannot be netted (called non-netting), 
 the credit exposure is E(t)=max(V_1 (t),0)+max(V_2 (t),0).
 
-CSA (or Margin Agreement or Collateral Agreement) is a legal document that regulates collateral posting. Trades under a CSA should be also under a 
-netting agreement, but not vice verse. It defines a variety of terms related to collateral posting: threshold, minimum transfer amount (MTA), independent 
-amount (or initial margin or haircut), credit exposure after taking CSA into account.
+For some counterparties with bond data from Bloomberg or other approved sources, if there are more than a number bonds available for building the whole term structure 
+of the bond spread curve for the counterparty, the bond spread curve is built using the bond yields over the USD swap curve directly with linear interpolation for the 
+missing terms.  
+
+If there are not enough number of bonds for a counterparty to build the whole term structure of  bond spread curve, the bond spread curve is built using a hybrid method 
+which is to calculate the bond spreads for the available bonds using the bond yields from the data source and interpolate the curve using the generic bond spread curves 
+built using the method described below.
 
 
 Reference: 
 
 [Funding Valuation Adjustment](/cvaFva-5.pdf)
 
-[Pub fva home](https://interestrate.pubpub.org/pub/ozumceme)
-
-[Pub fva pdf](https://assets.pubpub.org/0zt6yman/51598723652925.pdf)
-
-[Authorstream fva](http://www.authorstream.com/Presentation/tommills-4395431-funding-valuation-adjustment/)
-
 [Hcommon fva](https://hcommons.org/deposits/download/hc:33096/CONTENT/cvafva-5.pdf)
-
-[Pub fva home](https://interestrate.pubpub.org/pub/ozumceme)
-
-[Pub fva pdf](https://assets.pubpub.org/0zt6yman/51598723652925.pdf)
-
-[Authorstream fva](http://www.authorstream.com/Presentation/tommills-4395431-funding-valuation-adjustment/)
-
-[PubHtml5 jump](https://pubhtml5.com/noml/jfjo/basic)
 
 [FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
 
 [FlipHtml5 fva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgzM2IjNyETPkl0av9mY)
 
-[Github fva](https://github.com/cfrm17/fva/releases/download/1/cvaFva-5.pdf)
-
-[Pubpub fva](https://interestrate.pubpub.org/pub/ozumceme/download/pdf)
-
 [Zenodo fva](https://zenodo.org/record/4017723/files/cvaFva-5.pdf)
-
-[Bitbucket fva](https://bitbucket.org/cfrm17/fva/downloads/cvaFva-5.pdf)
-
-[Gitlab fva](https://gitlab.com/cfrm171/fva/-/raw/master/cvaFva-5.pdf)
 
 [ScienceMedia fva](https://science-media.org/userfiles/1020/presentations/1020_presentation_466.pdf)
 
