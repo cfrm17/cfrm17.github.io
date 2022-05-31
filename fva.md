@@ -33,7 +33,7 @@ Reference:
 
 [FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
 
-[FlipHtml5 fva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgzM2IjNyETPkl0av9mY)
+[Zenodo arrear fra](https://zenodo.org/record/6578408#.YpDwq6gpDq4)
 
 [Zenodo fva](https://zenodo.org/record/4017723/files/cvaFva-5.pdf)
 

@@ -43,7 +43,7 @@ Reference:
 
 [Zenodo collateral](https://zenodo.org/record/6529297#.YpOqaKgpBD8)
 
-[ScienceMedia collateral](http://science-media.org/userfiles/1020/presentations/1020_presentation_434.pdf)
+[Zenodo fx chooser](https://zenodo.org/record/6546805#.YpDu9KgpDq4)
 
 [Archive collateral](https://ia803105.us.archive.org/8/items/collateral_201804/collateral-3.pdf)
 

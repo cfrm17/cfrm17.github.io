@@ -23,8 +23,6 @@ approach. Only a couple of stochastic processes are used to simulate all market 
 dr=k(θ-r)dt+σdW where r – risk factor; k – drift; θ – mean reverse; σ – volatility; W – Wiener process. And use Geometric Brownian Motion (GBM) for all 
 non-mean reverting risk factors: dS=μSdt+σSdW. The calibration results for different risk factors are different from each other.
 
-A complex solution will use different stochastic processes are used for different risk factors. Different calibration processes apply. 
-
 Simulate yield curve or zero curve represented by yield rates or zero rates rather than swap curve represented by futures and swap rates. There are many 
 points in a yield curve, e.g., 1d, 1w, 2w 1m, etc. One can use Principal Component Analysis (PCA) to convert, say, 20 points into 3 point drivers. 
 Using PCA, you only need to simulate 3 drivers for each curve. But please remember you need to convert 3 drivers back to 20-point curve at each path 
@@ -36,15 +34,13 @@ Reference:
 
 [CCR Simulation](/ccrSimulation-2.pdf)
 
-[ScienceMedia cva](http://science-media.org/userfiles/1020/papers/1020_paper_1184.pdf)
-
 [FlipHtml5 ccr simulation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
 
 [Hcommons ccr simulation](https://hcommons.org/deposits/download/hc:32772/CONTENT/ccrsimulation-2.pdf)
 
 [Zenodo ccr simulation](https://zenodo.org/record/6529250#.YpOUmKgpDq4)
 
-[ScienceMedia ccr simulation](http://science-media.org/userfiles/1020/presentations/1020_presentation_433.pdf)
+[Zenodo caption](https://zenodo.org/record/6561073#.YpDwZagpDq4)
 
 [Archive ccr simulation](https://ia801006.us.archive.org/24/items/ccrSimulation/ccrSimulation-2.pdf)
 

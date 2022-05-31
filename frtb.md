@@ -40,7 +40,7 @@ Reference:
 
 [Zenodo frtb](https://zenodo.org/record/4017728/files/frtbSa-6.pdf)
 
-[ScienceMedia frtb](https://science-media.org/userfiles/1020/presentations/1020_presentation_467.pdf)
+[Zenodo cms cliquet](https://zenodo.org/record/6561892#.YpDwnqgpDq4)
 
 [Archive frtb](https:////ia601407.us.archive.org/28/items/frtbSa-6/frtbSa-6.pdf)
 

@@ -41,7 +41,7 @@ Reference:
 
 [ccr](/ccr-1.pdf)
 
-[ScienceMedia collateral](http://science-media.org/userfiles/1020/papers/1020_paper_1183.pdf)
+[Zenodo capped frn](https://zenodo.org/record/6558277#.YpDwUqgpDq4)
 
 [FlipHtml5 ccr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDN4UzM5ITPkl0av9mY)
 

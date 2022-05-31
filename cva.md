@@ -37,7 +37,7 @@ Reference:
 
 [FlipHtml5 cva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjMwkzM5ITPkl0av9mY)
 
-[FlipHtml5 cva pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzM2IjNyETPkl0av9mY)
+[Zenodo chooser cap](https://zenodo.org/record/6561499#.YpDwjKgpDq4)
 
 [Zenodo cva](https://zenodo.org/record/6533799#.YpOqwagpBD8)
 
