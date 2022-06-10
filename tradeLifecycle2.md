@@ -30,7 +30,10 @@ Reference:
 
 [FlipHtml5 lifecycle2](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjMyYTM3ITPkl0av9mY)
 
-[Zenodo lifecycle2](https://zenodo.org/record/6514479#.YpOy5qgpBD8)
+[Zenodo lifecycle2](https://zenodo.org/record/6514479/files/Zenodo-TradeLifecycleMgr-2.pdf)
 
 [OSF lifecycle2](https://osf.io/js7mg/download)
 
+[OSF flexible gic](https://osf.io/w97gv/wiki/home/)
+
+[OSF flexible gic pdf]([OSF flexible gic](https://osf.io/w97gv/wiki/home/))

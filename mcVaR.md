@@ -20,8 +20,10 @@ Reference:
 
 [Hcommon McVar](https://hcommons.org/deposits/download/hc:33594/CONTENT/montecarlovar-14.pdf)
 
-[FlipHtml5 mc var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNzQTN5ITPkl0av9mY)
+[OSF arrear quanto cms](https://osf.io/g6tp5/download)
 
 [Zenodo mc var](https://zenodo.org/record/4027823/files/MonteCarloVaR-14.pdf)
 
 [OSF mc var](https://osf.io/2a58h/download)
+
+[OSF quanto cms](https://osf.io/u95g2/wiki/home/)

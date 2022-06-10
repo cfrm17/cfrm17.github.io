@@ -34,8 +34,8 @@ Reference:
 
 [Zenodo simm](https://zenodo.org/record/4025373/files/initialMargin-8.pdf)
 
-[ScienceMedia simm](https://science-media.org/userfiles/1020/presentations/1020_presentation_469.pdf)
+[OSF tree](https://osf.io/6eyrv/download)
 
-[Archive simm](https://ia801501.us.archive.org/28/items/initialMargin-8/initialMargin-8.pdf)
+[OSF martingale tree](https://osf.io/vyk8t/wiki/home/)
 
 [OSF simm](https://osf.io/ybfuz/download)

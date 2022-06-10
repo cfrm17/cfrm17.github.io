@@ -41,6 +41,6 @@ Reference:
 
 [Zenodo market](https://zenodo.org/record/4025380/files/market-10.pdf)
 
-[Archive market](https://ia801000.us.archive.org/29/items/market_20180417/market-10.pdf)
+[OSF bk](https://osf.io/efy6v/download)
 
 [OSF market](https://osf.io/rbxqz/download)

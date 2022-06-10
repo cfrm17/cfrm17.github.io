@@ -35,3 +35,6 @@ Reference:
 
 [FlipHtml5](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTO5MDO2MTPkl0av9mY)
 
+[OSF cms spread](https://osf.io/ndte4/wiki/home/)
+
+[OSF cms spread option](https://osf.io/9db5u/download)

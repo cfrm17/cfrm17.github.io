@@ -30,3 +30,7 @@ Reference:
 [Zenodo curve construction](https://zenodo.org/record/6498116#.YpOvBqgpBD8)
 
 [OSF curve construction](https://osf.io/evzp4/download)
+
+[OSF variable swap](https://osf.io/j3p7q/wiki/home/)
+
+[OSF variable rate swap](https://osf.io/np5bw/download)
