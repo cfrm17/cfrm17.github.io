@@ -40,3 +40,5 @@ Reference:
 [Github Black](https://github.com/timxiao1203/BlackOptionModel)
 
 [Github sabr](https://github.com/timxiao1203/SABR-Calibration)
+
+[OSF hw convertible](https://osf.io/eyb8c/download)

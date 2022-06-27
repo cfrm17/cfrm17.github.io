@@ -29,8 +29,6 @@ Reference:
 
 [Market Risk Economic Capital](/mrEc-11.pdf)
 
-[Zenodo mrec](https://zenodo.org/record/6529472#.YpOxFqgpBD8)
-
 [OSF mrec](https://osf.io/fdmb4/download)
 
 [Zenodo closeout reserve](https://zenodo.org/record/6585388#.YpDwxagpDq4)
@@ -38,3 +36,7 @@ Reference:
 [Github basis](https://github.com/timxiao1203/MoneyMarketBasisCurve)
 
 [Github bond option](https://github.com/timxiao1203/MunicipalBondOption)
+
+[Zenodo capital](https://zenodo.org/record/6529472/files/Zenodo-mrEc.pdf)
+
+[OSF forward starting](https://osf.io/37fbt/download)

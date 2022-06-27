@@ -34,7 +34,7 @@ Reference:
 
 [Zenodo chooser cap](https://zenodo.org/record/6561499#.YpDwjKgpDq4)
 
-[Zenodo cva](https://zenodo.org/record/6533799#.YpOqwagpBD8)
+[Zenodo cva](https://zenodo.org/record/6533799/files/zenodo-cva.pdf)
 
 [Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
 
@@ -44,5 +44,5 @@ Reference:
 
 [Github digital swap](https://github.com/timxiao1203/DailyDigitalLIBORSwap)
 
-
+[OSF Brownian](https://osf.io/6dn54/download)
 

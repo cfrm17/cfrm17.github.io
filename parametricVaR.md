@@ -32,3 +32,5 @@ Reference:
 [OSF parametric var](https://osf.io/uzpk3/download)
 
 [Zenodo xccy swap](https://zenodo.org/record/6588375#.YpEh86gpDq4)
+
+[OSF 3 factors](https://osf.io/pbjf8/download)

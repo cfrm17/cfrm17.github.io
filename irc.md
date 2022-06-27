@@ -36,3 +36,7 @@ Reference:
 [Github MBS](https://github.com/timxiao1203/MBS-Model)
 
 [Github interpolation](https://github.com/timxiao1203/InterpolationAnalytics)
+
+[Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
+
+[OSF hw vol](https://osf.io/k3wc9/download)

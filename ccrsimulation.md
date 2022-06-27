@@ -30,14 +30,14 @@ Reference:
 
 [CCR Simulation](/ccrSimulation-2.pdf)
 
-[Zenodo ccr simulation](https://zenodo.org/record/6529250#.YpOUmKgpDq4)
+[Zenodo ccr simulation](https://zenodo.org/record/6529250/files/zenodo-ccrSimulation.pdf)
 
 [Zenodo caption](https://zenodo.org/record/6561073#.YpDwZagpDq4)
-
-[Archive ccr simulation](https://ia801006.us.archive.org/24/items/ccrSimulation/ccrSimulation-2.pdf)
 
 [OSF ccr simulation](https://osf.io/s5b4u/download)
 
 [Bitbook add-on exposure](https://cmrm11.gitbook.io/add-on-exposure/)
 
 [Bitbook intraday](https://cmrm11.gitbook.io/intraday-replacement-risk/)
+
+[OSF himalaya](https://osf.io/cg5x4/download)

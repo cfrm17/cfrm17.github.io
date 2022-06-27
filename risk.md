@@ -32,8 +32,6 @@ stochastic events that will affect our exposure in the future.
 
 [Counterparty Credit Risk](ccr.md)
 
-[OSF pooling](https://osf.io/atyb9/download)
-
 
 ### Credit Risk Simulation
 
@@ -49,7 +47,6 @@ historical data (~3 years) and are not systematically implied from today’s mar
 
 [Counterparty Credit Risk Monte Carlo Simulation](ccrsimulation.md)
 
-[OSF himalaya](https://osf.io/cg5x4/download)
 
 
 
@@ -66,7 +63,6 @@ their liquidation periods create risk to the Bank.
 
 [Collateral Management](collateral.md)
 
-[OSF securization](https://osf.io/vzfaw/download)
 
 
 
@@ -80,11 +76,6 @@ In other words, central to CVA is risky valuation.
 
 [Credit Valuation Adjustment](cva.md)
 
-[Zenodo cva](https://zenodo.org/record/4016321/files/cva-4.pdf)
-
-[Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
-
-[OSF Brownian](https://osf.io/6dn54/download)
 
 
 
@@ -99,8 +90,6 @@ the popular credit exposure approach and the more accurate least square Monte Ca
 
 [Funding Valuation Adjustment](fva.md)
 
-[OSF gic](https://osf.io/tgd82/download)
-
 
 
 
@@ -112,8 +101,6 @@ captures default risk and other residual risks. Liquidity risk is explicitly inc
 
 
 [FRTB Standarlized Approach](frtb.md)
-
-[OSF local vol](https://osf.io/74s83/downloand)
 
 
 
@@ -132,7 +119,6 @@ The VaR is the average between 2nd and 3rd lowest (negative) numbers.
 
 [Historical Value at Risk](historicalVaR.md)
 
-[Zenodo var](https://zenodo.org/record/4017733/files/HistoricalVaR-7.pdf)
 
 
 
@@ -151,7 +137,6 @@ the margin balance back to initial margin.
 
 [Standard Initial Margin Model](simm.md)
 
-[OSF bond curve](https://osf.io/4nhyb/download)
 
 
 
@@ -164,10 +149,6 @@ one.
 
 [Incremental Risk Charge](irc.md)
 
-[Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
-
-[OSF hw vol](https://osf.io/k3wc9/download)
-
 
 
 
@@ -178,10 +159,6 @@ of financial market basics. Click the links below for details. People in financi
 loss on an investment. Return is more important than value itself.
 
 [Financial Market](market.md)
-
-[OSF market](https://osf.io/rbxqz/download)
-
-[OSF exchangeable](https://osf.io/zgx8c/download)
 
 
 
@@ -197,10 +174,6 @@ between economic capital and regulatory capital? How to compute economic capital
 
 [Market Risk Economic Capital](mrEc.md)
 
-[Zenodo capital](https://zenodo.org/record/4027801/files/mrEc-11.pdf)
-
-[OSF forward starting](https://osf.io/37fbt/download)
-
 
 
 
@@ -214,7 +187,6 @@ historical simulation and Monte Carlo simulation. This presentation focuses on p
 
 [Parametric Value at Risk](parametricVaR.md)
 
-[OSF 3 factors](https://osf.io/pbjf8/download)
 
 
 
@@ -231,9 +203,6 @@ of a financial instrument with respect to time.
 
 [Financial Sensitivity](sensitivity.md)
 
-[Archive sensitivity](https://ia903107.us.archive.org/18/items/sensitivity_201804/sensitivity-13.pdf)
-
-[OSF hw convertible](https://osf.io/eyb8c/download)
 
 
 
@@ -248,7 +217,6 @@ If number of breaches is 10 or more, the VaR system is in Red zone.
 
 [Monte Carlo Value at Risk](mcVaR.md)
 
-[Archive mc var](https://ia801407.us.archive.org/30/items/monte-carlo-va-r-14/MonteCarloVaR-14.pdf)
 
 
 

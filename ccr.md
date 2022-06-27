@@ -34,7 +34,7 @@ Reference:
 
 [Zenodo capped frn](https://zenodo.org/record/6558277#.YpDwUqgpDq4)
 
-[Zenodo ccr](https://zenodo.org/record/6529211#.YpOUF6gpDq4)
+[Zenodo ccr](https://zenodo.org/record/6529211/files/zenodo-ccr.pdf)
 
 [Archive ccr](https://ia600105.us.archive.org/18/items/alex_Ccr/ccr-1.pdf)
 
@@ -45,3 +45,5 @@ Reference:
 [Gitbook ccr stress](https://cmrm11.gitbook.io/counterparty-risk-stress-test/)
 
 [Gitbook ccr measures](https://cmrm11.gitbook.io/counterparty-risk-measure/)
+
+[OSF pooling](https://osf.io/atyb9/download)

@@ -33,7 +33,7 @@ Reference:
 
 [Collateral Management](/collateral-3.pdf)
 
-[Zenodo collateral](https://zenodo.org/record/6529297#.YpOqaKgpBD8)
+[Zenodo collateral](https://zenodo.org/record/6529297/files/zenodo-collateral.pdf)
 
 [Zenodo fx chooser](https://zenodo.org/record/6546805#.YpDu9KgpDq4)
 
@@ -44,3 +44,5 @@ Reference:
 [Bitbook collateral exposure](https://cmrm11.gitbook.io/collateralized-exposure/)
 
 [Bitbook collateral methodology](https://cmrm11.gitbook.io/collateral-methodology/)
+
+[OSF securization](https://osf.io/vzfaw/download)
