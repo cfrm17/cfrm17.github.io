@@ -18,6 +18,11 @@ Reference:
 
 [Monte Carlo VaR](/MonteCarloVaR-14.pdf)
 
+
+[Bitbook validation](https://cmrm11.gitbook.io/market-risk-validation/)
+
+[Bitbook modelling](https://cmrm11.gitbook.io/market-risk-modeling/)
+
 [Hcommon McVar](https://hcommons.org/deposits/download/hc:33594/CONTENT/montecarlovar-14.pdf)
 
 [OSF arrear quanto cms](https://osf.io/g6tp5/download)
