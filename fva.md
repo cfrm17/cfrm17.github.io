@@ -36,3 +36,9 @@ Reference:
 [Archive fva](https://ia801009.us.archive.org/21/items/cvaFva/cvaFva-5.pdf)
 
 [OSF fva](https://osf.io/r6y2h/download)
+
+[OSF fva](https://osf.io/r6y2h/download)
+
+[Github quanto cms](https://github.com/timxiao1203/QuantoCmsSpreadSwap)
+
+[Github inflation swap](https://github.com/timxiao1203/InflationSwap)

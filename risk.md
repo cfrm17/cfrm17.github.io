@@ -151,8 +151,6 @@ the margin balance back to initial margin.
 
 [Standard Initial Margin Model](simm.md)
 
-[Archive simm](https://ia801501.us.archive.org/28/items/initialMargin-8/initialMargin-8.pdf)
-
 [OSF bond curve](https://osf.io/4nhyb/download)
 
 
@@ -183,8 +181,6 @@ loss on an investment. Return is more important than value itself.
 
 [OSF market](https://osf.io/rbxqz/download)
 
-[Archive market](https://ia801000.us.archive.org/29/items/market_20180417/market-10.pdf)
-
 [OSF exchangeable](https://osf.io/zgx8c/download)
 
 
@@ -200,8 +196,6 @@ between economic capital and regulatory capital? How to compute economic capital
 
 
 [Market Risk Economic Capital](mrEc.md)
-
-[Archive capital](https://ia803108.us.archive.org/21/items/alex_MrEc/mrEc-11.pdf)
 
 [Zenodo capital](https://zenodo.org/record/4027801/files/mrEc-11.pdf)
 
@@ -219,8 +213,6 @@ historical simulation and Monte Carlo simulation. This presentation focuses on p
 
 
 [Parametric Value at Risk](parametricVaR.md)
-
-[Archive Par VaR](https://ia801502.us.archive.org/29/items/parametric-va-r-12/ParametricVaR-12.pdf)
 
 [OSF 3 factors](https://osf.io/pbjf8/download)
 

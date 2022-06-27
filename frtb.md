@@ -34,14 +34,13 @@ Reference:
 
 [Fundamental Review of Trading Book](/frtbSa-6.pdf)
 
-[Hcommon frtb](https://hcommons.org/deposits/download/hc:33098/CONTENT/frtbsa-6.pdf)
-
-[FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
-
 [Zenodo frtb](https://zenodo.org/record/4017728/files/frtbSa-6.pdf)
 
 [Zenodo cms cliquet](https://zenodo.org/record/6561892#.YpDwnqgpDq4)
 
-[Archive frtb](https:////ia601407.us.archive.org/28/items/frtbSa-6/frtbSa-6.pdf)
-
 [OSF frtb](https://osf.io/pn768/download)
+
+[Github tarn swap](https://github.com/timxiao1203/TARN-Swap)
+
+[Github LVGM](https://github.com/timxiao1203/LocalVolatilityGaussianModel)
+

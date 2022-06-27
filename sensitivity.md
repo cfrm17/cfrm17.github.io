@@ -31,13 +31,12 @@ Reference:
 
 [Sensitivity](/sensitivity-13.pdf)
 
-[Hcommon sensitivity](https://hcommons.org/deposits/download/hc:33592/CONTENT/sensitivity-13.pdf)
-
-[FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
-
 [Zenodo sensitivity](https://zenodo.org/record/4027817/files/sensitivity-13.pdf)
 
 [OSF sensitivity](https://osf.io/qau3b/download)
 
 [Zenodo cms swap](https://zenodo.org/record/6588555#.YpE20qgpDq4)
 
+[Github Black](https://github.com/timxiao1203/BlackOptionModel)
+
+[Github sabr](https://github.com/timxiao1203/SABR-Calibration)

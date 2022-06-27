@@ -35,12 +35,12 @@ Reference:
 
 [Market](/market-10.pdf)
 
-[Hcommon market](https://hcommons.org/deposits/download/hc:33532/CONTENT/market-10.pdf)
-
-[FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
-
 [Zenodo market](https://zenodo.org/record/4025380/files/market-10.pdf)
 
 [OSF bk](https://osf.io/efy6v/download)
 
 [OSF market](https://osf.io/rbxqz/download)
+
+[Github MVF swap](https://github.com/timxiao1203/MVF-Swap)
+
+[Github cms cap](https://github.com/timxiao1203/CMS-Cap)

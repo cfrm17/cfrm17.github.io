@@ -29,6 +29,14 @@ Eurodollar futures or forward rate agreements (FRA). The far end is derived usin
 discount factor for each maturity point and cash flow date sequentially so that all curve instruments can be priced back to the market quotes.
 All bootstrapping methods build up the term structure from shorter maturities to longer ones.
 
+Once we independently apply the above procedure for each of the three mod groups, we
+end up with three series of discount factors at three disjoint series of offset dates. We also
+have the discount factors at the cash dates. We form the final set of curve anchor dates
+from all offset dates and all cash dates. So, we obtain discount factors at all anchor dates.
+At any intermediate date we produce a discount factor by interpolating between the
+discount factors at the nearest (left and right) neighboring anchor dates.
+
+
 [OSF curve construction](https://osf.io/yf2rj/download)
 
 [FlipHtml5 curve construction](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDO1kzM2ITPkl0av9mY)

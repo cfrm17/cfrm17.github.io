@@ -29,13 +29,12 @@ Reference:
 
 [Market Risk Economic Capital](/mrEc-11.pdf)
 
-[Hcommon mrec](https://hcommons.org/deposits/download/hc:33534/CONTENT/mrec-11.pdf)
-
-[FlipHtml5 mrec](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
-
 [Zenodo mrec](https://zenodo.org/record/6529472#.YpOxFqgpBD8)
 
 [OSF mrec](https://osf.io/fdmb4/download)
 
 [Zenodo closeout reserve](https://zenodo.org/record/6585388#.YpDwxagpDq4)
 
+[Github basis](https://github.com/timxiao1203/MoneyMarketBasisCurve)
+
+[Github bond option](https://github.com/timxiao1203/MunicipalBondOption)

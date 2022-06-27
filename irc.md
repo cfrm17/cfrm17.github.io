@@ -29,13 +29,10 @@ Reference:
 
 [IRC](/irc-9.pdf)
 
-[Hcommon irc](https://hcommons.org/deposits/download/hc:33530/CONTENT/irc-9.pdf)
-
-[FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
-
-[Archive irc](https://ia601401.us.archive.org/13/items/irc-9/irc-9.pdf)
-
 [OSF irc](https://osf.io/4fdjm/download)
 
 [Zenodo double cms](https://zenodo.org/record/6578517#.YpDwuqgpDq4)
 
+[Github MBS](https://github.com/timxiao1203/MBS-Model)
+
+[Github interpolation](https://github.com/timxiao1203/InterpolationAnalytics)

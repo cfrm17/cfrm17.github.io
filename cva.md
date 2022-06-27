@@ -26,9 +26,6 @@ other an option to default when entering into a defaultable transaction. If we a
 American style options. If we assume that a default may only happen on the payment dates, the default options are either European options or Bermudan 
 options. Both Bermudan and American options require backward induction valuations. 
 
-Based on our theory, we propose a novel cash-flow-based practical framework for calculating the bilateral risky value and bilateral CVA at the counterparty 
-portfolio level. This framework can easily incorporate various credit mitigation techniques, such as netting agreements and margin agreements, and can 
-capture wrong/right way risk. Numerical results show that these credit mitigation techniques and wrong/right way risk have significant impacts on CVA. 
 
 
 Reference: 
@@ -42,4 +39,10 @@ Reference:
 [Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
 
 [OSF cva](https://osf.io/hygf7/download)
+
+[Github hw calibration](https://github.com/timxiao1203/HullWhiteVolatilityCalibration)
+
+[Github digital swap](https://github.com/timxiao1203/DailyDigitalLIBORSwap)
+
+
 
