@@ -256,7 +256,7 @@ If number of breaches is 10 or more, the VaR system is in Red zone.
 
 [Monte Carlo Value at Risk](mcVaR.md)
 
-[Bitbook validation[(https://cmrm11.gitbook.io/market-risk-validation/)
+[Bitbook validation](https://cmrm11.gitbook.io/market-risk-validation/)
 
 [Bitbook modelling](https://cmrm11.gitbook.io/market-risk-modeling/)
 
