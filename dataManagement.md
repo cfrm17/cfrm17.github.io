@@ -29,13 +29,13 @@ Reference:
 
 [Market Data Management](/ManageData-7.pdf)
 
-[FlipHtml5 data](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTMxYTM3ITPkl0av9mY)
-
-[Zenodo data](https://zenodo.org/record/6514309#.YpOsPqgpBD8)
+[Zenodo data](https://zenodo.org/record/6514309/files/Zenodo-ManageData.pdf)
 
 [OSF data](https://osf.io/exz9b/download)
 
 [OSF quanto total](https://osf.io/rwfgn/wiki/home/)
 
 [OSF quanto total return](https://osf.io/p7kn4/download)
+
+[Github knockout](https://github.com/cfrm17/KnockoutSwap)
 

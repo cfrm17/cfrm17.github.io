@@ -14,11 +14,13 @@ term structure of the yields-to-maturity of zero coupon bonds. Given a zero rate
 
 [More details](/IrCurveIntroduction-1.pdf)
 
-[OSF curve](https://osf.io/ut5gw/download)
-
-[FlipHtml5 swap curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTNyITM2ITPkl0av9mY)
+[OSF curve](https://osf.io/dx584/download)
 
 [OSF collateral](https://osf.io/preprints/inarxiv/dwz2m/download)
+
+[Github digital](https://github.com/timxiao1203/DigitalOption)
+
+[Zenodo swap curve](https://zenodo.org/record/6494992/files/Zenodo-IrCurveIntroduction.pdf)
 
 
 ### Yield Curve Construction
@@ -37,13 +39,13 @@ At any intermediate date we produce a discount factor by interpolating between t
 discount factors at the nearest (left and right) neighboring anchor dates.
 
 
-[OSF curve construction](https://osf.io/yf2rj/download)
-
-[FlipHtml5 curve construction](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDO1kzM2ITPkl0av9mY)
-
-[Hcommons curve construction](https://hcommons.org/deposits/download/hc:34016/CONTENT/ircurve-2.pdf)
+[OSF curve construction](https://osf.io/3xrs5/download)
 
 [OSF cva](https://osf.io/preprints/inarxiv/9765p/download)
+
+[Github short curve](https://github.com/timxiao1203/ShortTermCurve)
+
+[Zenodo curve](https://zenodo.org/record/6498116/files/Zenodo-IrCurve.pdf)
 
 
 ### Basis Curve
@@ -55,6 +57,12 @@ structure is determined using LIBOR rates and the remaining is derived using bas
 [Zenodo basis swap](https://zenodo.org/record/6588375#.YpEh86gpDq4)
 
 [OSF convertible](https://osf.io/preprints/inarxiv/zv2xe/download)
+
+[Github fund](https://github.com/cfrm17/FundExposure-)
+
+[FlipHtml5 basis](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM2kzM2ITPkl0av9mY)
+
+[Zenodo basis curve](https://zenodo.org/record/6498212/files/Zenodo-IrBasisCurve.pdf)
 
 
 ### OIS Curve
@@ -74,11 +82,11 @@ transactions.
 
 [FlipHtml5 ois](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETN0MDN2ITPkl0av9mY)
 
-[OSF ois](https://osf.io/68sc9/download)
-
-[Hcommons ois](https://hcommons.org/deposits/download/hc:34720/CONTENT/irois-4.pdf)
+[Github principal](https://github.com/cfrm17/PrincipalNote-)
 
 [OSF diffution model](https://osf.io/preprints/inarxiv/zxk7w/download)
+
+[Zenodo ois](https://zenodo.org/record/6498443/files/Zenodo-IrOIS.pdf)
 
 
 
@@ -89,29 +97,25 @@ is derived from quoted volatilities that provides a way to interpolate an implie
 quote volatility versus strike directly, the FX smile is given implicitly as a set of restrictions implied by market instruments and as such a calibration 
 procedure to construct a volatility- delta or volatility-strike smile is used.
 
-[OSF fx vol](https://osf.io/nd4tx/download)
-
-[FlipHtml5 fx vol](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjMyYDN2ITPkl0av9mY)
+[Github collateralized swap](https://github.com/cfrm17/CollateralizedSwap)
 
 [OSF test](https://osf.io/preprints/inarxiv/qh7vj/download)
 
+[Zenodo fx vol](https://zenodo.org/record/6499323/files/Zenodo-FxVol.pdf)
 
 
-### SwapCurve Volatility
+
+### Swaption Volatility
 
 An interest rate swaption volatility surface is a four-dimensional plot of the implied volatility of a swaption as a function of strike and expiry and tenor. 
 The term structures of implied volatilities which provide indications of the market’s near- and long-term uncertainty about future short- and long-term swap rates. 
 A crucial property of the implied volatility surface is the absence of arbitrage.
 
-[OSF swaption volatilities](https://osf.io/73qk2/download)
-
-[FlipHtml5 swaption volatility](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNyYDN2ITPkl0av9mY)
-
-[Hcommons swaption volatility](https://hcommons.org/deposits/download/hc:35170/CONTENT/irswnvol-6.pdf)
+[Github HF VaR](https://github.com/cfrm17/HedgeFundVaR)
 
 [OSF determination](https://osf.io/preprints/inarxiv/n29s7/download)
 
-
+[Zenodo swaption vol](https://zenodo.org/record/6499360/files/Zenodo-IrSwnVol.pdf)
 
 
 ### Cap Implied Volatility
@@ -133,9 +137,11 @@ absence of arbitrage.
 
 [FlipHtml5 cap vol](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN0ITN2ITPkl0av9mY)
 
-[OSF cap vol](https://osf.io/gav3c/download)
+[Github barrier](https://github.com/cfrm17/HedgeFundBarrierOption)
 
 [OSF irc](https://osf.io/preprints/inarxiv/f6v43/download)
+
+[Zenodo cap vol](https://zenodo.org/record/6502573/files/Zenodo-IrCapVol.pdf)
 
 
 
@@ -151,6 +157,10 @@ methodology is based on the arbitrage-free relationship between forward FX rates
 
 [OSF multiple](https://osf.io/preprints/inarxiv/3p7fy/download)
 
+[Github Mortgage](https://github.com/cfrm17/AdjustableRateMortgages)
+
+[Zenodo fx spreads](https://zenodo.org/record/6502685/files/Zenodo-FxForwardCurve.pdf)
+
 
 
 ### Inflation Curve
@@ -160,14 +170,13 @@ the relationship between CPI and different terms. The popular indices are Euro H
 securities and inflation derivatives, such as inflation linked bonds, inflation swaps and inflation caps/floors.
 
 
-[Zenodo inflation curve](https://zenodo.org/record/4299095/files/IrInflationCurve-9.pdf)
+[Zenodo inflation curve](https://zenodo.org/record/6502757/files/Zenodo-IrInflationCurve.pdf)
 
 [Gitbook inflation curve](https://cfrm17.gitbook.io/forward-inflation-curve/)
 
-[FlipHtml5 inflation curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN3gDNyMTPkl0av9mY)
-
 [OSF impact](https://osf.io/preprints/inarxiv/chjxe/download)
 
+[Github Index](https://github.com/cfrm17/HedgeFundIndex)
 
 
 
@@ -186,11 +195,9 @@ financial institutions, that are usually treated as government-issued inflation-
 
 [More details](/FiInflationBondCurve-10.pdf)
 
-[Zenodo inflation bond curve](https://zenodo.org/record/4299106/files/FiInflationBondCurve-10.pdf)
+[Zenodo inflation bond curve](https://zenodo.org/record/6502866/files/Zenodo-FiInflationBondCurve.pdf)
 
-[FlipHtml5 inflation bond curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTO3gDNyMTPkl0av9mY)
-
-[OSF inflation bond curve](https://osf.io/7ukym/download)
+[Github trust swap](https://github.com/cfrm17/TrustSwap)
 
 [Gitbook inflation bond curve](https://cfrm17.gitbook.io/inflation-linked-bond-curve/)
 
@@ -203,11 +210,9 @@ Treasury curve or treasury benchmark curve is the term structures of treasury bi
 ecurities issued by government are treasury bills and treasury bonds. Treasury bills, that do not pay coupons but rather are issued at a discount 
 and mature at their par value, are issued at short terms. Issurance occurs through a competitive auction.
 
-[OSF treasury benchmark curve](https://osf.io/umy36/download)
+[Github asset](https://github.com/cfrm17/AssetsHedge)
 
-[Zenodo treasury benchmark curve](https://zenodo.org/record/4299113/files/FiTreasuryCurve-11.pdf)
-
-[FlipHtml5 treasury benchmark curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTM4gDNyMTPkl0av9mY)
+[Zenodo treasury benchmark curve](https://zenodo.org/record/6505581/files/Zenodo-FiTreasuryCurve.pdf)
 
 [OSF derivatives](https://osf.io/preprints/inarxiv/9765p/download)
 
@@ -221,12 +226,9 @@ or bonds at some maturities. There are four elements in interest rate: zero coup
 The derivation of one of these element is conveniently sufficient for the determination of the other three elements. Each interest rate definition is derived 
 from specific representations of bond price.
 
-[OSF treasury yield](https://osf.io/kxrzg/download)
+[Github cash hedge](https://github.com/cfrm17/CashFlowHedge)
 
-[Zenodo treasury yield](https://zenodo.org/record/4299119/files/FiTreasuryYieldCurve-12.pdf)
-
-[FlipHtml5 treasury yield](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjM4gDNyMTPkl0av9mY)
-
+[Zenodo treasury yield](https://zenodo.org/record/6505850/files/Zenodo-FiTreasuryYieldCurve.pdf)
 
 
 
@@ -239,13 +241,9 @@ rate represents the average interest rate payable on tax-exempt variable rate de
 demand obligations. In general, the SIFMA rate trades as a proportion of LIBOR rate.
 
 
-[OSF sifma curve](https://osf.io/x3ygn/download)
+[Github fair hedge](https://github.com/cfrm17/FairValueHedge)
 
 [Zenodo sifma curve](https://zenodo.org/record/4313794/files/FiSifmaCurve-13.pdf)
-
-[FlipHtml5 sifma curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTO5ADMzMTPkl0av9mY)
-
-
 
 
 
@@ -268,9 +266,9 @@ a measure of the dollar shortage in the market. The more negative the basis is, 
 
 [FlipHtml5 cross currency basis curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUDMwEDMzMTPkl0av9mY)
 
-[OSF xccy curve](https://osf.io/pxu9z/download)
+[Github acquisation](https://github.com/cfrm17/PortfolioAcquisition)
 
-[Zenodo xccy curve](https://zenodo.org/record/4313815/files/IrXccyBasisCurve-14.pdf)
+[Zenodo xccy curve](https://zenodo.org/record/6506359/files/Zenodo-IrXccyBasisCurve.pdf)
 
 
 
@@ -285,11 +283,9 @@ the precious metal or FX smile is given implicitly as a set of restrictions impl
 a volatility- delta or volatility-strike smile is used.
 
 
-[OSF precious metal volatility](https://osf.io/zdk3g/download)
+[Github mbs defer](https://github.com/cfrm17/MBSDeferredAsset)
 
 [Zenodo precious metal volatility](https://zenodo.org/record/4407401/files/CmcPreciousMetalVol-15.pdf)
-
-[FlipHtml5 precious metal volatility](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjN3ATOzMTPkl0av9mY)
 
 
 
@@ -301,10 +297,9 @@ cashflows may include a credit spread above or below the base rate. Credit sprea
 The structural approach regards default as an endogenous event by focusing on the capital structure of the firm. Whereas the reduced-form approach does not explain 
 the event of default endogenously, but characterizes it exogenously by a jump process.
 
-[OSF credit spread](https://osf.io/gfjkm/download)
+[Github commitment](https://github.com/cfrm17/MortgageCommitment)
 
-[Zenodo credit spread](https://zenodo.org/record/4429184/files/CrCreditSpread-16.pdf)
+[Zenodo credit spread](https://zenodo.org/record/6506537/files/Zenodo-CrCreditSpread.pdf)
 
-[FlipHtml5 credit spread](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzNykTM0MTPkl0av9mY)
 
 

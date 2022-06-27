@@ -32,11 +32,10 @@ Referencce:
 
 [Batch Process](/BatchJob-2.pdf)
 
-[FlipHtml5 eod](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
-
 [Zenodo eod](https://zenodo.org/record/6512443/files/Zenodo-BatchJob.pdf)
 
 [OSF eod](https://osf.io/4q3tf/download)
 
 [OSF inverse swap](https://osf.io/9jyh8/download)
 
+[Github balance](https://github.com/cfrm17/BalanceSheetRisk)

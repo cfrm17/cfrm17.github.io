@@ -29,11 +29,10 @@ Reference:
 
 [Download and Installation](/DownloadInstall-4.pdf)
 
-[FlipHtml5 install](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTN1MTM3ITPkl0av9mY)
-
-[Zenodo install](https://zenodo.org/record/6512485#.YpOssagpBD8)
+[Zenodo install](https://zenodo.org/record/6512485/files/Zenodo-DownloadInstall.pdf)
 
 [OSF early start](https://osf.io/z587j/wiki/home/)
 
 [OSF early start swap](https://osf.io/kapm3/download)
 
+[Github rate lock](https://github.com/cfrm17/RateLockAnalysis)

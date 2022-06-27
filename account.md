@@ -29,8 +29,10 @@ Reference:
 
 [Accoupnt Management](/AccountLicense-1.pdf)
 
-[FlipHtml5 account](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDO0MTM3ITPkl0av9mY)
-
 [Zenodo account](https://zenodo.org/record/6512430#.YpOSmKgpDq4)
 
 [OSF account](https://osf.io/fhtcw/download)
+
+[Github perform](https://github.com/cfrm17/PerformanceDeferredShare)
+
+[Zenodo account](https://zenodo.org/record/6512430/files/Zenodo-AccountLicense.pdf)

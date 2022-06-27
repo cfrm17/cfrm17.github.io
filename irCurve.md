@@ -27,10 +27,12 @@ Reference:
 
 [FlipHtml5 curve construction](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO0MTM3ITPkl0av9mY)
 
-[Zenodo curve construction](https://zenodo.org/record/6498116#.YpOvBqgpBD8)
-
 [OSF curve construction](https://osf.io/evzp4/download)
 
 [OSF variable swap](https://osf.io/j3p7q/wiki/home/)
 
 [OSF variable rate swap](https://osf.io/np5bw/download)
+
+[Github mortgage analysis](https://github.com/cfrm17/MortgageAnalytics)
+
+[Zenodo curve](https://zenodo.org/record/6512460/files/Zenodo-CurveConstruction.pdf)

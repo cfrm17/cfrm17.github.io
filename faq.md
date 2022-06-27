@@ -15,9 +15,6 @@ Trading system user account management is a process to manage client information
 
 [Account Management](account.md)
 
-[OSF account](https://osf.io/fhtcw/download)
-
-[Fliphtml5 account](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDO0MTM3ITPkl0av9mY)
 
 
 ### End of Day Batch
@@ -30,9 +27,6 @@ activities, processing transactions and backing up all data.
 
 [End of Day Process](batch.md)
 
-[OSF batch](https://osf.io/4q3tf/download)
-
-[Fliphtml5 batch](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
 
 
 
@@ -44,9 +38,6 @@ making the swap term structure a more efficient hedging and pricing vehicle.
 
 [Curve Construction](irCurve.md)
 
-[OSF curve](https://osf.io/evzp4/download)
-
-[Fliphtml5 curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO0MTM3ITPkl0av9mY)
 
 
 
@@ -58,9 +49,6 @@ Click to open the “setup.exe” and installation starts. Follow the on-screen 
 
 [Download and Installation](download.md)
 
-[Fliphtml5 download](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTN1MTM3ITPkl0av9mY)
-
-[Github download](https://github.com/cfrm17/download)
 
 
 
@@ -72,7 +60,6 @@ settlements, clearances, record maintenance, regulatory compliance, accounting, 
 
 [Back Office Process](backoffice.md)
 
-[OSF backoffice](https://osf.io/t7fna/download)
 
 
 
@@ -85,8 +72,6 @@ business entities in tax-free export zones or offshore centres.
 
 [Back Office Functions](backofficeFun.md)
 
-[OSF function](https://osf.io/ndtcq/download)
-
 
 
 ### Data Management
@@ -98,9 +83,6 @@ to project pricing trends and to calculate risk.
 
 [Market Data Management](dataManagement.md)
 
-[OSF data](https://osf.io/exz9b/download)
-
-[Fliphtml5 daa](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTMxYTM3ITPkl0av9mY)
 
 
 
@@ -113,9 +95,6 @@ a series of logical stages and steps.
 
 [Trade Life Cycle 1](tradeLifecycle1.md)
 
-[OSF trade](https://osf.io/jskg5/download)
-
-[Github trade](https://github.com/cfrm17/tradeLifeCycle1)
 
 
 
@@ -128,9 +107,6 @@ process. It also provides user guides and instructions on how to manage trade li
 
 [Trade Life Cycle 2](tradeLifecycle2.md)
 
-[OSF life](https://osf.io/vwahg/download)
-
-[Fliphtml5 life](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjMyYTM3ITPkl0av9mY)
 
 
 
@@ -145,6 +121,5 @@ life cycle process. It also provides user guides and instructions on how to mana
 
 [Trade Life Cycle 3](tradeLifecycle3.md)
 
-[OSF cycle](https://osf.io/a9w5j/download)
 
 
