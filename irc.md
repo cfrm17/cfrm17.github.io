@@ -33,8 +33,6 @@ Reference:
 
 [FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
-[Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
-
 [Archive irc](https://ia601401.us.archive.org/13/items/irc-9/irc-9.pdf)
 
 [OSF irc](https://osf.io/4fdjm/download)

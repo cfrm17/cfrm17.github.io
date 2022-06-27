@@ -19,34 +19,35 @@ markets.
 
 ### Counterparty Credit Risk
 
-Counterparty credit risk measurement is credit exposure (CE). It is the cost of replacing or hedging a contract at the time of default. Other measures 
+
+Counterparty risk is the risk that the counterparty to a financial transaction may fail to meet its contractual payments, causing financial loss for the bank. 
+Counterparty risk is represented via exposure profiles. Exposure is the cost of replacing or hedging a contract at the time of default. Other measures 
 include Potential future exposure (PFE), Expected exposure (EE), Expected Positive Exposure (EPE), Effective expected exposure (EEE), Effective EPE, 
 Exposure at default or EAD. 
 
+Counterparty risk is much less specific for pricing models than it is for simulating the market prices. The only requirement here is that pricing supports “mark to future” 
+or the path dependent value and events of a trade at any point across the simulation time bucket. This involves storing and accessing reset rates, exercise status, realized 
+stochastic events that will affect our exposure in the future.
+
+
 [Counterparty Credit Risk](ccr.md)
-
-[OSF ccr](https://osf.io/2dg48/download)
-
-[Archive ccr](https://ia600105.us.archive.org/18/items/alex_Ccr/ccr-1.pdf)
 
 [OSF pooling](https://osf.io/atyb9/download)
 
 
 ### Credit Risk Simulation
 
-o calculate credit exposure or replacement cost in future times, one needs to simulate market evolutions. Simulation must be conducted under the 
+To calculate credit exposure or replacement cost in future times, one needs to simulate market evolutions. Simulation must be conducted under the 
 real-world measure. One could use a simple but inaccurate solution, or accurate but complex approach. Some vendors and institutions use this simplified 
 approach. Only a couple of stochastic processes are used to simulate all market risk factors. They use Vasicek model for all mean reverting factors
 dr=k(θ-r)dt+σdW where r – risk factor; k – drift; θ – mean reverse; σ – volatility; W – Wiener process. And use Geometric Brownian Motion (GBM) for all 
 non-mean reverting risk factors: dS=μSdt+σSdW. The calibration results for different risk factors are different from each other.
 
+Simulation models have the objective to forecast within a reasonable range and horizon market factors such as equity prices, interest and FX rates, and so on. 
+In order to capture a realistic view of our exposure going forward, and because CCR is not directly hedgeable, those models are typically calibrated using 
+historical data (~3 years) and are not systematically implied from today’s market prices.
+
 [Counterparty Credit Risk Monte Carlo Simulation](ccrsimulation.md)
-
-[OSF ccr sim](https://osf.io/s5b4u/download)
-
-[Archive ccr sim](https://ia801006.us.archive.org/24/items/ccrSimulation/ccrSimulation-2.pdf)
-
-[FlipHtml5 ccr sim](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
 
 [OSF himalaya](https://osf.io/cg5x4/download)
 
@@ -59,16 +60,11 @@ In the derivatives world, collateral posting is a risk reduction tool that mitig
 to reduce economic capital and credit risk, free up lines of credit, and expand the range of counterparties. All of these factors contribute to the 
 growth of financial markets. The benefits are broadly acknowledged and affect dealers and end users, as well as the financial system generally.  
 
+When the Bank determines that the counterparty is in default, it will start to negotiate new trades to replace exist derivative portfolio. At the same time, 
+it will take hold the collateral asset and try to sell these assets in the market. The value fluctuations of the portfolio and the collateral asset during 
+their liquidation periods create risk to the Bank. 
 
 [Collateral Management](collateral.md)
-
-[OSF collateral](https://osf.io/zuhcw/download)
-
-[Archive collateral](https://ia803105.us.archive.org/8/items/collateral_201804/collateral-3.pdf)
-
-[Science Media collateral](http://science-media.org/userfiles/1020/presentations/1020_presentation_434.pdf)
-
-[FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
 
 [OSF securization](https://osf.io/vzfaw/download)
 
@@ -84,11 +80,7 @@ In other words, central to CVA is risky valuation.
 
 [Credit Valuation Adjustment](cva.md)
 
-[OSF cva](https://osf.io/hygf7/download)
-
 [Zenodo cva](https://zenodo.org/record/4016321/files/cva-4.pdf)
-
-[FlipHtml5 cva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjMwkzM5ITPkl0av9mY)
 
 [Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
 
@@ -107,14 +99,6 @@ the popular credit exposure approach and the more accurate least square Monte Ca
 
 [Funding Valuation Adjustment](fva.md)
 
-[OSF fva](https://osf.io/r6y2h/download)
-
-[Archive fva](https://ia801009.us.archive.org/21/items/cvaFva/cvaFva-5.pdf)
-
-[Science Media fva](https://science-media.org/userfiles/1020/presentations/1020_presentation_466.pdf)
-
-[FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
-
 [OSF gic](https://osf.io/tgd82/download)
 
 
@@ -129,20 +113,16 @@ captures default risk and other residual risks. Liquidity risk is explicitly inc
 
 [FRTB Standarlized Approach](frtb.md)
 
-[OSF frtb](https://osf.io/pn768/download)
-
-[Archive frtb](https://ia601407.us.archive.org/28/items/frtbSa-6/frtbSa-6.pdf)
-
-[Science Media frtb](https://science-media.org/userfiles/1020/presentations/1020_presentation_467.pdf)
-
-[FlipHtml5 frtb](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDNwkzM5ITPkl0av9mY)
-
 [OSF local vol](https://osf.io/74s83/downloand)
 
 
 
 
 ### Historical VaR
+
+Market risk itself is defined as the potential (adverse) change in portfolio value from changes in the market inputs. A distribution analysis of 
+historical returns against simulated returns will be performed in cases where material adverse effects are observed. This includes the evaluation 
+of important spreads (such as libor-OIS) as well as outright prices.
 
 The historical VaR approach follows the following procedures: First, obtain one year historical value time series of all market factors, such as a stock 
 price time series is ■(x ̅_1&⋯&x ̅_251 ). Assuming today’s value is x_0, generate 250 historical scenarios. The i-th is  x_i=(x ̅_i⁄x ̅_(i-1) -1)x_0. 
@@ -152,17 +132,8 @@ The VaR is the average between 2nd and 3rd lowest (negative) numbers.
 
 [Historical Value at Risk](historicalVaR.md)
 
-[OSF var](https://osf.io/m9j7v/download)
-
-[Archive var](https://ia801502.us.archive.org/15/items/historical-va-r-7/HistoricalVaR-7.pdf)
-
 [Zenodo var](https://zenodo.org/record/4017733/files/HistoricalVaR-7.pdf)
 
-[Science Media var](https://science-media.org/userfiles/1020/presentations/1020_presentation_468.pdf)
-
-[FlipHtml5 var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
-
-[OSF asset back](https://osf.io/eg6mv/download)
 
 
 
@@ -180,13 +151,7 @@ the margin balance back to initial margin.
 
 [Standard Initial Margin Model](simm.md)
 
-[OSF simm](https://osf.io/ybfuz/download)
-
 [Archive simm](https://ia801501.us.archive.org/28/items/initialMargin-8/initialMargin-8.pdf)
-
-[Zenodo simm](https://zenodo.org/record/4025373/files/initialMargin-8.pdf)
-
-[FlipHtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
 
 [OSF bond curve](https://osf.io/4nhyb/download)
 
@@ -201,15 +166,7 @@ one.
 
 [Incremental Risk Charge](irc.md)
 
-[OSF irc](https://osf.io/4fdjm/download)
-
-[Archive irc](https://ia601401.us.archive.org/13/items/irc-9/irc-9.pdf)
-
 [Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
-
-[Science Media irc](https://science-media.org/userfiles/1020/presentations/1020_presentation_471.pdf)
-
-[FlipHtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
 
 [OSF hw vol](https://osf.io/k3wc9/download)
 
@@ -228,12 +185,6 @@ loss on an investment. Return is more important than value itself.
 
 [Archive market](https://ia801000.us.archive.org/29/items/market_20180417/market-10.pdf)
 
-[Zenodo market](https://zenodo.org/record/4025380/files/market-10.pdf)
-
-[Science Media market](https://science-media.org/userfiles/1020/presentations/1020_presentation_472.pdf)
-
-[FlipHtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
-
 [OSF exchangeable](https://osf.io/zgx8c/download)
 
 
@@ -250,15 +201,9 @@ between economic capital and regulatory capital? How to compute economic capital
 
 [Market Risk Economic Capital](mrEc.md)
 
-[OSF capital](https://osf.io/fdmb4/download)
-
 [Archive capital](https://ia803108.us.archive.org/21/items/alex_MrEc/mrEc-11.pdf)
 
 [Zenodo capital](https://zenodo.org/record/4027801/files/mrEc-11.pdf)
-
-[Science media capital](https://science-media.org/userfiles/1020/presentations/1020_presentation_473.pdf)
-
-[FlipHtml5 capital](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
 
 [OSF forward starting](https://osf.io/37fbt/download)
 
@@ -275,13 +220,7 @@ historical simulation and Monte Carlo simulation. This presentation focuses on p
 
 [Parametric Value at Risk](parametricVaR.md)
 
-[OSF Par VaR](https://osf.io/uzpk3/download)
-
 [Archive Par VaR](https://ia801502.us.archive.org/29/items/parametric-va-r-12/ParametricVaR-12.pdf)
-
-[Science media Par VaR](https://science-media.org/userfiles/1020/presentations/1020_presentation_474.pdf)
-
-[FlipHtml5 Par VaR](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
 
 [OSF 3 factors](https://osf.io/pbjf8/download)
 
@@ -300,13 +239,7 @@ of a financial instrument with respect to time.
 
 [Financial Sensitivity](sensitivity.md)
 
-[OSF sensitivity](https://osf.io/qau3b/download)
-
 [Archive sensitivity](https://ia903107.us.archive.org/18/items/sensitivity_201804/sensitivity-13.pdf)
-
-[Science Media sensitivity](https://science-media.org/userfiles/1020/presentations/1020_presentation_475.pdf)
-
-[FlipHtml5 sensitivity](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjNzQTN5ITPkl0av9mY)
 
 [OSF hw convertible](https://osf.io/eyb8c/download)
 
@@ -323,11 +256,12 @@ If number of breaches is 10 or more, the VaR system is in Red zone.
 
 [Monte Carlo Value at Risk](mcVaR.md)
 
-[OSF mc var](https://osf.io/2a58h/download)
+[Bitbook validation[(https://cmrm11.gitbook.io/market-risk-validation/)
+
+[Bitbook modelling](https://cmrm11.gitbook.io/market-risk-modeling/)
 
 [Archive mc var](https://ia801407.us.archive.org/30/items/monte-carlo-va-r-14/MonteCarloVaR-14.pdf)
 
-[Science Media mc var](https://science-media.org/userfiles/1020/presentations/1020_presentation_476.pdf)
 
 
 

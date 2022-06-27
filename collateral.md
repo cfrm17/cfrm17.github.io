@@ -5,18 +5,12 @@ Collateral is a property or an asset that a borrower offers as a way for a lende
 that mitigates risk by reducing credit exposure. Collateral doesn’t turn a bad counterparty into a good one and doesn’t eliminate credit risk. Instead, 
 it just reduces the loss at the time of default. Collateral arrangement is an essential element in the plumbing of the financial system.
 
-In the derivatives world, collateral posting is a risk reduction tool that mitigates risk by reducing credit exposure. It allows financial institutions 
-to reduce economic capital and credit risk, free up lines of credit, and expand the range of counterparties. All of these factors contribute to the 
-growth of financial markets. The benefits are broadly acknowledged and affect dealers and end users, as well as the financial system generally.  
+The counterparty exposure is measured on a date when the counterparty is deemed to be in default. This is consistent with the terminology and concept 
+of “Exposure at Default” in CCR. Standing at a reporting time bucket t, the collateral assets has been posted in the past, and the collateralized exposure 
+depends on the “liquidation” value of the derivative portfolio and collateral assets at some future time. 
 
-The Bankruptcy code affords special treatment to financial derivative contracts that allows counterparties to terminate derivative contracts with a 
-debtor in bankruptcy and seize the underlying collaterals. This presentation gives an overview of collateral arrangement in the derivatives market. 
-It also illustrates how collateral management impact valuation and counterparty credit risk.  
-
-The Bankruptcy code generally prevents creditors from seizing assets of a firm in bankruptcy. This provision is called the “automatic stay”. The code 
-affords special treatment to financial derivative contracts, which exempts these contracts from the “automatic stay”. The special treatment is also 
-called a safe harbor. The safe harbor allows counterparties to terminate derivative contracts with a debtor in bankruptcy and seize the underlying 
-collaterals.
+The collateralized exposure is measured as the valuation difference between the derivative portfolio and collateral assets. In this collateral method, 
+derivative trades and the collateral assets are handled similarly. They are deemed as two “sub-portfolios” with opposite trade direction.
 
 The benefits of Collateral Posting inlude: reduce credit risk, free credit lines with existing counterparties, increase business with counterparties,
 expand the range of counterparties, and equalize the disparity in counterparty creditworthiness.
@@ -39,8 +33,6 @@ Reference:
 
 [Collateral Management](/collateral-3.pdf)
 
-[FlipHtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
-
 [Zenodo collateral](https://zenodo.org/record/6529297#.YpOqaKgpBD8)
 
 [Zenodo fx chooser](https://zenodo.org/record/6546805#.YpDu9KgpDq4)
@@ -48,3 +40,7 @@ Reference:
 [Archive collateral](https://ia803105.us.archive.org/8/items/collateral_201804/collateral-3.pdf)
 
 [OSF collateral](https://osf.io/zuhcw/download)
+
+[Bitbook collateral exposure](https://cmrm11.gitbook.io/collateralized-exposure/)
+
+[Bitbook collateral methodology](https://cmrm11.gitbook.io/collateral-methodology/)

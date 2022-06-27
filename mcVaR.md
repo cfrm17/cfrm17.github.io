@@ -9,9 +9,9 @@ historical simulation and Monte Carlo simulation. This presentation focuses on M
 Monte Carlo VaR assumes  market factors follow certain stochastic processes. It has easy back and stress test and is good for high confidence level and 
 tail risk. The drawbacks are dependent on distribution assumption and calibration is required. Most importantly it requires extensive computation.
 
-The only way to verify a VaR system is backtest. At a certain day, compute hypothetic P&L (valuation date and portfolio unchanged). If (hypothetic P&L > VaR), 
-then breaches. For one year, if number of breaches is 0-4, the VaR system is in Green zone. If number of breaches is 5-9, the VaR system is in Yellow zone
-If number of breaches is 10 or more, the VaR system is in Red zone.
+VaR is computed using risk sensitivities from the official risk systems. Consideration must be paid to what impact these adjustments may have, if any, 
+to these risk sensitivities. For example, a large IPV may signal a material difference between the market data in the source system and the independent 
+market data. The source system data is used to compute the risk sensitivities for VaR. 
 
 
 Reference: 

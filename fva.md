@@ -29,15 +29,9 @@ Reference:
 
 [Funding Valuation Adjustment](/cvaFva-5.pdf)
 
-[Hcommon fva](https://hcommons.org/deposits/download/hc:33096/CONTENT/cvafva-5.pdf)
-
-[FlipHtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwkzM5ITPkl0av9mY)
-
 [Zenodo arrear fra](https://zenodo.org/record/6578408#.YpDwq6gpDq4)
 
 [Zenodo fva](https://zenodo.org/record/4017723/files/cvaFva-5.pdf)
-
-[ScienceMedia fva](https://science-media.org/userfiles/1020/presentations/1020_presentation_466.pdf)
 
 [Archive fva](https://ia801009.us.archive.org/21/items/cvaFva/cvaFva-5.pdf)
 

@@ -35,15 +35,9 @@ Reference:
 
 [CVA](/cva-4.pdf)
 
-[FlipHtml5 cva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjMwkzM5ITPkl0av9mY)
-
 [Zenodo chooser cap](https://zenodo.org/record/6561499#.YpDwjKgpDq4)
 
 [Zenodo cva](https://zenodo.org/record/6533799#.YpOqwagpBD8)
-
-[Hcommon cva](https://hcommons.org/deposits/download/hc:32984/CONTENT/cva-4.pdf)
-
-[ScienceMedia cva](http://science-media.org/userfiles/1020/presentations/1020_presentation_436.pdf)
 
 [Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
 

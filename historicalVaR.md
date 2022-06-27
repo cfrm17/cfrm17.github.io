@@ -21,6 +21,10 @@ Reference:
 
 [Historical Value at Risk](/HistoricalVaR-7.pdf)
 
+[Gitbook mr](https://cmrm11.gitbook.io/market-risk-measurement-and-management/)
+
+[Gitbook rf](https://cmrm11.gitbook.io/market-risk-factors/)
+
 [FlipHtml5 historical var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
 
 [Zenodo historical var](https://zenodo.org/record/6529363#.YpOSwagpDq4)
