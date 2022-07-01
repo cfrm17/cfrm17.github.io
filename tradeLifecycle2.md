@@ -34,6 +34,6 @@ Reference:
 
 [OSF flexible gic](https://osf.io/w97gv/wiki/home/)
 
-[OSF flexible gic pdf]([OSF flexible gic](https://osf.io/w97gv/wiki/home/))
-
 [OSF life](https://osf.io/vwahg/download)
+
+[OSF xccy swaption](https://github.com/cfrm17/CrossCurrencyBasisSwaption)

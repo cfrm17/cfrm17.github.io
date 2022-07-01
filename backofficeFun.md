@@ -39,3 +39,5 @@ Reference:
 [OSF digital swap pdf](https://osf.io/qzmer/download)
 
 [Github digital](https://github.com/cfrm17/DigitalAdjustments)
+
+Github chooser cap](https://github.com/cfrm17/ChooserCap)
