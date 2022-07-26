@@ -35,7 +35,7 @@ Reference:
 
 [OSF sensitivity](https://osf.io/qau3b/download)
 
-[Zenodo cms swap](https://zenodo.org/record/6588555#.YpE20qgpDq4)
+[Zenodo cms swap](https://zenodo.org/record/6588555/files/cmsSwap.pdf)
 
 [Github Black](https://github.com/timxiao1203/BlackOptionModel)
 

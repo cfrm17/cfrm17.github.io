@@ -25,11 +25,9 @@ Reference:
 
 [Curve Construction](/CurveConstruction-3.pdf)
 
-[FlipHtml5 curve construction](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO0MTM3ITPkl0av9mY)
-
 [OSF curve construction](https://osf.io/evzp4/download)
 
-[OSF variable swap](https://osf.io/j3p7q/wiki/home/)
+[OSF variable swap](https://osf.io/np5bw/download)
 
 [OSF variable rate swap](https://osf.io/np5bw/download)
 

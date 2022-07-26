@@ -31,7 +31,7 @@ Reference:
 
 [OSF irc](https://osf.io/4fdjm/download)
 
-[Zenodo double cms](https://zenodo.org/record/6578517#.YpDwuqgpDq4)
+[Zenodo double cms](https://zenodo.org/record/6578517/files/doubleCms.pdf)
 
 [Github MBS](https://github.com/timxiao1203/MBS-Model)
 

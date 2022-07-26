@@ -23,10 +23,6 @@ Reference:
 
 [Bitbook backtest](https://cmrm11.gitbook.io/market-risk-backtest-exception/)
 
-[Hcommon paramVar](https://hcommons.org/deposits/download/hc:33536/CONTENT/parametricvar-12.pdf)
-
-[FlipHtml5 parametric var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
-
 [Zenodo parametric var](https://zenodo.org/record/4027809/files/ParametricVaR-12.pdf)
 
 [OSF parametric var](https://osf.io/uzpk3/download)

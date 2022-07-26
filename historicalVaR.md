@@ -25,12 +25,8 @@ Reference:
 
 [Gitbook rf](https://cmrm11.gitbook.io/market-risk-factors/)
 
-[FlipHtml5 historical var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)
-
-[Archive historical var](https://ia801502.us.archive.org/15/items/historical-va-r-7/HistoricalVaR-7.pdf)
-
 [OSF historical var](https://osf.io/m9j7v/download)
 
-[Zenodo mba swap](https://zenodo.org/record/6558053#.YpDwC6gpDq4)
+[Zenodo mba swap](https://zenodo.org/record/6558053/files/MbaSwap.pdf)
 
 [Zenodo var](https://zenodo.org/record/6529363/files/zenodo-HistoricalVaR.pdf)

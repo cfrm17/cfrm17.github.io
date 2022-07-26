@@ -32,7 +32,7 @@ Reference:
 
 [Zenodo lifecycle2](https://zenodo.org/record/6514479/files/Zenodo-TradeLifecycleMgr-2.pdf)
 
-[OSF flexible gic](https://osf.io/w97gv/wiki/home/)
+[OSF flexible gic](https://osf.io/q6ut7/download)
 
 [OSF life](https://osf.io/vwahg/download)
 

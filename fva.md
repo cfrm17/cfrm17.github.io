@@ -29,11 +29,9 @@ Reference:
 
 [Funding Valuation Adjustment](/cvaFva-5.pdf)
 
-[Zenodo arrear fra](https://zenodo.org/record/6578408#.YpDwq6gpDq4)
+[Zenodo arrear fra](https://zenodo.org/record/6578408/files/arrearFra.pdf)
 
 [Zenodo fva](https://zenodo.org/record/4017723/files/cvaFva-5.pdf)
-
-[Archive fva](https://ia801009.us.archive.org/21/items/cvaFva/cvaFva-5.pdf)
 
 [OSF fva](https://osf.io/r6y2h/download)
 

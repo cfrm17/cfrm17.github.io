@@ -29,8 +29,6 @@ Reference:
 
 [Accoupnt Management](/AccountLicense-1.pdf)
 
-[Zenodo account](https://zenodo.org/record/6512430#.YpOSmKgpDq4)
-
 [OSF account](https://osf.io/fhtcw/download)
 
 [Github perform](https://github.com/cfrm17/PerformanceDeferredShare)

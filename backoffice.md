@@ -23,12 +23,10 @@ Reference:
 
 [Back Office](/ManageBackofficeEntity-5.pdf)
 
-[FlipHtml5 back office](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN1MTM3ITPkl0av9mY)
-
 [Zenodo back office](https://zenodo.org/record/3929839/files/ManageBackofficeEntity-5.pdf)
 
 [OSF back office](https://osf.io/t7fna/download)
 
 [Github pass](https://github.com/cfrm17/MBSPassThrough)
 
-Github chooser](https://github.com/cfrm17/FXChooser)
+[Github chooser](https://github.com/cfrm17/FXChooser)

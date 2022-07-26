@@ -28,16 +28,14 @@ Reference:
 
 [Back Office Function](/ManageBackofficeFunction-6.pdf)
 
-[FlipHtml5 back office function](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETMxYTM3ITPkl0av9mY)
-
 [Zenodo back office function](https://zenodo.org/record/6514299/files/Zenodo-ManageBackofficeFunction.pdf)
 
 [OSF back office function](https://osf.io/ndtcq/download)
 
-[OSF digital swap](https://osf.io/wn2ys/wiki/home/)
+[OSF digital swap](https://osf.io/qzmer/download)
 
 [OSF digital swap pdf](https://osf.io/qzmer/download)
 
 [Github digital](https://github.com/cfrm17/DigitalAdjustments)
 
-Github chooser cap](https://github.com/cfrm17/ChooserCap)
+[Github chooser cap](https://github.com/cfrm17/ChooserCap)

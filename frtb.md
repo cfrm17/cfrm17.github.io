@@ -36,7 +36,7 @@ Reference:
 
 [Zenodo frtb](https://zenodo.org/record/4017728/files/frtbSa-6.pdf)
 
-[Zenodo cms cliquet](https://zenodo.org/record/6561892#.YpDwnqgpDq4)
+[Zenodo cms cliquet](https://zenodo.org/record/6561892/files/cmsCliquet.pdf)
 
 [OSF frtb](https://osf.io/pn768/download)
 

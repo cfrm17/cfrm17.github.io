@@ -32,11 +32,9 @@ Reference:
 
 [CVA](/cva-4.pdf)
 
-[Zenodo chooser cap](https://zenodo.org/record/6561499#.YpDwjKgpDq4)
+[Zenodo chooser cap](https://zenodo.org/record/6561499/files/chooserCap.pdf)
 
 [Zenodo cva](https://zenodo.org/record/6533799/files/zenodo-cva.pdf)
-
-[Archive cva](https://ia801000.us.archive.org/32/items/alex_Cva_201804/cva-4.pdf)
 
 [OSF cva](https://osf.io/hygf7/download)
 

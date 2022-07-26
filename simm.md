@@ -28,13 +28,11 @@ Reference:
 
 [SIMM](/initialMargin-8.pdf)
 
-[Hcommon simm](https://hcommons.org/deposits/download/hc:33508/CONTENT/initialmargin-8.pdf)
-
 [Zenodo simm](https://zenodo.org/record/4025373/files/initialMargin-8.pdf)
 
 [OSF tree](https://osf.io/6eyrv/download)
 
-[OSF martingale tree](https://osf.io/vyk8t/wiki/home/)
+[OSF martingale tree](https://osf.io/6eyrv/download)
 
 [OSF simm](https://osf.io/ybfuz/download)
 

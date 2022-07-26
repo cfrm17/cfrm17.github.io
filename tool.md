@@ -19,11 +19,6 @@ References:
 
 [Github vol](https://github.com/cfrm17/ImpliedVolCalculator)
 
-[Fliphtml5 vol](https://www.fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIjMxUjM1QTPkl0av9mY)
-
-[archive vol](https://ia801502.us.archive.org/19/items/tool-eq-vol-1/ToolEqVol-1.pdf)
-
-[bitbucket vol](https://bitbucket.org/timxiao1203/implied-vol/downloads/ToolEqVol-1.pdf)
 
 
 
@@ -40,15 +35,9 @@ References:
  
 [Link](/ToolEqDiv-2.pdf)
 
-[Archive Dividend](https://ia801403.us.archive.org/5/items/tool-eq-div-2/ToolEqDiv-2.pdf)
-
 [OSF Dividend](https://osf.io/hrtnc/download)
 
 [Zenodo Dividend](https://zenodo.org/record/5233752/files/ToolEqDiv-2.pdf)
-
-[bithucket Dividend](https://bitbucket.org/timxiao1203/forward-dividends/downloads/ToolEqDiv-2.pdf)
-
-[Fliphtml5 Dividend](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM2QTN1QTPkl0av9mY)
 
 [Github Dividend](https://github.com/cfrm17/forwardDiv)
 

@@ -33,7 +33,7 @@ Reference:
 
 [OSF data](https://osf.io/exz9b/download)
 
-[OSF quanto total](https://osf.io/rwfgn/wiki/home/)
+[OSF quanto total](https://osf.io/p7kn4/download)
 
 [OSF quanto total return](https://osf.io/p7kn4/download)
 

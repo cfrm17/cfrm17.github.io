@@ -31,7 +31,7 @@ Reference:
 
 [Zenodo install](https://zenodo.org/record/6512485/files/Zenodo-DownloadInstall.pdf)
 
-[OSF early start](https://osf.io/z587j/wiki/home/)
+[OSF early start](https://osf.io/kapm3/download)
 
 [OSF early start swap](https://osf.io/kapm3/download)
 
