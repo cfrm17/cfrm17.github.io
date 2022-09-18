@@ -30,10 +30,11 @@ For each index, let
 
 
 
-You can find more details at
-https://osf.io/atyb9/download
+References:
 
-https://osf.io/4kwbp/wiki/home/
+[pdf](https://osf.io/atyb9/download)
+
+[wiki](https://osf.io/4kwbp/wiki/home/)
 
 
 
