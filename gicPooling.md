@@ -1,4 +1,3 @@
-## Derivatives Valuation
 
 ### GIC Valuation
 
