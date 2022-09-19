@@ -17,3 +17,21 @@ equities are subsequently removed from the basket.
 
 
 [Reference:](/quantoHimalayan.md)
+
+
+### Local Volatility Model for Callables 
+
+We review a model for computing the price, in the domestic currency, of European standard call and put options on an underlying foreign equity (stock or index) with tenor of up to 7 years. 
+The function implements a local volatility based pricing method.
+
+
+[Reference:](/localVolQuanto.md)
+
+
+### Forward Starting Option Valuation 
+
+Forward start option is an option whose strike will be determined at some later date. Unlike a standard option, the strike price is not fully determined until an intermediate date before 
+expiration. Cliquet option consists of a series of forward start options. 
+
+
+[Reference:](/forwardStart.md)
