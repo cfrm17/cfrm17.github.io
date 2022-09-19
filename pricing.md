@@ -35,3 +35,22 @@ expiration. Cliquet option consists of a series of forward start options.
 
 
 [Reference:](/forwardStart.md)
+
+
+### Three Factor Convertible Bond Model
+
+The owner of a convertible bond (CB) receives periodic coupon payments from the issuer, but can also convert the CB into the issuer’s stock.  The convertible bond may also include call 
+and put provisions, which respectively allow the issuer to buy back the convertible bond and the owner to put the convertible bond for respective preset amounts.  
+
+
+[Reference:](/threeFactorConvertible.md)
+
+
+### Mutual Fund Securitization Model
+
+The purpose of the model is to determine, from a projected stream of future cashflows, whether all Commercial Paper used to fund the commissions to brokers for the sale of mutual funds 
+will be repaid within a period.  Here a broker charges the Partnership a commission on the net asset value of the mutual funds sold.  The buyer of the mutual funds, however, pays nothing 
+up front; instead, a deferred sales charge, which depends on when the mutual funds are redeemed, is assessed.
+
+
+[Reference:](/mfSecuritization.md)
