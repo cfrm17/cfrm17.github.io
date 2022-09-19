@@ -54,3 +54,24 @@ up front; instead, a deferred sales charge, which depends on when the mutual fun
 
 
 [Reference:](/mfSecuritization.md)
+
+
+### Pricing Convertible Bond via Hull White Model
+
+Using the Hull-White two-factor tree building procedure, a combined tree is constructed by matching the mean, variance and correlation corresponding to each combined tree node.  
+The convertible bond price is given from the combined tree by backward induction.  
+
+
+[Reference:](/hwConvertible.md)
+
+
+### Brownian Bridge Approach
+
+The Brownian bridge algorithm has been implemented for stress testing within the Risk Management framework. It is used for generation of multidimensional random paths whose initial and ending 
+points are predetermined and fixed. 
+
+
+[Reference:](/brownianBridge.md)
+
+
+
