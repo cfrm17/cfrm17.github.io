@@ -75,3 +75,24 @@ points are predetermined and fixed.
 
 
 
+### Exchangeable Convertible Bond Model
+
+A convertible bond issuer pays periodic coupons to the convertible bond holder. The bond holder can convert the bond into the underlying stock within the period(s) of time specified 
+by the conversion schedule. The bond issuer can call the bond and the holder can put it according to the call and put provisions. 
+
+
+[Reference:](/exchangeableConvertible.md)
+
+
+
+### Asset Backed Senior Note Valuation
+
+We consider a securitization deal, which allows the holder to purchase co-ownership interests in a revolving pool of credit card receivables. To fund the acquisition of the interests in the revolving pool, 
+the trust issued Asset-Backed Notes, in a number of different series. A share of future collections of credit charge receivables, to which the trust is entitled, is used to pay the interest and the 
+principal of the notes.
+
+
+[Reference:](/absSenior.md)
+
+
+
