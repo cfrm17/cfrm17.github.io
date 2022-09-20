@@ -133,3 +133,20 @@ We use analytical formulas for forward swap and swaption valuation: the swap pri
 
 
 
+### ECallable Inverse Swap Valuation
+
+A Callable Inverse Floating Rate Swap is a forward swap agreement with an option of canceling the swap each year starting from several years in future. The deal is priced with a two factor Black-Karasinski model.
+
+[Reference:](/callableInverse.md)
+
+
+
+### Flexible GIC Valuation
+
+A flexible GIC is an investment with an embedded option to redeem the principal and accrued interest at any time after 30 days from the date of purchase. In other words, the holder of GIC has an option to redeem 
+the principal and accrued interest at any time after 30 days of from the date of purchase. No interest is paid if the investment is redeemed within first 30 days from the purchase date.
+
+[Reference:](/flexibleGic.md)
+
+
+
