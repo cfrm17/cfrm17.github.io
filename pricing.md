@@ -115,3 +115,21 @@ financial instruments, of the type below, sorted by order of increasing time to 
 
 
 
+### GIC Valuation
+
+Guaranteed investment certificate (GIC) is a financial instrument that offers a return based on a corresponding GIC rate and the performance of a basket of certain stock and bond market indices. 
+
+
+[Reference:](/gicPricing.md)
+
+
+
+### Extendable Swap Valuation
+
+We use analytical formulas for forward swap and swaption valuation: the swap price is calculated as the difference between a bond par and the bond’s price, and the swaption price is evaluated from the Black’s formula.
+
+
+[Reference:](/extendableSwap.md)
+
+
+
