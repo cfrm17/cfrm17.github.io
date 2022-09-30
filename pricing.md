@@ -167,7 +167,29 @@ An important feature of the popular three factor trinomial tree is that it uses 
 ### Arrear Quanto CMS Valuation
 
 Assumes that, under the coupon payment currency (SEK) risk-neutral probability measure, the forward swap rate process corresponding to each swap rate fixing follows Geometric Brownian motion with drift.  Each forward swap rate process is then convexity adjusted, and is furthermore expressed under the notional currency (FRF) risk neutral-probability measure by means of a quanto adjustment.
+
 [Reference:](/arrearCms.md)
 
+
+### Variable Rate Swap Valuation
+
+Variable rate swap is a special type of interest rate swap in which one leg of the swap corresponds to fixed rate payments while the other involves fixed rate payments for an initial period of time and a floating rate for the rest. The floating rate on that portion is defined as a minimum of two index rates.
+
+[Reference:](/variableSwap.md)
+
+
+### CMS Spread Option Valuation
+
+A constant maturity swap (CMS) spread option makes payments based on a bounded spread between two index rates (e.g., a GBP CMS rate and a EURO CMS rate).  The GBP CMS rate is calculated from a 15 year swap with semi-annual, upfront payments, while the EURO CMS rate is based on a 15 year swap with annual, upfront payments. 
+
+[Reference:](/cmsSpread.md)
+
+
+
+### Early Start Swap Valuation
+
+An early start swap is a swap that has an American style option for the counterparty of starting the swap early, within a period of three month. Otherwise, the swaps are plain vanilla fixed-for-floating swaps.
+
+[Reference:](/earlySwap.md)
 
 
