@@ -133,7 +133,7 @@ We use analytical formulas for forward swap and swaption valuation: the swap pri
 
 
 
-### ECallable Inverse Swap Valuation
+### Callable Inverse Swap Valuation
 
 A Callable Inverse Floating Rate Swap is a forward swap agreement with an option of canceling the swap each year starting from several years in future. The deal is priced with a two factor Black-Karasinski model.
 
@@ -147,6 +147,27 @@ A flexible GIC is an investment with an embedded option to redeem the principal 
 the principal and accrued interest at any time after 30 days of from the date of purchase. No interest is paid if the investment is redeemed within first 30 days from the purchase date.
 
 [Reference:](/flexibleGic.md)
+
+
+
+### American Bond Option Pricing
+
+Pricing an American style call option on the yield of Treasury bond is discussed. The payoff is positive if the yield exceeds a predetermined strike level. The model assumes the yield of an American Treasury bond to be a log-normally distributed stochastic process and uses Monte-Carlo simulation to price the deal as a European call option. 
+
+[Reference:](/americanBond.md)
+
+
+### Martingale Preserving Tree 
+
+An important feature of the popular three factor trinomial tree is that it uses a deterministic approximation of the interest rates for constructing the stock tree. The preservation of the martingale property of the stock price is thus not guaranteed.  and may potentially represent a problem.Pricing an American style call option on the yield of Treasury bond is discussed. The payoff is positive if the yield exceeds a predetermined strike level. The model assumes the yield of an American Treasury bond to be a log-normally distributed stochastic process and uses Monte-Carlo simulation to price the deal as a European call option. 
+
+[Reference:](/preservingTree.md)
+
+
+### Arrear Quanto CMS Valuation
+
+Assumes that, under the coupon payment currency (SEK) risk-neutral probability measure, the forward swap rate process corresponding to each swap rate fixing follows Geometric Brownian motion with drift.  Each forward swap rate process is then convexity adjusted, and is furthermore expressed under the notional currency (FRF) risk neutral-probability measure by means of a quanto adjustment.
+[Reference:](/arrearCms.md)
 
 
 
