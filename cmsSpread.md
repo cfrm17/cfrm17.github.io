@@ -27,7 +27,7 @@ The price is given by its expected value under the EURO (domestic) T-forward mea
 
 References:
 
-[pdf](https://osf.io/np5bw/download)
+[pdf](https://osf.io/9db5u/download)
 
 [list](https://osf.io/ndte4/wiki/home/)
 

@@ -193,3 +193,34 @@ An early start swap is a swap that has an American style option for the counterp
 [Reference:](/earlySwap.md)
 
 
+
+### Quanto TRS Valuation
+
+A quanto total return Libor Swap is a swap where one leg is a regular floating leg paying LIBOR less a constant spread and the other leg makes a single payment at the swap’s maturity equal to a leveraged non-negative return on USD-for-EURO exchange rate paid in CAD. The main focus of the valuation model is the quantoed total return on the FX rate.
+
+[Reference:](/quantoTrs.md)
+
+
+
+### Digital Swap Valuation
+
+A daily digital LIBOR swap is an interest rate swap whose reference interest rate is three-month USD Libor BBA. For each accrual period in the swap, one party receives the reference rate, and pays the reference rate plus a positive spread, but weighted by the ratio of the number of calendar days in the period that the reference rate sets below an upper level to the total number of calendar days in the period.
+
+[Reference:](/digitalSwap.md)
+
+
+
+### Ratchet Swap Valuation
+
+The ratchet floating rate coupon is based on an index, e.g., 6-month EURIBOR. The rate is further subject to a minimum decrease of 0 bps and a maximum increase of a threshold, such as, 15 bps. These rates are reset two business days prior to the first day of each coupon period. 
+
+[Reference:](/ratchetSwap.md)
+
+
+
+### LIBOR Rate Model 
+
+LIBOR Rate Model is used for pricing Libor-rate based derivative securities. The model is applied, primarily, to value instruments that settle at a Libor-rate reset point.  In order to value instruments that settle at points intermediate to Libor resets, we calculate the numeraire value at the settlement time by interpolating the numeraire at bracketing Libor reset points. 
+
+[Reference:](/liborModel.md)
+

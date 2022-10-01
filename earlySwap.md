@@ -17,7 +17,11 @@ The internal rates of return of the two swaps, one starting at the beginning and
 
 If the interest rates do not have random components, the difference in value between two swaps starting at different dates can be inferred from the present values of the corresponding cash flows, and then can be analytically calculated given the yield curve. The option value is then taken as the difference (if positive) between the maximal value of a swap starting within the exercise period and the value of the swap started at the beginning of the period. You can find more information on forward start option and cliquet option at https://finpricing.com/lib/EqCliquet.html
 
+The relatively weak dependence of the option price on volatility suggests that the option price is dominated by its intrinsic value. This apparently is due to the facts that the length of period between the valuation date and the beginning of exercise interval, and especially the option tenor are small compared to the swap’s length., and that the internal rates of return for swaps starting at different dates are very strongly correlated
 
+The analytical approach to the pricing of the option indicates that the modell should give the correct price as long as the present value of swap as a function of the effective date does not have a maximum, which exceeds the initial value, within the exercise interval.
+
+Since the swap values are mostly affected by the yield of the longest maturity bond, this may occur when the yield curve has a noticeable hump after 10-year point for a period for about 3 month. Such a scenario seems quite unlikely and can hardly be detected on a conventional yield curve, whose points are normally one year (or more) apart.
 
 References:
 
