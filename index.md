@@ -50,6 +50,13 @@ computation of dates from these tenors differs between the two markets.
 [More details](/fxDerivatives.md) 
 
 
+### Credit Derivatives
+
+In order to assess the underlying approximations of the model, we use both index trade valuation model and single name CDS valuation model to calculate the derivatives of hazard rate curves at different credit spread levels. 
+
+[More details](/creditDerivatives.md) 
+
+
 ### List of Derivative Pricing Models
 
 [References](https://finpricing.com/FinPricing-ProductBrochure.pdf) 
