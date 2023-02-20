@@ -57,6 +57,13 @@ In order to assess the underlying approximations of the model, we use both index
 [More details](/creditDerivatives.md) 
 
 
+### Credit Product
+
+Credit products are financial instruments that transfer credit risk of an underlying securities or derivatives from one party to another party.
+
+[More details](/creditProduct.md) 
+
+
 ### List of Derivative Pricing Models
 
 [References](https://finpricing.com/FinPricing-ProductBrochure.pdf) 
