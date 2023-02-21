@@ -47,6 +47,8 @@ References:
 
 A pricing model is presented for capped-accumulated-return-call (CARC) with multiple underlyings. At each reset date, a weighted stock price is calculated.  These weighted stock prices are used to compute returns.
 
+References:
+
 [Zenodo Multi CARC pdf](https://zenodo.org/record/7480124/files/MultiCarc.pdf)
 
 [Zenodo Multi CARC](https://zenodo.org/record/7480124)
@@ -58,6 +60,8 @@ A pricing model is presented for capped-accumulated-return-call (CARC) with mult
 
 An enhanced Quasi-Monte Carlo method is employed to evaluation this feature of CARC.  In this method, Sobol sequence in conjunction with Brownian Bridge path generation approach is applied.  In this transaction,   is  ,   is 0.12,   is 0.147, and the notional principal is USD 100.  Only the term structure of at-the-money volatility is used in calculation, i.e., volatility skew is NOT applied.
 
+References:
+
 [Zenodo Two Way CARC pdf](https://zenodo.org/record/7480149/files/TwoWayCarc.pdf)
 
 [Zenodo Two Way CARC](https://zenodo.org/record/7480149)
@@ -65,5 +69,18 @@ An enhanced Quasi-Monte Carlo method is employed to evaluation this feature of C
 [Github Two Way CARC](https://github.com/cfrm17/twoWayCarc)
 
 
+### Capped Accumulated Return Call with Volatility Surface
+
+A new representation of the volatility skew is provided.  To use this new representation, the user must input “STRIKE_REPRESENTATION   PERCENTAGE” in the token file.  Then, the ATM strike is always assumed to be 100.  The first quantity in the volatility skew still signifies the stock price when the volatility skew was built.  
+
+The model will interpret this skew as follows.  At the time 1 year from the date when the volatility skew was built, the 10% ITM volatility is 0.4, with the strike level being 90*1050/100=945.  The ATM volatility is 0.38 with the strike level being 1050*100/100=1050.  The 10% OTM volatility is 0.36 with the strike level being 110*1050/100=1155.  At the time 2.0 years, a similar interpretation can be obtained.
+
+References:
+
+[Zenodo Two Way CARC pdf](https://zenodo.org/record/7487163/files/CarcVolSurface.pdf)
+
+[Zenodo Two Way CARC](https://zenodo.org/record/7487163)
+
+[Github Two Way CARC](https://github.com/cfrm17/carcVol)
 
 
