@@ -64,6 +64,13 @@ Credit products are financial instruments that transfer credit risk of an underl
 [More details](/creditProduct.md) 
 
 
+### Equity Derivatives
+
+Equity derivatives are a class of financial products whose value is derived from price or volatility movements of underlying equities or equity indices.
+
+[More details](/eqDerivatives.md) 
+
+
 ### List of Derivative Pricing Models
 
 [References](https://finpricing.com/FinPricing-ProductBrochure.pdf) 
