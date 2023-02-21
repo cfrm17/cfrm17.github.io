@@ -84,3 +84,88 @@ References:
 [Github Two Way CARC](https://github.com/cfrm17/carcVol)
 
 
+### Capped Accumulated Return Call Valuation with Lock-In Feature
+
+A Monte Carlo (Gaussian MC and Quasi MC) pricing model is presented for the product named capped-accumulated-return-call (CARC) with lock in feature.  
+
+References:
+
+[Zenodo Lockin CARC pdf](https://zenodo.org/record/7487196/files/CARCLockIn.pdf)
+
+[Zenodo Lockin CARC](https://zenodo.org/record/7487196)
+
+[Github Lockin CARC](https://github.com/cfrm17/carcLockIn)
+
+
+### Capped Accumulated Return Call with Flexible Return
+
+A Monte Carlo (Monte Carlo, MC, and Quasi Monte Carlo, QMC) pricing model is presented for a new variation on the product named capped-accumulated-return-call (CARC): CARC with pick and choose the return period. User specifies the dates where equity returns are to be calculated and then used in the final payoff.
+
+References:
+
+[Zenodo Flexible Return CARC pdf](https://zenodo.org/record/7487231/files/CarcFlexibleReturn.pdf)
+
+[Zenodo Flexible Return CARC](https://zenodo.org/record/7487231)
+
+[Github Flexible Return CARC](https://github.com/cfrm17/carcFlexibleReturn)
+
+
+### Futures Fair Value Adjustment
+
+We recommend that the new method be approved in order to determine the fair value of futures contracts for index arbitrage. This is important because the current method undervalues predominantly short futures positions creating erosion of P&L over the life of the contract.
+
+References:
+
+[Zenodo Fair Value Adjustment pdf](https://zenodo.org/record/7526407/files/FairValueAdjustment.pdf)
+
+[Zenodo Fair Value Adjustment](https://zenodo.org/record/7526407)
+
+[Github Fair Value Adjustment](https://github.com/cfrm17/fairValueAdjustment)
+
+
+### Expiration Price Option 
+
+An Expiration Price Option (EPO) is an option with a knock-out feature. At any time, if the option value is equal or less than a specified barrier price, the writer of the option will provide notification to the option holder. The option holder can either
+
+•	Pay an additional premium to prevent the option from knocking-out. The additional premium is equal to the difference between initial premium and the option value at the time of notification.
+•	Pay nothing to allow the option to be knocked out. The writer pays the option holder an amount equal to
+
+References:
+
+[Zenodo Expiration Price Option pdf](https://zenodo.org/record/7526459/files/EpoModel.pdf)
+
+[Zenodo Expiration Price Option](https://zenodo.org/record/7526459)
+
+[Github Expiration Price Option](https://github.com/cfrm17/epoModel)
+
+
+### Equity for Float Swap 
+
+For our equity-for-float swap, two swap values are calculated: economic and replacement.  The economic value is the value of the swap to one party, while the replacement value is the dollars received/paid to offset the swap to a third party.
+
+When we say selling a swap, we pay the return on equity and receive Libor plus a spread.  The economic value of the swap is decomposed into 4 parts: current equity (CE), future equity (FE), current interest rate (CI), and future interest rate (FI).  The value of CE is the present value of the capital gains and dividends of the underlying stock portfolio between the beginning of the first equity reset date   and the end of the first equity reset date  .  
+
+References:
+
+[Zenodo Equity Float Swap pdf](https://zenodo.org/record/7526526/files/equityForFloatSwap.pdf)
+
+[Zenodo Equity Float Swap](https://zenodo.org/record/7526526)
+
+[Github Equity Float Swap](https://github.com/cfrm17/equityForFloatSwap)
+
+
+### Equity Forward with Settle Date Lag and Dividend Percentage
+
+Two new features are added in the equity forward pricing model.  One feature is settle date lag, which is introduced to match market conventions as forward contracts are sometimes settled with a delay.  The other feature is dividend percentage, which allows the model user to use part of the real dividend for calculation.
+
+Suppose the initial trade date is set to time zero, the maturity of the forward is T.  If there is a delay of   for the forward contract to be effective, and a delay of   for the contract to be settled, the forward price is calculated
+
+References:
+
+[Zenodo Equity Feature Forward pdf](https://zenodo.org/record/7526566/files/specialEquityForward.pdf)
+
+[Zenodo Equity Feature Forward](https://zenodo.org/record/7526566)
+
+[Github Equity Feature Forward](https://github.com/cfrm17/specialEquityForward)
+
+
