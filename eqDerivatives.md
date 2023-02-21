@@ -168,4 +168,62 @@ References:
 
 [Github Equity Feature Forward](https://github.com/cfrm17/specialEquityForward)
 
+### Equity Futures Contract 
+
+The output of the model is the mark to market value of such a contract, that is, the Equity Futures price less the strike (if long position).
+
+References:
+
+[Zenodo Equity Futures pdf](https://zenodo.org/record/7539063/files/equityFutures.pdf)
+
+[Zenodo Equity Futures](https://zenodo.org/record/7539063)
+
+[Github Equity Futures](https://github.com/cfrm17/equityFutures)
+
+
+### Binary Return Note 
+
+The three deals used differ by the stock correlation matrix (the last two of them are extreme cases), as this is one the most important risk factor (multi-path generation starts with a multi-dimensional Brownian motion whose correlation matrix is our stock correlation matrix).
+In order to measure the difference, we use the following measure:
+
+Considering the Monte Carlo nature of the model, the differences for Delta and Vega are reasonably small for all test cases. As expected we notice big relative differences in Gamma. This happens typically when the magnitude of Gamma is small. Middle Office should independently study Greek convergence. Gamma should be monitored too.
+
+References:
+
+[Zenodo Binary Return pdf](https://zenodo.org/record/7539127/files/binaryReturn.pdf)
+
+[Zenodo Binary Return](https://zenodo.org/record/7539127)
+
+[Github Binary Return](https://github.com/cfrm17/binaryReturn)
+
+
+### Reverse Convertible 
+
+As this payoff involves continuous barriers, the expectation of this payoff can be calculated using a version of conditional Monte Carlo method. Biased upper and lower estimator bounds plus a biased price placed between these bounds (using a stock event independence assumption) are proposed. We describe this method below.
+
+Based on above payoff re-write, the price of a Reverse Convertible on single asset is the difference between the price of a Cash-or-Nothing European Digital Call with rebate C and a Down and In Put with strike K , B barrier strike, notional N K , to which the notional is added. Accordingly, one has a closed-form pricing available. 
+
+References:
+
+[Zenodo Reverse Convertible pdf](https://zenodo.org/record/7539157/files/reverseConvertible.pdf)
+
+[Zenodo Reverse Convertible](https://zenodo.org/record/7539157)
+
+[Github Reverse Convertible](https://github.com/cfrm17/reverseConvertibleModel)
+
+
+### 401K Stable Value Protection 
+
+The stable value model is aimed at pricing the value of providing value protection on a portfolio consisting of fixed income instruments.  The protection provided by the stable value contract is written on any shortfall between the market value of the fund and a defined “book value” which exists when redemptions or withdrawals from the fund are made.
+
+The book value of the fund is computed as a function of the “crediting rate”, which itself is a function of previous market and book values as well as the equity and/or fixed income indices that indicate the market value of the fund.
+
+References:
+
+[Zenodo 401K pdf](https://zenodo.org/record/7542073/files/401kFund.pdf)
+
+[Zenodo 401K](https://zenodo.org/record/7542073)
+
+[Github 401K](https://github.com/cfrm17/401kFund)
+
 
