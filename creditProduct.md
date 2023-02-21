@@ -132,3 +132,113 @@ References:
 
 [Github Mc Sensitivity](https://github.com/cfrm17/mcSen)
 
+
+
+### Credit Default Swap Index Basis Adjustment
+
+The implementation of the submitted model was first verified by testing against an independently developed test model. The implications of underlying assumptions in the model were tested against several benchmark models. The internal error tolerance control in the bootstrapping and the choice of the flat term nodes of the indexes were assessed and found appropriate as well.
+
+It is important to note that, from the viewpoint of mathematical modeling, there are many ways to make such adjustments and the methodology of adjustment is only one of the choices. Each choice bears different assumptions on the embedded index basis risk and, to our best knowledge to date, there is no generally accepted market convention of making such adjustment. The test results indicate that, as far as the calibration of the base correlation and the valuation of an index CDO trade are concerned, the differences among those choices are immaterial. It is also indicated that the differences mainly resides in the term nodes that are far from the index maturities, which may be material depending on the hedging strategy for index CDO trades.
+
+References:
+
+[Zenodo Basis Adjustment pdf](https://zenodo.org/record/7387930/files/basisAdjustment.pdf)
+
+[Zenodo Basis Adjustment](https://zenodo.org/record/7387930)
+
+[Github Basis Adjustment](https://github.com/cfrm17/cdsBasisAdjustment)
+
+
+
+### Risk Measures for FNM and CDO2&3 Trades
+
+A new method of computing the credit spread sensitivity, namely semi-analytic Monte Carlo (MC) sensitivity, is adopted in the submitted model. It applied to FNM trades and CDO2&3 trades. In the computation of risk, now it is known that a default event that passes across the maturity in the perturbed scenario has a large contribution. Using a usual bump/revaluation approach, it is very hard to model such an event if the perturbation is tiny in the case such as computing CSPDH. In the new model, a deterministic part is added to directly address this part of contribution to credit spread sensitivities; hence the computational efficiency and precision are greatly improved.  
+
+The CSPDH of CDO2&3 trades is the most complicated model in the Oscar/Fritz credit library.  In the model, a CDO2&3 trade is flattened to a risk equivalent vanilla CDO trade (RE-CDO) and then valued within the base correlation framework. When the credit spread of an obligor is perturbed, the attachment point of the RE-CDO trade is changed, which can be found through a re-flattening process. Using the analytical sensitivity approach, the computation of CSPDH for a CDO2&3 trade is decomposed into two parts. One is CSPDH for RE-CDO, which is the same as that of a bespoke trade. The other part is CSPDH attributed to change of the attachment of RE-CDO. This part is calculated via a Jacobian of the attachment point to the credit spread change, in which the analytical MC sensitivity is employed. The first part of CSPDH can be tested straightforwardly by switching off re-flattening option and benchmarking against the approved bespoke CDO pricing template.  We focus on the second part of CSPDH for CDO2&3 trades. 
+
+References:
+
+[Zenodo Risk Measures pdf](https://zenodo.org/record/7387976/files/RiskMeasureFnmCDO2%263.pdf)
+
+[Zenodo Risk Measures](https://zenodo.org/record/7387976)
+
+[Github Risk Measures](https://github.com/cfrm17/riskMeasureCdo)
+
+
+
+### Risk Measures for Index Tranches and Bespoke CDOs
+
+The new components developed in the Oscar/Fritz credit library enable us to capture risk more accurately. Previously, the index basis adjustment, base correlation calibration, and CDO2&3 trade equivalent CDO re-flattening (RE-CDO) were implemented outside the Oscar/Fritz library and there was no way to make corresponding adjustments in perturbed scenarios. In the new model, we can recalculate the basis adjustments, remap base correlations, and re-flatten RE-CDOs in the perturbed scenario. 
+
+The credit spread sensitivity is switched to a bucketed one (CSPDH). In the model, parallel shift credit spread sensitivity has been used for many years. However, recent development in the market, especially the popularity of longer term trades, makes this measure inaccurate.
+
+References:
+
+[Zenodo Bespoke pdf](https://zenodo.org/record/7388002/files/RiskMeasuresIndexBespoke.pdf)
+
+[Zenodo Bespoke](https://zenodo.org/record/7388002)
+
+[Github Bespoke](https://github.com/cfrm17/indexRiskMeasure)
+
+
+
+### Repo Curve
+
+A repo curve is defined as an adjustment to the discount curve in the pricing of a bond/FRN, when the credit default swaps (CDS) market implied default probability of the issuer is used in the pricing. We have changed the repo curve generation methodology. 
+
+Instead of a fixed term structure, the repo curve for each issuer in essence becomes “repo collections” in which a constant repo factor is stored with respect to each outstanding bond with same issuer. The computation of the repo factor for each bond remains unchanged. 
+
+References:
+
+[Zenodo Repo Curve pdf](https://zenodo.org/record/7428850/files/RepoCurve.pdf)
+
+[Zenodo Repo Curve](https://zenodo.org/record/7428850)
+
+[Github Repo Curve](https://github.com/cfrm17/repoCurve)
+
+
+
+### Credit Delta and Credit VaR Measures
+
+Credit default swaps may terminate prior to maturity if the obligor defaults.  The effective duration of a credit default swap is therefore shorter than the term of the swap due to the possibility of swap termination prior to maturity.  The current methodology overstates PV01 values because it does not incorporate the default probability.
+
+Credit spread information derived from debt securities is only an approximation to the swap spread data and may not truly reflect the level and volatility of swap spreads.  Therefore credit spreads of debt securities should only be used as a proxy in the absence of historical spread data for asset swaps and default swaps.  
+
+References:
+
+[Zenodo Credit Delta VaR pdf](https://zenodo.org/record/7473670/files/CreditDeltaVaR.pdf)
+
+[Zenodo Credit Delta VaR](https://zenodo.org/record/7473670)
+
+[Github Credit Delta VaR](https://github.com/cfrm17/creditDeltaVaR)
+
+
+### Model Reserve
+
+The marked-to-market  (MTM) value of a CDO or FTD baskets can be represented as a function of the market spreads, market liquidity and underlying pricing model (which itself is dependent on the correlation engine and estimated correlation parameters).  Thus, the change in MTM can result from the change in either for the above-mentioned variables.
+
+From the above mathematical representation, the reserves are subject to one main source of model risk – choice of default correlation model. The current reserves amounts are model dependent but the conservative approach to the computation of these reserves will partially encompass model risk.  In order to compute model risk reserves, an alternative generally used model (referred to as the alternative model in this policy) must be available for comparison. The following methodology and process will be used for computing model risk reserves.   
+
+References:
+
+[Zenodo Model Reserve pdf](https://zenodo.org/record/7473768/files/ModelReserves.pdf)
+
+[Zenodo Model Reserve](https://zenodo.org/record/7473768)
+
+[Github Model Reserve](https://github.com/cfrm17/modelReserve)
+
+
+
+### Weighted Monte Carlo Simulation
+
+The technique of assigning probability weights has, at least theoretically, the additional benefits of accelerating the convergence of the simulation, as well as allowing the sensitivities of the simulated price with respect to the benchmark securities to be computed without performing additional simulations. 
+
+Sometimes WMC fails to predict a “correct” value for an outstanding trade. According to the theory of WMC, we could not expect the difference between the regular MC simulation and WMC to be so large.
+
+References:
+
+[Zenodo Model Reserve pdf](https://zenodo.org/record/7474236/files/WeightedMc.pdf)
+
+[Zenodo Model Reserve](https://zenodo.org/record/7474236)
+
+[Github Model Reserve](https://github.com/cfrm17/weightedMc)
