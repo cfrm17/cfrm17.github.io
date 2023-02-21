@@ -71,6 +71,15 @@ Equity derivatives are a class of financial products whose value is derived from
 [More details](/eqDerivatives.md) 
 
 
+
+### Equity Product
+
+Equity product is a financial instrument whose payoff is based on equity factors.
+
+[More details](/eqProduct.md) 
+
+
+
 ### List of Derivative Pricing Models
 
 [References](https://finpricing.com/FinPricing-ProductBrochure.pdf) 
