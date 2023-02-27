@@ -119,8 +119,68 @@ Finally, we use the all this information to project cash flows for the various t
 
 References:
 
-[Zenodo Exposure Risk pdf](https://zenodo.org/record/7574401/files/CMBS.pdf)
+[Zenodo cmbs pdf](https://zenodo.org/record/7574401/files/CMBS.pdf)
 
-[Zenodo Exposure Risk](https://zenodo.org/record/7574401)
+[Zenodo cmbs](https://zenodo.org/record/7574401)
 
-[Github Exposure Risk](https://github.com/cfrm17/cmbs)
+[Github cmbs](https://github.com/cfrm17/cmbs)
+
+
+
+### Bet Option 
+
+A bet option is a bet on a basket of stocks.  There are multiple reset periods before the maturity of the option.  At the end of each period, if all the stocks in the basket are above their respective strikes, the option will payout a rebate amount for this period at maturity.
+
+[Zenodo bet option pdf](https://zenodo.org/record/7675640/files/BetOption.pdf)
+
+[Zenodo bet option](https://zenodo.org/record/7675640)
+
+[Github bet option](https://github.com/cfrm17/betOption)
+
+
+
+### Basket Asian Relative Performance Option 
+
+Monte Carlo simulation associated with stratified sampling variance deduction is employed to evaluate the option.  In the first sample transaction, there are six stocks, one as a reference, and the other five in a basket with equal weight.  These underling stocks and the option are all measured in CAD.
+
+[Zenodo BARPO pdf](https://zenodo.org/record/7675618/files/AsianBasketRpo.pdf)
+
+[Zenodo BARPO](https://zenodo.org/record/7675618)
+
+[Github BARPO](https://github.com/cfrm17/basketAsianRpo)
+
+
+
+### Bond Option 
+
+Let B(t)  be a price process of a given bond, and T be a payoff maturity date.  The bond option with the underlying B is a European type derivative security whose matured payoff at the settlement date is given by
+
+[Zenodo bond option pdf](https://zenodo.org/record/7681904/files/BondOption.pdf)
+
+[Zenodo bond option](https://zenodo.org/record/7681904)
+
+[Github bond option](https://github.com/cfrm17/bondOption)
+
+
+
+### Bond Futures Option
+
+We present a pricing model for bond futures option. Assuming that the bond futures price at the maturity of the option is lognormal, the model adopts the Black’s analytical closed-form solution.  The futures price is taken directly from the market instead of being calculated from the bond futures calculator.
+
+[Zenodo bond futures option pdf](https://zenodo.org/record/7682025/files/BondFuturesOption.pdf)
+
+[Zenodo bond futures option](https://zenodo.org/record/7682025)
+
+[Github bond futures option](https://github.com/cfrm17/bondFuturesOption)
+
+
+
+### Callable Asian Option 
+
+Pricing of callable Asian options involve two stages.  The first stage is for the cases when the current value date is prior to the call date.  This is our focus.  The second is for the cases when the current value date is beyond the call date; in these cases, either the option was called and therefore deceased, or the remaining is just a regular Asian option, which is not in our scope.
+
+[Zenodo callable asian pdf](https://zenodo.org/record/7682078/files/CallableAsian.pdf)
+
+[Zenodo callable asian](https://zenodo.org/record/7682078)
+
+[Github callable asian](https://github.com/cfrm17/callableAsian)
