@@ -184,3 +184,39 @@ Pricing of callable Asian options involve two stages.  The first stage is for th
 [Zenodo callable asian](https://zenodo.org/record/7682078)
 
 [Github callable asian](https://github.com/cfrm17/callableAsian)
+
+
+### Term Structure of CDS Curve
+
+On the credit default swap market, a series of spreads with corresponding maturities can be obtained every business day. If the target default swap is forward starting, quarterly calibration payment dates will be generated from the first payment date of the target default swap backward to the value date.  If the target default swap finishes before the last maturity date in the term structure file, quarterly calibration payment dates will be generated from the maturity date of the target default swap forward to the last maturity date in the term structure file.  The payment dates used for calibration are therefore built.
+
+[Zenodo cds curve pdf](https://zenodo.org/record/7729723/files/CdsTermStructure.pdf)
+
+[Zenodo cds curve](https://zenodo.org/record/7729723)
+
+[Github cds curve](https://github.com/cfrm17/CdsTermStructure)
+
+
+### Credit Default Swap 
+
+A credit default swap is actually an option, which protect the buyer against possible default of an entity, the so-called reference entity. To accomplish this, the buyer of the default swap pays the seller a premium periodically in exchange for a contingent payment in case the reference entity defaults. The contingent payment is the difference between the notional of the swap and the recovery value from the reference entity. 
+
+[Zenodo cds pdf](https://zenodo.org/record/7729965/files/cds.pdf)
+
+[Zenodo cds](https://zenodo.org/record/7729965)
+
+[Github cds](https://github.com/cfrm17/cds)
+
+
+### Hazard rate calibration
+
+For each bond traded in the market, the credit premium is usually observable but the hazard rate is unobservable. The credit risk premium of a corporate bond can be observed by the difference of the bond yield from benchmark Treasury bond yield of similar duration. Credit risk premium can also be observed from traded credit default swaps. 
+
+[Zenodo hazard pdf](https://zenodo.org/record/7729977/files/hazardRate.pdf)
+
+[Zenodo hazard](https://zenodo.org/record/7729977)
+
+[Github hazard](https://github.com/cfrm17/hazardRateCalibration)
+
+
+
