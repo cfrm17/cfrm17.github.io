@@ -50,6 +50,13 @@ computation of dates from these tenors differs between the two markets.
 [More details](/fxDerivatives.md) 
 
 
+### Market Risk
+
+Capital market risk management system is an information technology platform that helps people in financial markets balance risk appetite with performance to ultimately optimize capital efficiency, identify problems, mitigate threats, control risk, avoid unexpected loss, and enhance opportunities
+
+[More details](/marketrisk.md)
+
+
 ### Credit Derivatives
 
 In order to assess the underlying approximations of the model, we use both index trade valuation model and single name CDS valuation model to calculate the derivatives of hazard rate curves at different credit spread levels. 
