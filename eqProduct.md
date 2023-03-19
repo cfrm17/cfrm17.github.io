@@ -222,3 +222,9 @@ For each bond traded in the market, the credit premium is usually observable but
 ### Quanto Himalayan Option
 
 [More details](/quantoHimalayan.md)
+
+
+
+### Callable Inverse Swap
+
+[More details](/callableInverse.md)
