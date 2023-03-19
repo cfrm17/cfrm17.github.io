@@ -219,4 +219,6 @@ For each bond traded in the market, the credit premium is usually observable but
 [Github hazard](https://github.com/cfrm17/hazardRateCalibration)
 
 
+### Quanto Himalayan Option
 
+[More details](/quantoHimalayan.md)
