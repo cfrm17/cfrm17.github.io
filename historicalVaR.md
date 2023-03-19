@@ -30,3 +30,5 @@ Reference:
 [Zenodo mba swap](https://zenodo.org/record/6558053/files/MbaSwap.pdf)
 
 [Zenodo var](https://zenodo.org/record/6529363/files/zenodo-HistoricalVaR.pdf)
+
+[Fliphtml5 var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQDO1UDN5ITPkl0av9mY)

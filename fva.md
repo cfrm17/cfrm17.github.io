@@ -33,6 +33,8 @@ Reference:
 
 [Zenodo fva](https://zenodo.org/record/4017723/files/cvaFva-5.pdf)
 
+[Fliphtml5 fva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgzM2IjNyETPkl0av9mY)
+
 [OSF fva](https://osf.io/r6y2h/download)
 
 [Github quanto cms](https://github.com/timxiao1203/QuantoCmsSpreadSwap)

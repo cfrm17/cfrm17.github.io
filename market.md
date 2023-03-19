@@ -37,6 +37,8 @@ Reference:
 
 [Zenodo market](https://zenodo.org/record/4025380/files/market-10.pdf)
 
+[Fliphtml5 market](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM2UDN5ITPkl0av9mY)
+
 [OSF bk](https://osf.io/efy6v/download)
 
 [OSF market](https://osf.io/rbxqz/download)

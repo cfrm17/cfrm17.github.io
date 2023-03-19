@@ -30,6 +30,8 @@ Reference:
 
 [Zenodo simm](https://zenodo.org/record/4025373/files/initialMargin-8.pdf)
 
+[Fliphtml5 simm](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTO1UDN5ITPkl0av9mY)
+
 [OSF tree](https://osf.io/6eyrv/download)
 
 [OSF martingale tree](https://osf.io/6eyrv/download)

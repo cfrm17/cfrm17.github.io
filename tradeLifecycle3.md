@@ -26,6 +26,8 @@ Reference:
 
 [Zenodo lifecycle3](https://zenodo.org/record/6514611/files/Zenodo-TradeLifecycleProc-3.pdf)
 
+[Fliphtml lifecycle3](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDNyYTM3ITPkl0av9mY)
+
 [OSF lifecycle3](https://osf.io/a9w5j/download)
 
 [OSF extendable swap](https://osf.io/23w9h/download)

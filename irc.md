@@ -39,4 +39,6 @@ Reference:
 
 [Zenodo irc](https://zenodo.org/record/4025375/files/irc-9.pdf)
 
+[Fliphtml5 irc](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDM2UDN5ITPkl0av9mY)
+
 [OSF hw vol](https://osf.io/k3wc9/download)

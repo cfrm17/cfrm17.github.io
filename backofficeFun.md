@@ -30,6 +30,8 @@ Reference:
 
 [Zenodo back office function](https://zenodo.org/record/6514299/files/Zenodo-ManageBackofficeFunction.pdf)
 
+[Fliphtml5 back office function](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN1MTM3ITPkl0av9mY)
+
 [OSF back office function](https://osf.io/ndtcq/download)
 
 [OSF digital swap](https://osf.io/qzmer/download)

@@ -25,6 +25,8 @@ Reference:
 
 [Zenodo parametric var](https://zenodo.org/record/4027809/files/ParametricVaR-12.pdf)
 
+[Fliphtml5 parametric var](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUjNzQTN5ITPkl0av9mY)
+
 [OSF parametric var](https://osf.io/uzpk3/download)
 
 [Zenodo xccy swap](https://zenodo.org/record/6588375#.YpEh86gpDq4)

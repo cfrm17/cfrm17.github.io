@@ -32,6 +32,8 @@ Reference:
 
 [Zenodo ccr simulation](https://zenodo.org/record/6529250/files/zenodo-ccrSimulation.pdf)
 
+[Fliphtml5 ccr simulation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDN4UzM5ITPkl0av9mY)
+
 [Zenodo caption](https://zenodo.org/record/6561073#.YpDwZagpDq4)
 
 [OSF ccr simulation](https://osf.io/s5b4u/download)

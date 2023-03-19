@@ -35,4 +35,6 @@ Reference:
 
 [Zenodo account](https://zenodo.org/record/6512430/files/Zenodo-AccountLicense.pdf)
 
+[Fliphtml5 account](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDO0MTM3ITPkl0av9mY)
+
 [Github caption](https://github.com/cfrm17/Caption)

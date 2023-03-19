@@ -36,6 +36,8 @@ Reference:
 
 [Zenodo ccr](https://zenodo.org/record/6529211/files/zenodo-ccr.pdf)
 
+[Fliphtml5 ccr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDN4UzM5ITPkl0av9mY)
+
 [OSF ccr](https://osf.io/2dg48/download)
 
 [Gitbook ccr exposure](https://cmrm11.gitbook.io/counterparty-exposure/)

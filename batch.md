@@ -34,6 +34,8 @@ Referencce:
 
 [Zenodo eod](https://zenodo.org/record/6512443/files/Zenodo-BatchJob.pdf)
 
+[Fliphtml5 eod](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDO0MTM3ITPkl0av9mY)
+
 [OSF eod](https://osf.io/4q3tf/download)
 
 [OSF inverse swap](https://osf.io/9jyh8/download)

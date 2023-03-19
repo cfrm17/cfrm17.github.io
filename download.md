@@ -31,6 +31,8 @@ Reference:
 
 [Zenodo install](https://zenodo.org/record/6512485/files/Zenodo-DownloadInstall.pdf)
 
+[Fliphtml5 install](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTN1MTM3ITPkl0av9mY)
+
 [OSF early start](https://osf.io/kapm3/download)
 
 [OSF early start swap](https://osf.io/kapm3/download)

@@ -35,6 +35,8 @@ Reference:
 
 [Zenodo collateral](https://zenodo.org/record/6529297/files/zenodo-collateral.pdf)
 
+[Fliphtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)
+
 [Zenodo fx chooser](https://zenodo.org/record/6546805/files/FxHedgeModel.pdf)
 
 [OSF collateral](https://osf.io/zuhcw/download)

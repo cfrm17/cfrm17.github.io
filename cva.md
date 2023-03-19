@@ -36,6 +36,8 @@ Reference:
 
 [Zenodo cva](https://zenodo.org/record/6533799/files/zenodo-cva.pdf)
 
+[Fliphtml5 cva](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzM2IjNyETPkl0av9mY)
+
 [OSF cva](https://osf.io/hygf7/download)
 
 [Github hw calibration](https://github.com/timxiao1203/HullWhiteVolatilityCalibration)

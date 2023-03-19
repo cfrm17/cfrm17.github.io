@@ -33,6 +33,8 @@ Reference:
 
 [Zenodo closeout reserve](https://zenodo.org/record/6585388/files/closeOutReserve.pdf)
 
+[Fliphtml5 mrec](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNzQTN5ITPkl0av9mY)
+
 [Github basis](https://github.com/timxiao1203/MoneyMarketBasisCurve)
 
 [Github bond option](https://github.com/timxiao1203/MunicipalBondOption)
