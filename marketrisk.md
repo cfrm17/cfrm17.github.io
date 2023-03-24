@@ -1,6 +1,10 @@
 
 ## Market Risk
 
+References:
+
+[Hcommons](https://derivatives.hcommons.org/2023/03/24/market-risk/)
+
 
 ### Market Risk Flow
 
