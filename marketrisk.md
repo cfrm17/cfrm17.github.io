@@ -91,3 +91,99 @@ References:
 
 
 
+### Commodity Risk Factor Translation
+
+The goal of this work is to translate or convert simulated risk factors into market observables. There are three translations in commodity framework: price translation, volatility translation, and all-in translation.
+
+References:
+
+[Studylib commodity translation](https://studylib.net/flashcards/set/commodity-simulation-translation_256082)
+
+[Readkong commodity translation](https://www.readkong.com/page/d68646898b227610dd91dc66cd6cf4bd-8643543)
+
+[Bitbucket commodity translation](https://bitbucket.org/timxiao1203/commoditytranslation/downloads/CommodityTranslation.pdf)
+
+
+
+### Commodity Volatility Closing Rate
+
+We use the Omega type models to model the implied volatility skew for commodity derivatives.  These surfaces are incorporate moneyness and time to maturity into the skew definition and are a function of calibrated parameters (skew, wing, boost etc).
+
+References:
+
+[Studylib commodity vol](https://studylib.net/flashcards/set/commodity-volatility-closing-rate-calculation_256102)
+
+[Readkong commodity vol](https://www.readkong.com/page/f3e7fc493b351fb59e863391afeda09e-5813799)
+
+[Bitbucket commodity vol](https://bitbucket.org/timxiao1203/volrate/downloads/CommodityVol.pdf)
+
+
+
+### Precious Metal Futures Basis
+
+Futures contracts are typically valued as a spread to the forwards curves.  This spread is the EFP (Exchange of Futures for Physical).  This function spec outlines the introduction of this spread as a basis risk factor into system and the transformation of sensitivities with respect to futures contracts to those with respect the spot contract, forward offered rates, and basis.
+
+References:
+
+[Studylib PM basis](https://studylib.net/flashcards/set/precious-metal-futures_256119)
+
+[Readkong PM basis](https://www.readkong.com/page/ddd68d14959f38d5317e09c5be9e4d30-4962003)
+
+[Bitbucket PM basis](https://bitbucket.org/timxiao1203/pmfutures/downloads/PreciousMetalFutures.pdf)
+
+
+
+### Dividend Risk
+
+OSFI recommended that dividend risk should be captured in market risk framework. To achieve that, a dividend risk model is developed by Market Risk (MR) and will be implemented in system. The model calls for the introduction of new dividend risk factors as the expected dividend amount of an equity asset, either a stock, or a basket of stocks, or an equity index. 
+
+References:
+
+[Studylib dividend risk](https://studylib.net/flashcards/set/dividend-risk_256120)
+
+[Readkong dividend risk](https://www.readkong.com/page/44229fa074278a10cf9dfc6d638efd1f-9446385)
+
+[Bitbucket dividend risk](https://bitbucket.org/timxiao1203/dividendrisk/downloads/DividendRisk.pdf)
+
+
+
+### Dividend Exposure Measurement 
+
+The proposal is to capture the dividend risk under normal market conditions. Stress test is considered a more appropriate approach to capture the risk of severe cutting or eliminating dividend of large blue chip stocks during financial crisis.
+
+References:
+
+[Studylib dividend exposure](https://studylib.net/flashcards/set/dividend-exposure-measurement-and-management_256121)
+
+[Readkong dividend exposure](https://www.readkong.com/create/preview/e66f03a99516814b5ac50b8d9777f4f9-7267783)
+
+[Bitbucket dividend exposure](https://bitbucket.org/timxiao1203/dividendexposure/downloads/DividendExposure.pdf)
+
+
+
+### Dividend Risk Modeling 
+
+In practice, most traders treated dividend amount as “known” and risk managers do not monitor the price sensitivity to dividend amount as long as the total price sensitivity to underlying asset price is properly captured in case the dividend yield is used in pricing. If they think there is any dividend risk, that is only associated with the big negative jumps described above. Stress test, rather than daily VaR, is a proper way to capture that kind of risk.
+
+References:
+
+[Studylib dividend model](https://studylib.net/flashcards/set/dividend-risk-modeling-and-methodology_256122)
+
+[Readkong dividend model](https://www.readkong.com/create/preview/46b214dd09912278e2a2be4a6a5e5e26-4427754)
+
+[Bitbucket dividend model](https://bitbucket.org/timxiao1203/dividendmodel/downloads/DividendModel.pdf)
+
+
+
+### Dividend Risk Model Calibration
+
+As described in model description and calibration of the model, the daily innovation to expected dividend of an index is simulated from double exponential distribution with specified correlation with all other risk factors. The daily innovation to expected dividend of a single stock is simulated on the fly without correlation with other risk factors. 
+
+References:
+
+[Studylib dividend Calibration](https://studylib.net/flashcards/set/dividend-risk-model-calibration_256123)
+
+[Readkong dividend Calibration](https://www.readkong.com/page/37d55160d761971bfc351a91a735edab-1838459)
+
+[Bitbucket dividend Calibration](https://bitbucket.org/timxiao1203/dividendcalibration/downloads/dividendCalibration.pdf)
+
