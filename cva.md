@@ -32,6 +32,8 @@ Reference:
 
 [CVA](/cva-4.pdf)
 
+[Authorea cva](https://www.authorea.com/doi/pdf/10.22541/au.156881621.17931411/v1)
+
 [Zenodo chooser cap](https://zenodo.org/record/6561499/files/chooserCap.pdf)
 
 [Zenodo cva](https://zenodo.org/record/6533799/files/zenodo-cva.pdf)

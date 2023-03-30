@@ -33,6 +33,10 @@ Reference:
 
 [Collateral Management](/collateral-3.pdf)
 
+[OSF collateral](https://osf.io/zuhcw/download)
+
+[Authorea collateral](https://www.authorea.com/doi/pdf/10.22541/au.156829810.02261848/v1)
+
 [Zenodo collateral](https://zenodo.org/record/6529297/files/zenodo-collateral.pdf)
 
 [Fliphtml5 collateral](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATN4UzM5ITPkl0av9mY)

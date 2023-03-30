@@ -32,6 +32,8 @@ Reference:
 
 [ccr](/ccr-1.pdf)
 
+[Cloudfront ccr](https://d197for5662m48.cloudfront.net/documents/publicationstatus/131747/preprint_pdf/b7b4c745e707c417f937bc7500e530c1.pdf)
+
 [Zenodo capped frn](https://zenodo.org/record/6558277#.YpDwUqgpDq4)
 
 [Zenodo ccr](https://zenodo.org/record/6529211/files/zenodo-ccr.pdf)
