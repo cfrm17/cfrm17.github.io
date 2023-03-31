@@ -87,6 +87,14 @@ Equity product is a financial instrument whose payoff is based on equity factors
 
 
 
+### Finanical Analytics
+
+Research papers are presented.
+
+[More details](/academic.md) 
+
+
+
 ### List of Derivative Pricing Models
 
 [References](https://finpricing.com/FinPricing-ProductBrochure.pdf) 
