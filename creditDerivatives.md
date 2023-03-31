@@ -57,6 +57,8 @@ References
 
 [Github CCDS](https://github.com/cfrm17/ccirs)
 
+[Researchgate credit](https://www.researchgate.net/profile/Tim-Xiao/publication/337180499_Pricing_Financial_Derivatives_Subject_to_Multilateral_Credit_Risk_and_Collateralization/links/64274b7266f8522c38e94f59/Pricing-Financial-Derivatives-Subject-to-Multilateral-Credit-Risk-and-Collateralization.pdf)
+
 
 
 ### CDO Mapping
@@ -103,6 +105,8 @@ References
 [Zenodo CDSO pdf](https://zenodo.org/record/7373465)
 
 [Github CDSO pdf](https://github.com/cfrm17/cdso)
+
+[Researchgate CDS pdf](https://www.researchgate.net/profile/Tim-Xiao/publication/337684918_The_Valuation_of_Credit_Default_Swap_with_Counterparty_Risk_and_Collateralization/links/64274784a1b72772e43efd95/The-Valuation-of-Credit-Default-Swap-with-Counterparty-Risk-and-Collateralization.pdf)
 
 
 ### Default Sensitivity

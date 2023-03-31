@@ -32,6 +32,8 @@ stochastic events that will affect our exposure in the future.
 
 [Counterparty Credit Risk](ccr.md)
 
+[Credit Risk](https://www.researchgate.net/profile/Tim-Xiao/publication/341943205_The_Valuation_of_Financial_Derivatives_Subject_to_Counterparty_Risk_and_Credit_Value_Adjustment/links/642743c666f8522c38e94dfb/The-Valuation-of-Financial-Derivatives-Subject-to-Counterparty-Risk-and-Credit-Value-Adjustment.pdf)
+
 
 ### Credit Risk Simulation
 

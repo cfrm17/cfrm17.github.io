@@ -27,7 +27,7 @@ References:
 
 [wiki](https://osf.io/k6q5t/wiki/home/)
 
-
+[researchgate](https://www.researchgate.net/profile/Tim-Xiao/publication/337496817_The_Valuation_of_Interest_Rate_Swap_with_Bilateral_Counterparty_Risk/links/6427499066f8522c38e94f11/The-Valuation-of-Interest-Rate-Swap-with-Bilateral-Counterparty-Risk.pdf)
 
 
 
