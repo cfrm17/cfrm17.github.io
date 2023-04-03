@@ -55,3 +55,109 @@ References:
 
 [OSF HW vol](https://osf.io/wra62/download)
 
+
+
+### Credit Valuation Adjustment
+
+As a consequence, the International Accounting Standard (IAS) 39 requires banks to provide a fair-value adjustment due to counterparty risk. Although credit value adjustment (CVA) became mandatory in 2000, it received a little attention until the recent financial crises in which the profit and loss (P&L) swings due to CVA changes were measured in billons of dollars. Interest in CVA began to grow. Now CVA has become the first line of defense and the central part of counterparty risk management.
+
+References:
+
+[core cva pdf](https://core.ac.uk/download/328766597.pdf)
+
+
+
+### LMM
+
+The LIBOR Market Model (LMM) is an interest rate model based on evolving LIBOR market forward rates under a risk-neutral forward probability measure. In contrast to models that evolve the instantaneous short rates or instantaneous forward rates, which are not directly observable in the market, the objects modeled using the LMM are market observable quantities. The explicit modeling of market forward rates allows for a natural formula for interest rate option volatility that is consistent with the market practice of using the formula of Black for caps. It is generally considered to have more desirable theoretical calibration properties than short rate or instantaneous forward rate models.
+
+References:
+
+[core lmm pdf](https://core.ac.uk/download/288179622.pdf)
+
+
+
+
+### Convertible Bond Valuation
+
+A company can raise capital in financial markets either by issuing equities, bonds, or hybrids. From an investor’s perspective, convertible bonds with embedded optionality offer certain benefits of both equities and bonds, they have the potential for capital appreciation and like the latter, they offer interest income and safety of principal. The convertible bond market is of primary global importance. 
+
+References:
+
+[core convertible](https://core.ac.uk/download/214006918.pdf)
+
+
+
+### Bilateral Credit Risk
+
+Pricing defaultable derivatives or pricing the counterparty credit risk is a
+relatively new area of derivatives modeling and trading. Credit value adjustment (CVA)
+allows us to quantify counterparty credit risk as a single, measurable Profit & Loss
+number. By definition, CVA is the difference between the risk-free trade value and the
+true (or risky or defaultable) trade value that takes into account the possibility of
+counterparty’s default. Commonly, the CVA is not paid as a lump-sum upfront
+premium, but rather is structured into a funding spread. The risk-free trade value is
+what brokers quote or what trading systems or models normally report. The
+defaultable trade value, however, is a relatively less explored and less transparent
+area, which is the main challenge and core theme for credit risk adjustment
+
+References:
+
+[core bilateral](https://core.ac.uk/download/534863091.pdf)
+
+
+
+
+### Jump Diffusion
+
+The jump-diffusion model was first introduced by Merton (1976) in the market risk context for modeling asset price behavior that incorporates small day-to-day diffusive movements together with larger randomly occurring jumps. Over the last decade, people attempt to propagate the model from the market risk domain to the credit risk arena. 
+
+References:
+
+[core jump](https://core.ac.uk/download/328766602.pdf)
+
+
+
+
+### Pricing Credit Risk
+
+Central to the reduced-form models is the assumption that multiple defaults are independent conditional on the state of the economy. In reality, however, the default of one party might affect the default probabilities of other parties. People find that a major credit event at one firm is associated with significant increases in the credit spreads of other firms. People also find that a defaulting firm can weaken the firms in its network of business links. These findings have important implications for the management of credit risk portfolios, where default relationships need to be explicitly modeled.
+
+References:
+
+[core multiple](https://core.ac.uk/reader/334593150)
+
+
+
+
+### Incremental Risk Charge Modeling
+
+The constant level of risk reflects recognition by regulators that securities/derivatives held in the trading book are generally much more liquid than those in the banking book, where a buy-and-hold assumption over one year may be reasonable. It implies that IRC should be modeled under the assumption that banks rebalance their portfolio several times over the capital horizon in order to maintain a constant risk profile as market conditions evolve. Of course, we do not suggest that the constant level of risk framework be taken literally as a model of banks’ behavior: clearly portfolios are altered on a daily basis, not simply held constant for some period then instantaneously rebalanced. Rather, we regard the rollover interpretation as being a reasonable approximation to the way banks manage their trading portfolios over a certain horizon. In general, one should model constant level of risk instead of constant portfolio over one year capital horizon.
+
+References:
+
+[core irc](https://core.ac.uk/download/334593149.pdf)
+
+
+
+
+### CDS Counterparty Risk
+
+We study the sensitivity of the price of a defaultable instrument to changes in the joint credit quality of the parties. For instance, our analysis shows that the effect of default dependence on CDS premia from large to small is the correlation between the protection seller and the reference entity, the comrelation, the correlation between the protection buyer and the reference entity, and the correlation between the protection buyer and the protection seller.
+
+References:
+
+[core cds](https://core.ac.uk/download/334593149.pdf)
+
+
+
+### Commodity Price Modeling
+
+The article presents a multi-factor model for pricing commodity derivatives. A primary application is to price commodity swaptions. Swaptions are a relatively illiquid product in commodities market, and the natural flow tends to be one-sided. As a result, dealers typically warehouse long swaption risks. Delta and Vega of these swaptions can be effectively hedged with liquid vanilla options and futures.
+
+References:
+
+[core commodity](https://core.ac.uk/download/533453681.pdf)
+
+
+
