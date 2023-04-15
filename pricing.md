@@ -139,6 +139,8 @@ We use analytical formulas for forward swap and swaption valuation: the swap pri
 
 [Reference:](/extendableSwap.md)
 
+[osf pdf](https://osf.io/23w9h/download)
+
 
 
 ### Callable Inverse Swap Valuation
@@ -157,6 +159,8 @@ A flexible GIC is an investment with an embedded option to redeem the principal 
 the principal and accrued interest at any time after 30 days of from the date of purchase. No interest is paid if the investment is redeemed within first 30 days from the purchase date.
 
 [Reference:](/flexibleGic.md)
+
+[osf pdf](https://osf.io/q6ut7/download)
 
 
 

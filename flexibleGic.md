@@ -20,11 +20,13 @@ There are two types of the Premium GIC, GIC and RSP. They differ by the way the 
 
 References:
 
-[pdf](https://osf.io/q6ut7/download)
+[osf pdf](https://osf.io/q6ut7/download)
 
-[wiki](https://osf.io/w97gv/wiki/home/)
+[Zenodo CDS Curve pdf](https://zenodo.org/record/7373680/files/creditCurveAdjustment.pdf)
 
+[Zenodo CDS Curve](https://zenodo.org/record/7373680)
 
+[Zenodo default sensitivity pdf](https://zenodo.org/record/7373904/files/DefaultSensitivity.pdf)
 
-
+[Zenodo default sensitivity](https://zenodo.org/record/7373904)
 

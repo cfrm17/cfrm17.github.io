@@ -23,7 +23,7 @@ The forward swap rate is adjusted to convexity is taken as the mean of the swap 
 
 References:
 
-[pdf](https://osf.io/23w9h/download)
+[osf pdf](https://osf.io/23w9h/download)
 
 [zenodo cds curve](https://zenodo.org/record/7373116/files/CDSHCurve.pdf)
 
