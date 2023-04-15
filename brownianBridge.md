@@ -24,9 +24,9 @@ References:
 
 [osf pdf](https://osf.io/6dn54/download)
 
-[Zenodo power swap pdf](https://zenodo.org/record/7314483/files/PowerSwap.pdf)
+[Zenodo power swap pdf](https://zenodo.org/record/7831575/files/PowerSwap.pdf)
 
-[Zenodo power swap](https://zenodo.org/record/7314483)
+[Zenodo power swap](https://zenodo.org/record/7831575)
 
 [Zenodo ratio tunnel pdf](https://zenodo.org/record/7317139/files/RatioTunnelOption.pdf)
 

@@ -21,11 +21,11 @@ Party one has the right to cancel the swap on the annual payment date, starting 
 
 References:
 
-[pdf](https://osf.io/9jyh8/download)
+[osf pdf](https://osf.io/9jyh8/download)
 
-[wiki](https://osf.io/vbwxe/wiki/home/)
+[Zenodo reciprocal average pdf](https://zenodo.org/record/7317169/files/ReciprocalAverageForward.pdf)
 
+[Zenodo reciprocal average](https://zenodo.org/record/7317169)
 
-
-
+[Zenodo reciprocal average](https://zenodo.org/record/7317169)
 

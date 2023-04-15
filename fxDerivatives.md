@@ -118,9 +118,9 @@ PWR-PHYS contracts are valuated as a swap of basket of indices, evaluating each 
 
 References: 
 
-[Zenodo Power Swap pdf](https://zenodo.org/record/7314483/files/PowerSwap.pdf)
+[Zenodo Power Swap pdf](https://zenodo.org/record/7831575/files/PowerSwap.pdf)
 
-[Zenodo Power Swap](https://zenodo.org/record/7314483)
+[Zenodo Power Swap](https://zenodo.org/record/7831575)
 
 [Github Power Swap](https://github.com/cfrm17/PowerSwap)
 
