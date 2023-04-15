@@ -131,9 +131,9 @@ A ratio tunnel option is defined as a European vanilla option upon a European co
 
 References: 
 
-[Zenodo Ratio Tunnel Option pdf](https://zenodo.org/record/7317139/files/RatioTunnelOption.pdf)
+[Zenodo Ratio Tunnel Option pdf](https://zenodo.org/record/7831590/files/RatioTunnelOption.pdf)
 
-[Zenodo Ratio Tunnel Option](https://zenodo.org/record/7317139)
+[Zenodo Ratio Tunnel Option](https://zenodo.org/record/7831590)
 
 [Github Ratio Tunnel Option](https://github.com/cfrm17/RatioTunnelOption-)
 

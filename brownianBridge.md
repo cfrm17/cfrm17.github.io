@@ -28,7 +28,7 @@ References:
 
 [Zenodo power swap](https://zenodo.org/record/7831575)
 
-[Zenodo ratio tunnel pdf](https://zenodo.org/record/7317139/files/RatioTunnelOption.pdf)
+[Zenodo ratio tunnel pdf](https://zenodo.org/record/7831590/files/RatioTunnelOption.pdf)
 
-[Zenodo ratio tunnel](https://zenodo.org/record/7317139)
+[Zenodo ratio tunnel](https://zenodo.org/record/7831590)
 
