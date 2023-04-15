@@ -27,5 +27,6 @@ References:
 
 [Zenodo reciprocal average](https://zenodo.org/record/7317169)
 
-[Zenodo reciprocal average](https://zenodo.org/record/7317169)
+[Zenodo compound option pdf](https://zenodo.org/record/7317234/files/compoundOption.pdf)
 
+[Zenodo compound option](https://zenodo.org/record/7317234)
