@@ -73,6 +73,8 @@ points are predetermined and fixed.
 
 [Reference:](/brownianBridge.md)
 
+[osf pdf](https://osf.io/6dn54/download)
+
 
 
 ### Exchangeable Convertible Bond Model

@@ -22,11 +22,13 @@ respect to the initial and final points and the recursive nature of the algorith
 
 References:
 
-[pdf](https://osf.io/6dn54/download)
+[osf pdf](https://osf.io/6dn54/download)
 
-[wiki](https://osf.io/wfer3/wiki/home/)
+[Zenodo power swap pdf](https://zenodo.org/record/7314483/files/PowerSwap.pdf)
 
+[Zenodo power swap](https://zenodo.org/record/7314483)
 
+[Zenodo ratio tunnel pdf](https://zenodo.org/record/7317139/files/RatioTunnelOption.pdf)
 
-
+[Zenodo ratio tunnel](https://zenodo.org/record/7317139)
 
