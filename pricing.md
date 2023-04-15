@@ -94,6 +94,7 @@ principal of the notes.
 
 [Reference:](/absSenior.md)
 
+[pdf](https://osf.io/eg6mv/download)
 
 
 ### Hull White Volatility Calibration
