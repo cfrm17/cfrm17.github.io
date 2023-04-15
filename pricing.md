@@ -144,6 +144,8 @@ A Callable Inverse Floating Rate Swap is a forward swap agreement with an option
 
 [Reference:](/callableInverse.md)
 
+[osf pdf](https://osf.io/9jyh8/download)
+
 
 
 ### Flexible GIC Valuation
@@ -192,6 +194,8 @@ Variable rate swap is a special type of interest rate swap in which one leg of t
 A constant maturity swap (CMS) spread option makes payments based on a bounded spread between two index rates (e.g., a GBP CMS rate and a EURO CMS rate).  The GBP CMS rate is calculated from a 15 year swap with semi-annual, upfront payments, while the EURO CMS rate is based on a 15 year swap with annual, upfront payments. 
 
 [Reference:](/cmsSpread.md)
+
+[pdf](https://osf.io/9db5u/download)
 
 
 

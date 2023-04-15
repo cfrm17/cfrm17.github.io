@@ -29,9 +29,11 @@ References:
 
 [pdf](https://osf.io/9db5u/download)
 
-[list](https://osf.io/ndte4/wiki/home/)
+[Zenodo broker strange pdf](https://zenodo.org/record/7317278/files/BrokerStrangleAlgorithm.pdf)
 
+[Zenodo broker strange](https://zenodo.org/record/7317278)
 
+[Zenodo fix barrier pdf](https://zenodo.org/record/7320191/files/SingleFixingBarrier.pdf)
 
-
+[Zenodo fix barrier](https://zenodo.org/record/7320191)
 
