@@ -25,7 +25,13 @@ References:
 
 [pdf](https://osf.io/23w9h/download)
 
-[wiki](https://osf.io/k6q5t/wiki/home/)
+[zenodo cds curve](https://zenodo.org/record/7373116/files/CDSHCurve.pdf)
+
+[zenodo cds curve](https://zenodo.org/record/7373116)
+
+[Zenodo CDSO pdf](https://zenodo.org/record/7373465/files/CDSO.pdf)
+
+[Zenodo CDSO pdf](https://zenodo.org/record/7373465)
 
 [researchgate](https://www.researchgate.net/profile/Tim-Xiao/publication/337496817_The_Valuation_of_Interest_Rate_Swap_with_Bilateral_Counterparty_Risk/links/6427499066f8522c38e94f11/The-Valuation-of-Interest-Rate-Swap-with-Bilateral-Counterparty-Risk.pdf)
 
