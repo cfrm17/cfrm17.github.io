@@ -8,6 +8,7 @@ Variance swap does not have any dependence on spot FX rate and provides pure exp
 
 References: 
 
+
 [Zenodo FX Variance Swap pdf](https://zenodo.org/record/7301706/files/FxVarianceSwap.pdf)
 
 [Zenodo FX Variance Swap](https://zenodo.org/record/7301706)

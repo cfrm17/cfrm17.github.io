@@ -32,9 +32,11 @@ References:
 
 [pdf](https://osf.io/eg6mv/download)
 
-[wiki](https://osf.io/2ysqn/wiki/home/)
+[FX Variance pdf](https://zenodo.org/record/7301706/files/FxVarianceSwap.pdf)
 
+[FX Variance pdf](https://zenodo.org/record/7301706)
 
+[CARCLockIn pdf](https://zenodo.org/record/7301746/files/CARCLockIn.pdf)
 
-
+[CARCLockIn](https://zenodo.org/record/7301746)
 
