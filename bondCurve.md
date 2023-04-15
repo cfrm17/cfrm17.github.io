@@ -24,9 +24,10 @@ References:
 
 [pdf](https://osf.io/4nhyb/download)
 
-[wiki](https://osf.io/5sgx7/wiki/home/)
+[Zenodo FX option pdf](https://zenodo.org/record/7314052/files/FxOptionDelta.pdf)
 
+[Zenodo FX option](https://zenodo.org/record/7314052)
 
+[Zenodo FX Asian pdf](https://zenodo.org/record/7314403/files/FxAsianFutureOption.pdf)
 
-
-
+[Zenodo FX Asian](https://zenodo.org/record/7314403)

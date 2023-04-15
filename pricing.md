@@ -114,6 +114,8 @@ financial instruments, of the type below, sorted by order of increasing time to 
 
 [Reference:](/bondCurve.md)
 
+[pdf](https://osf.io/4nhyb/download)
+
 
 
 ### GIC Valuation
@@ -172,6 +174,8 @@ An important feature of the popular three factor trinomial tree is that it uses 
 Assumes that, under the coupon payment currency (SEK) risk-neutral probability measure, the forward swap rate process corresponding to each swap rate fixing follows Geometric Brownian motion with drift.  Each forward swap rate process is then convexity adjusted, and is furthermore expressed under the notional currency (FRF) risk neutral-probability measure by means of a quanto adjustment.
 
 [Reference:](/arrearCms.md)
+
+[pdf](https://osf.io/g6tp5/download)
 
 
 ### Variable Rate Swap Valuation
