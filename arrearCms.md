@@ -19,9 +19,13 @@ References:
 
 [pdf](https://osf.io/g6tp5/download)
 
-[list](https://osf.io/u95g2/wiki/home/)
+[Zenodo futures swaption pdf](https://zenodo.org/record/7308915/files/CommodityFutureSwaption.pdf)
 
+[Zenodo futures swaption](https://zenodo.org/record/7308915)
 
+[Zenodo faderin pdf](https://zenodo.org/record/7313954/files/FaderIn.pdf)
+
+[Zenodo faderin](https://zenodo.org/record/7313954)
 
 
 
