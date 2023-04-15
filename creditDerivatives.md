@@ -7,9 +7,9 @@ The base correlation curve is defined as the correlation inputs required for a s
 
 References: 
 
-[Zenodo Base Correlation pdf](https://zenodo.org/record/7352577/files/BaseCorrelation.pdf)
+[Zenodo Base Correlation pdf](https://zenodo.org/record/7831611/files/BaseCorrelation.pdf)
 
-[Zenodo Base Correlation](https://zenodo.org/record/7352577)
+[Zenodo Base Correlation](https://zenodo.org/record/7831611)
 
 [Github Base Correlation](https://github.com/cfrm17/baseCorrelationModel)
 

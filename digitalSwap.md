@@ -25,9 +25,16 @@ We have tested the swap’s daily Libor-based digital pricing over two accrual p
 
 References:
 
-[pdf](https://osf.io/qzmer/download)
+[ois pdf](https://osf.io/qzmer/download)
 
-[list](https://osf.io/wn2ys/wiki/home/)
+[Zenodo touch option pdf](https://zenodo.org/record/7348980/files/TouchOption.pdf)
+
+[Zenodo touch option](https://zenodo.org/record/7348980)
+
+[Zenodo Base Correlation pdf](https://zenodo.org/record/7831611/files/BaseCorrelation.pdf)
+
+[Zenodo Base Correlation](https://zenodo.org/record/7831611)
+
 
 
 

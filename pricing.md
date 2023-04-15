@@ -221,6 +221,8 @@ A daily digital LIBOR swap is an interest rate swap whose reference interest rat
 
 [Reference:](/digitalSwap.md)
 
+[ois pdf](https://osf.io/qzmer/download)
+
 
 
 ### Ratchet Swap Valuation
