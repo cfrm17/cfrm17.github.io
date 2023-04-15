@@ -205,6 +205,8 @@ An early start swap is a swap that has an American style option for the counterp
 
 [Reference:](/earlySwap.md)
 
+[ois pdf](https://osf.io/kapm3/download)
+
 
 
 ### Quanto TRS Valuation

@@ -20,9 +20,9 @@ The approach implements a base correlation, which is employed to calculate an ap
 
 References: 
 
-[Zenodo Base Correlation Approach pdf](https://zenodo.org/record/7352597/files/BaseCorrApproach.pdf)
+[Zenodo Base Correlation Approach pdf](https://zenodo.org/record/7831616/files/BaseCorrApproach.pdf)
 
-[Zenodo Base Correlation Approach](https://zenodo.org/record/7352597)
+[Zenodo Base Correlation Approach](https://zenodo.org/record/7831616)
 
 [Github Base Correlation Approach](https://github.com/cfrm17/baseCorrelationApproach)
 

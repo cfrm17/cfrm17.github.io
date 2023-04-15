@@ -25,11 +25,13 @@ Since the swap values are mostly affected by the yield of the longest maturity b
 
 References:
 
-[pdf](https://osf.io/kapm3/download)
+[ois pdf](https://osf.io/kapm3/download)
 
-[list](https://osf.io/z587j/wiki/home/)
+[zenodo base correlation approach pdf](https://zenodo.org/record/7831616/files/BaseCorrApproach.pdf)
 
+[zenodo base correlation approach pdf](https://zenodo.org/record/7831616)
 
+[zenodo base correlation test pdf](https://zenodo.org/record/7352694/files/baseCorrelationTest.pdf)
 
-
+[zenodo base correlation test](https://zenodo.org/record/7352694)
 
