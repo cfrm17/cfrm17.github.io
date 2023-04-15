@@ -85,6 +85,9 @@ by the conversion schedule. The bond issuer can call the bond and the holder can
 
 [Reference:](/exchangeableConvertible.md)
 
+[osf pdf](https://osf.io/zgx8c/download)
+
+
 
 
 ### Asset Backed Senior Note Valuation

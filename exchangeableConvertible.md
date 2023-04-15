@@ -18,11 +18,12 @@ corresponding probabilities on each respective tree.
 
 References:
 
-[pdf](https://osf.io/zgx8c/download)
+[osf pdf](https://osf.io/zgx8c/download)
 
-[wiki](https://osf.io/gndpa/wiki/home/)
+[zenodo ccds pdf](https://zenodo.org/record/7362947/files/ccds.pdf)
 
+[zenodo ccds](https://zenodo.org/record/7362947)
 
+[zenodo cdo mapping pdf](https://zenodo.org/record/7363084/files/CDOnMapping.pdf)
 
-
-
+[zenodo cdo mapping](https://zenodo.org/record/7363084)
