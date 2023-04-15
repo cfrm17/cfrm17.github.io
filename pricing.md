@@ -157,6 +157,8 @@ Pricing an American style call option on the yield of Treasury bond is discussed
 
 [Reference:](/americanBond.md)
 
+[pdf](https://osf.io/q6ut7/download)
+
 
 ### Martingale Preserving Tree 
 

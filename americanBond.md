@@ -27,6 +27,14 @@ References:
 
 [pdf](https://osf.io/q6ut7/download)
 
+[Zenodo double barrier pdf](https://zenodo.org/record/7301763/files/DoubleWindowDoubleBarrierOption.pdf)
+
+[Zenodo double barrier](https://zenodo.org/record/7301763)
+
+[Zenodo futures swap pdf](https://zenodo.org/record/7308888/files/CommodityFutureSwap.pdf)
+
+[Zenodo futures swap](https://zenodo.org/record/7308888)
+
 [list](https://finpricing.com/FinPricing-ProductBrochure.pdf)
 
 
