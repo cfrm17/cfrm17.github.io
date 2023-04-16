@@ -21,11 +21,13 @@ We approximate the basket price arithmetic average by a shifted lognormal random
 
 References:
 
-[pdf](https://osf.io/tgd82/download)
+[ois pdf](https://osf.io/tgd82/download)
 
-[wiki](https://osf.io/9rpb3/wiki/home/)
+[Zenodo WeightedMc pdf](https://zenodo.org/record/7474236/files/WeightedMc.pdf)
 
+[Zenodo WeightedMc](https://zenodo.org/record/7474236)
 
+[Zenodo AsianBasket pdf](https://zenodo.org/record/7474285/files/AsianBasket.pdf)
 
-
+[Zenodo AsianBasket](https://zenodo.org/record/7474285)
 

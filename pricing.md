@@ -1,6 +1,6 @@
 ## Derivatives Valuation
 
-### GIC Valuation
+### GIC Pooling
 
 The payoff at maturity from a GIC can be shown equal to the invested principal plus these principal times the sum of the minimum guaranteed interest rate and the payoff from a European 
 call option on the arithmetic average of a basket price at the 12 points above, where the basket price is given by a weighted sum of the index levels above.  
@@ -133,6 +133,8 @@ Guaranteed investment certificate (GIC) is a financial instrument that offers a 
 
 
 [Reference:](/gicPricing.md)
+
+[ois pdf](https://osf.io/tgd82/download)
 
 
 
