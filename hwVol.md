@@ -19,11 +19,13 @@ We found close agreement in the two benchmark prices above; however, for short s
 
 References:
 
-[pdf](https://osf.io/k3wc9/download)
+[osf pdf](https://osf.io/k3wc9/download)
 
-[wiki](https://osf.io/kxsav/wiki/home/)
+[zenodo multi carc](https://zenodo.org/record/7480124/files/MultiCarc.pdf)
 
+[zenodo multi carc](https://zenodo.org/record/7480124)
 
+[zenodo two carc](https://zenodo.org/record/7480149/files/TwoWayCarc.pdf)
 
-
+[zenodo two carc](https://zenodo.org/record/7480149)
 

@@ -116,6 +116,8 @@ Hull White model is a short rate model that is used to price interest rate deriv
 
 [Reference:](/hwVol.md)
 
+[osf pdf](https://osf.io/k3wc9/download)
+
 
 
 ### Bond Bootstrapping Approach
