@@ -68,6 +68,9 @@ The convertible bond price is given from the combined tree by backward induction
 
 [Reference:](/hwConvertible.md)
 
+[osf pdf](https://osf.io/eyb8c/download)
+
+
 
 ### Brownian Bridge Approach
 
