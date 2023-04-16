@@ -36,11 +36,14 @@ grid point based on the shifted spot value.
 
 References:
 
-[pdf](https://osf.io/37fbt/download)
+[ois pdf](https://osf.io/37fbt/download)
 
-[wiki](https://osf.io/x29t8/wiki/home/)
+[Zenodo RiskMeasuresIndexBespoke pdf](https://zenodo.org/record/7388002/files/RiskMeasuresIndexBespoke.pdf)
 
+[Zenodo RiskMeasuresIndexBespoke](https://zenodo.org/record/7388002)
 
+[Zenodo RepoCurve pdf](https://zenodo.org/record/7428850/files/RepoCurve.pdf)
 
+[Zenodo RepoCurve](https://zenodo.org/record/7428850/files/RepoCurve.pdf)
 
 

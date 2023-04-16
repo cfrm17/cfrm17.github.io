@@ -205,9 +205,9 @@ Most credit derivatives structures rely on Monte Carlo (MC) simulation due to th
 
 References
 
-[Zenodo Credit Pricing pdf](https://zenodo.org/record/7378114/files/CreditDerivativePricing.pdf)
+[Zenodo Credit Pricing pdf](https://zenodo.org/record/7832032/files/CreditDerivativePricing.pdf)
 
-[Zenodo Credit Pricing pdf](https://zenodo.org/record/7378114)
+[Zenodo Credit Pricing pdf](https://zenodo.org/record/7832032)
 
 [Github Credit Pricing](https://github.com/cfrm17/creditDerivativePricing)
 
@@ -239,9 +239,9 @@ A typical Monte Carlo simulation algorithm assigns each simulation run, or path,
 
 References
 
-[Zenodo Credit Acceleration pdf](https://zenodo.org/record/7378499/files/CreditAcceleration.pdf)
+[Zenodo Credit Acceleration pdf](https://zenodo.org/record/7832058/files/CreditAcceleration.pdf)
 
-[Zenodo Credit Acceleration](https://zenodo.org/record/7378499)
+[Zenodo Credit Acceleration](https://zenodo.org/record/7832058)
 
 [Github Credit Acceleration](https://github.com/cfrm17/McAcceleration)
 
