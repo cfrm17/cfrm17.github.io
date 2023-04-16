@@ -22,11 +22,13 @@ as a result of a trigger condition or an exercise option. In general, local vola
 
 References:
 
-[pdf](https://osf.io/74s83/downloand)
+[osf pdf](https://osf.io/74s83/downloand)
 
-[wiki](https://osf.io/cms8h/wiki/home/)
+[zenodo carc flexible pdf](https://zenodo.org/record/7487231/files/CarcFlexibleReturn.pdf)
 
+[zenodo carc flexible](https://zenodo.org/record/7487231)
 
+[zenodo fair pdf](https://zenodo.org/record/7526407/files/FairValueAdjustment.pdf)
 
-
+[zenodo fair](https://zenodo.org/record/7526407)
 

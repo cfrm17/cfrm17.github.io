@@ -259,3 +259,6 @@ LIBOR Rate Model is used for pricing Libor-rate based derivative securities. The
 
 [Reference:](/liborModel.md)
 
+[osf pdf](https://osf.io/wra62/download)
+
+
