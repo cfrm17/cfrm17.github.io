@@ -20,6 +20,10 @@ equities are subsequently removed from the basket.
 
 [Reference:](/quantoHimalayan.md)
 
+[osf pdf](https://osf.io/cg5x4/download)
+
+
+
 
 ### Local Volatility Model for Callables 
 

@@ -44,11 +44,13 @@ to the size of their expectation.
 
 References:
 
-[pdf](https://osf.io/cg5x4/download)
+[osf pdf](https://osf.io/cg5x4/download)
 
-[wiki](https://osf.io/ucqk6/wiki/home/)
+[zenodo digital pdf](https://zenodo.org/record/7539127/files/binaryReturn.pdf)
 
+[zenodo digital](https://zenodo.org/record/7539127)
 
+[zenodo reverse pdf](https://zenodo.org/record/7539157/files/reverseConvertible.pdf)
 
-
+[zenodo reverse](https://zenodo.org/record/7539157)
 
