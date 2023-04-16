@@ -8,6 +8,8 @@ call option on the arithmetic average of a basket price at the 12 points above, 
 
 [Reference:](/gicPooling.md)
 
+[ois pdf](https://osf.io/atyb9/download)
+
 
 
 ### Quanto Himalayan Option 

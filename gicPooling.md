@@ -31,11 +31,15 @@ For each index, let
 
 References:
 
-[pdf](https://osf.io/atyb9/download)
+[ois pdf](https://osf.io/atyb9/download)
 
-[wiki](https://osf.io/4kwbp/wiki/home/)
+[Zenodo CreditDeltaVaR pdf](https://zenodo.org/record/7473670/files/CreditDeltaVaR.pdf)
 
+[Zenodo CreditDeltaVaR](https://zenodo.org/record/7473670)
 
+[Zenodo ModelReserves pdf](https://zenodo.org/record/7473768/files/ModelReserves.pdf)
+
+[Zenodo ModelReserves](https://zenodo.org/record/7473768)
 
 
 
