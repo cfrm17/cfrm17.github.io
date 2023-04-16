@@ -29,6 +29,9 @@ The function implements a local volatility based pricing method.
 
 [Reference:](/localVolQuanto.md)
 
+[osf pdf](https://osf.io/74s83/downloand)
+
+
 
 ### Forward Starting Option Valuation 
 
