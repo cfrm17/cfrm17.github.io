@@ -31,11 +31,13 @@ The two-factor tree building procedure appears from testing to be numerically st
 
 References:
 
-[pdf](https://osf.io/eyb8c/download)
+[osf pdf](https://osf.io/eyb8c/download)
 
-[wiki](https://osf.io/5kptw/wiki/home/)
+[zenodo xccy option pdf](https://zenodo.org/record/7474447/files/CrossCcyOption.pdf)
 
+[zenodo xccy option](https://zenodo.org/record/7474447)
 
+[zenodo average option pdf](https://zenodo.org/record/7478480/files/AverageRateOption.pdf)
 
-
+[zenodo xccy option](https://zenodo.org/record/7478480)
 
