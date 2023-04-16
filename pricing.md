@@ -196,6 +196,9 @@ An important feature of the popular three factor trinomial tree is that it uses 
 
 [Reference:](/preservingTree.md)
 
+[osf pdf](https://osf.io/6eyrv/download)
+
+
 
 ### Arrear Quanto CMS Valuation
 

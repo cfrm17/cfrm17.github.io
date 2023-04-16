@@ -26,11 +26,13 @@ As a result, there is a non-zero probability that the stock price turns infinite
 
 References:
 
-[pdf](https://osf.io/6eyrv/download)
+[osf pdf](https://osf.io/6eyrv/download)
 
-[list](https://osf.io/u95g2/wiki/home/)
+[zenodo forward pdf](https://zenodo.org/record/7526566/files/specialEquityForward.pdf)
 
+[zenodo forward](https://zenodo.org/record/7526566)
 
+[zenodo futures pdf](https://zenodo.org/record/7539063/files/equityFutures.pdf)
 
-
+[zenodo futures](https://zenodo.org/record/7539063)
 
