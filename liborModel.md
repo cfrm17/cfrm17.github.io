@@ -15,11 +15,13 @@ We see that, while Jamshidian’s approach provides for direct simulation of Lib
 
 References:
 
-[pdf](https://osf.io/wra62/download)
+[osf pdf](https://osf.io/wra62/download)
 
-[list](https://osf.io/9u8fs/wiki/home/)
+[zenodo carc vol pdf](https://zenodo.org/record/7487163/files/CarcVolSurface.pdf)
 
+[zenodo carc vol](https://zenodo.org/record/7487163)
 
+[zenodo carc lockin pdf](https://zenodo.org/record/7487196/files/CARCLockIn.pdf)
 
-
+[zenodo carc lockin](https://zenodo.org/record/7487196)
 
