@@ -62,6 +62,9 @@ up front; instead, a deferred sales charge, which depends on when the mutual fun
 
 [Reference:](/mfSecuritization.md)
 
+[osf pdf](https://osf.io/vzfaw/download)
+
+
 
 ### Pricing Convertible Bond via Hull White Model
 

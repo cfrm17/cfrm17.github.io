@@ -28,11 +28,13 @@ The purpose of the model is to determine, from a projected stream of future prin
 
 References:
 
-[pdf](https://osf.io/vzfaw/download)
+[osf pdf](https://osf.io/vzfaw/download)
 
-[wiki](https://osf.io/6gqnr/wiki/home/)
+[zenodo epo pdf](https://zenodo.org/record/7526459/files/EpoModel.pdf)
 
+[zenodo epo](https://zenodo.org/record/7526459)
 
+[zenodo swap pdf](https://zenodo.org/record/7526526/files/equityForFloatSwap.pdf)
 
-
+[zenodo swap](https://zenodo.org/record/7526526)
 
