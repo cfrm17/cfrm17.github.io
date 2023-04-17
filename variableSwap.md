@@ -35,11 +35,13 @@ The tests were focused on the following set of parameters:
 
 References:
 
-[pdf](https://osf.io/np5bw/download)
+[osf pdf](https://osf.io/np5bw/download)
 
-[list](https://osf.io/j3p7q/wiki/home/)
+[zenodo bond option pdf](https://zenodo.org/record/7681904/files/BondOption.pdf)
 
+[zenodo bond option](https://zenodo.org/record/7681904)
 
+[zenodo bond futures option pdf](https://zenodo.org/record/7682025/files/BondFuturesOption.pdf)
 
-
+[zenodo bond futures option](https://zenodo.org/record/7682025)
 

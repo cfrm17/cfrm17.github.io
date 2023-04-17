@@ -222,6 +222,9 @@ Variable rate swap is a special type of interest rate swap in which one leg of t
 
 [Reference:](/variableSwap.md)
 
+[osf pdf](https://osf.io/np5bw/download)
+
+
 
 ### CMS Spread Option Valuation
 
