@@ -246,6 +246,8 @@ A quanto total return Libor Swap is a swap where one leg is a regular floating l
 
 [Reference:](/quantoTrs.md)
 
+[osf pdf](https://osf.io/p7kn4/download)
+
 
 
 ### Digital Swap Valuation

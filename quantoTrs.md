@@ -25,9 +25,16 @@ The tests were focused on intrinsic, typical and extreme cases:
 
 References:
 
-[pdf](https://osf.io/p7kn4/download)
+[osf pdf](https://osf.io/p7kn4/download)
 
-[list](https://osf.io/rwfgn/wiki/home/)
+[zenodo fee pdf](https://zenodo.org/record/7570000/files/FeeProcessParameterEstimation.pdf)
+
+[zenodo fee](https://zenodo.org/record/7570000)
+
+[zenodo loss pdf](https://zenodo.org/record/7570310/files/expectedLossModel.pdf)
+
+[zenodo loss](https://zenodo.org/record/7570310)
+
 
 
 
