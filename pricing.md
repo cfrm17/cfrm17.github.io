@@ -266,6 +266,8 @@ The ratchet floating rate coupon is based on an index, e.g., 6-month EURIBOR. Th
 
 [Reference:](/ratchetSwap.md)
 
+[osf pdf](https://osf.io/azy78/download)
+
 
 
 ### LIBOR Rate Model 

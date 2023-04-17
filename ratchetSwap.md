@@ -15,7 +15,15 @@ The valuation is based on the Monte Carlo spot LIBOR rate model. The model gener
 
 References:
 
-[pdf](https://osf.io/azy78/download)
+[osf pdf](https://osf.io/azy78/download)
+
+[zenodo exposure pdf](https://zenodo.org/record/7574314/files/portfilioExposureRisk.pdf)
+
+[zenodo exposure pdf](https://zenodo.org/record/7574314)
+
+[zenodo cmbs pdf](https://zenodo.org/record/7574401/files/CMBS.pdf)
+
+[zenodo cmbs pdf](https://zenodo.org/record/7574401)
 
 [list](https://finpricing.com/FinPricing-ProductBrochure.pdf)
 
