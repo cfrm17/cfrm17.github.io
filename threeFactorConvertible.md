@@ -41,11 +41,13 @@ only approximately matched.
 
 References:
 
-[pdf](https://osf.io/pbjf8/download)
+[osf pdf](https://osf.io/pbjf8/download)
 
-[wiki](https://osf.io/wvhpq/wiki/home/)
+[zenodo bet pdf](https://zenodo.org/record/7675640/files/BetOption.pdf)
 
+[zenodo bet](https://zenodo.org/record/7675640)
 
+[zenodo rpo pdf](https://zenodo.org/record/7675618/files/AsianBasketRpo.pdf)
 
-
+[zenodo rpo](https://zenodo.org/record/7675618)
 

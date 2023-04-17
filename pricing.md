@@ -56,6 +56,9 @@ and put provisions, which respectively allow the issuer to buy back the converti
 
 [Reference:](/threeFactorConvertible.md)
 
+[osf pdf](https://osf.io/pbjf8/download)
+
+
 
 ### Mutual Fund Securitization Model
 
