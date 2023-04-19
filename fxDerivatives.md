@@ -219,5 +219,5 @@ The interest rate diffusion refers to the Brace-Gatarek-Musiela (BGM) model that
 
 	Select almost periodic grid of forward dates, typically 3m apart
 
-[Details](,/fxBgm.md)
+[Details](fxBgm.md)
 
