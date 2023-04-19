@@ -135,3 +135,15 @@ Calculation of the Greeks in the local volatility model is difficult because rec
 References:
 
 [Detals](volGreek.md)
+
+
+
+### Variable Rate MBS
+
+The Canada Housing Trust (“CHT”) will raise funds by issuing Canada Mortgage Bonds and use the proceeds to purchase VRMBS’s from Approved Sellers. For each VRMBS purchased CHT will also enter into a swap, where it pays the MBS interest and reinvestment income to the swap counterparty and receives fixed coupon cashflows, which are used to service the CMB. CHT will also pay CMHC an up-front guarantee fee for each CMB issuance. In return CMHC provides a guarantee for the CMB’s.
+
+
+References:
+
+[Detals](variableMbs.md)
+
