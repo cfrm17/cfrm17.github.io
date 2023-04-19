@@ -11,6 +11,8 @@ CVA not only allows institutions to move beyond the traditional control mindset 
 CVA, by definition, is the difference between the risk-free portfolio value and the true (or risky or defaultable) portfolio value that takes into account the possibility of a counterparty’s default. The risk-free portfolio value is what brokers quote or what trading systems or models normally report. The risky portfolio value, however, is a relatively less explored and less transparent area, which is the main challenge and core theme for CVA. 
 
 
+References:
+
 [Core cva](https://core.ac.uk/download/328766597.pdf)
 
 
@@ -20,6 +22,11 @@ CVA, by definition, is the difference between the risk-free portfolio value and 
 ### LIBOR Market Model Implementation
 
 The LIBOR Market Model has become one of the most popular models for pricing interest rate products. It is commonly believed that Monte-Carlo simulation is the only viable method available for the LIBOR Market Model. In this article, however, we propose a lattice approach to price interest rate products within the LIBOR Market Model by introducing a shifted forward measure and several novel fast drift approximation methods. This model should achieve the best performance without losing much accuracy. Moreover, the calibration is almost automatic and it is simple and easy to implement. Adding this model to the valuation toolkit is actually quite useful; especially for risk management or in the case there is a need for a quick turnaround.
+
+
+References:
+
+[More](./McBgm.md)
 
 [Core lmm pdf](https://core.ac.uk/download/288179622.pdf)
 
