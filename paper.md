@@ -192,3 +192,16 @@ References:
 [More details](mcShort.md)
 
 
+
+### Delta Gamma Vega Value at Risk
+
+The Delta Gamma Vega (DGV) methodology is developed to estimate Value-at-Risk (VaR) for portfolios of equities and equity options in order to comply, in regard to market risk measurement. The model can accurately estimates over-night VaR for portfolios with non-zero convexity or linear risk.
+
+
+References:
+
+[More details](dgvVaR.md)
+
+
+
+
