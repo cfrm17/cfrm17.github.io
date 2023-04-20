@@ -160,4 +160,13 @@ References:
 [core commodity](https://core.ac.uk/download/533453681.pdf)
 
 
+### Lookback Call Option 
+
+A model is presented for pricing a European lookback call option on a stock index with guaranteed exchange rate (LBCGER).  In addition a sampling frequency (e.g., daily, weekly, etc.) over the lookback window is specified.
+
+
+References:
+
+[More details](lookbackCall.md)
+
 
