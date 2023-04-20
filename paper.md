@@ -170,3 +170,14 @@ References:
 [More details](lookbackCall.md)
 
 
+
+### Conditional Probability of Hitting Barrier
+
+A model is developed for evaluating the conditional probability of hitting an upper barrier before a lower barrier, and vice versa, for a tied down geometric Brownian motion with drift. The method produces an analytical value for this probability, assuming that the barrier levels are constant and continuously monitored.
+
+
+References:
+
+[More details](barrierProb.md)
+
+
