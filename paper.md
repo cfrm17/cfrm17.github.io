@@ -226,3 +226,12 @@ References:
 
 
 
+
+### Rainbow Partial Barrier Option
+
+A rainbow partial barrier option is an option on two assets where one asset-the trigger asset-knocks in an European call or put on a second asset; such an option is therefore European. (Unless specified otherwise, all options are European style.) The adjective partial refers to the fact that the knock in or out period is shorter than the option tenor. 
+
+
+References:
+
+[More details](rainbowPartial.md)
