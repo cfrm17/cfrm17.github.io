@@ -235,3 +235,15 @@ A rainbow partial barrier option is an option on two assets where one asset-the 
 References:
 
 [More details](rainbowPartial.md)
+
+
+
+### Shout Cap and Floor
+
+A European shout cap is an option giving the holder the right to “shout” a European call strike level at spot at any time during the option tenor. That is, the holder receives an at-the-money European call when they shout. If they do not shout at any time during the option tenor the holder receives a European call struck at the initial strike level. Typically the initial strike level is set to the spot level when the contract is initiated. This instrument provides a protective cap on losses in short positions without requiring additional payments.
+
+
+References:
+
+[More details](shoutCap.md)
+
