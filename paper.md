@@ -204,4 +204,14 @@ References:
 
 
 
+### Better-of Cliquet Option 
+
+A model is developed for pricing a swap with better of cliquet option. The floating amount payer makes semi-annual payments based on USD-LIBOR-BBA minus a spread. The fixed rate payer makes a single payment at swap maturity based on the arithmetic average of the S&P 500 Index price over certain pre-specified windows of ten consecutive trading days.
+
+
+References:
+
+[More details](betterCliquet.md)
+
+
 
