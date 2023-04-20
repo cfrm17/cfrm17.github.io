@@ -215,3 +215,14 @@ References:
 
 
 
+### Asian Swap 
+
+A commodity swap is a deal where counter-parties exchange fixed payments for floating payments monthly based on a specific commodity, for example, West Texas Intermediate (WTI) crude oil. The fixed payments are specified as a given quantity times a fixed price; the floating payments are specified as a given quantity times the spot value of the commodity on the payment date. The floating payments may also be based on the arithmetic average of spot commodity price (Asian commodity-price) over the payment period or LIBOR plus a spread.
+
+
+References:
+
+[More details](asianSwap.md)
+
+
+
