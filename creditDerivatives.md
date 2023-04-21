@@ -154,6 +154,8 @@ Modeling the accumulated coupon payments is straightforward within the current s
 
 References
 
+[More details](deferredPay.md)
+
 [Zenodo Deferred Payment pdf](https://zenodo.org/record/7374179/files/DeferredPay.pdf)
 
 [Zenodo Deferred Payment pdf](https://zenodo.org/record/7374179)
