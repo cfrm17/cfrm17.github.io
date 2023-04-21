@@ -200,7 +200,10 @@ Specifically, we examined the proposed procedure for mapping tracer tranches to 
 
 We first need to determine an market implied correlation for the tracer tranches. In order to do so, each tranche is valued at various constant correlations ranging from 0 to 0.7 in increments of 0.1. The implied correlation for each tranche is then found by linear interpolation by matching the model price with the market price. Note that this approximation might not be ideal if the market value versus correlation is not linear.
 
+
 References
+
+[More details](correlationMtm.md)
 
 [Zenodo Correlation MTM pdf](https://zenodo.org/record/7378011/files/CorrelationMtm.pdf)
 
