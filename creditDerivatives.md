@@ -118,7 +118,10 @@ The Risk Engine has two functions: default sensitivity test and credit spread se
 
 Default sensitivity test is a kind of stress tests matching the situation that a credit default event of an obligor has occurred or is perceived to be imminent. It is implemented by finding the change of Present Value (PV) for the tranches when the default time of an obligor is perturbed. The Scenario Manager Model is implemented by setting the default time of each obligor to be the valuation date when calculating the present value of each tranche, no matter when that obligor defaults in the generated Monte Carlo (MC) scenarios. 
 
+
 References
+
+[More details](defaultSensitivity.md)
 
 [Zenodo Default Sensitivity pdf](https://zenodo.org/record/7373904/files/DefaultSensitivity.pdf)
 
@@ -134,6 +137,8 @@ The purpose of the model is to make adjustment to the credit spread curve of eac
 Market quoted CDS indices, such as CDX or Tracer-X, are defined as the fair premium paid over a stream of risky coupons in exchange of default protection on standardized portfolios. Unlike a stock index it is not simply the weighted average of credit spreads for the reference names in the portfolio.  A CDS index on a portfolio can be viewed as the b/e spread to an untranched basket credit default swap on that portfolio. As a result, an index position at a level   is equivalent to a portfolio of CDS on the reference names, where all CDSs are entered at the same spread  . Individually, each CDS does not trade at b/e spread, but the portfolio as a whole does. Furthermore, market quoted index assumes a flat credit spread curve and 0.40 recovery rate.
 
 References
+
+[More details](creditCurve.md)
 
 [Zenodo CDS Curve pdf](https://zenodo.org/record/7373680/files/creditCurveAdjustment.pdf)
 
