@@ -1,5 +1,5 @@
 
-### CDO Mapping
+### Default Sensitivity
 
 
 The default sensitivity test in Scenario Manager is implemented by setting the default time of the perturbed obligor to be the valuation date when the present value of each tranche is calculated, no matter when that obligor defaults in the generated Monte Carlo scenarios. Compared with other models, the implementation of Scenario Manager model is simple, direct, and efficient. However, the joint default events generated in the MC scenarios remain unchanged, which is an approximation of the realistic situation.
