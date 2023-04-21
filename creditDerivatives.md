@@ -168,7 +168,10 @@ References
 
 There are two advantages of the model. First, like other non-parametric modeling approaches, the model ensures an arbitrage free pricing model once successfully calibrated. Moreover, as shown in the next section, the model can be calibrated to the market information with at least two different maturities, which can be viewed as a progress of the non-parametric modeling. As far as we know, all the other non-parametric modeling can only be calibration to market data with one maturity.
 
+
 References
+
+[More details](fscdo.md)
 
 [Zenodo Forward CDO pdf](https://zenodo.org/record/7374358/files/FSCDO.pdf)
 
