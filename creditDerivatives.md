@@ -67,7 +67,10 @@ The model serves the purpose of finding a proxy CDO for a CDO2 or CDO3 trade by 
 
 The methodology can be illustrated through the following example. As shown in Figure 1, a CDO2 trade has two child pools with the reference names 8~12 being shared. This CDO2 trade can be mapped to another risk equivalent CDO (RE-CDO) with the pool shown in Fig. 1. In this pool the notional of each reference name is the average of that of two child CDOs.  
 
+
 References
+
+[More details](cdoMapping.md)
 
 [Zenodo CDO Mappping  pdf](https://zenodo.org/record/7363084/files/CDOnMapping.pdf)
 
