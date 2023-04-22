@@ -19,7 +19,7 @@ References:
 
 [archive warrant](https://ia903404.us.archive.org/22/items/eq-warrant-8/EqWarrant-archive.pdf)
 
-[gitbook payment](https://finwhite.gitbook.io/paymentneuralnet//)
+[gitbook payment](https://finwhite.gitbook.io/paymentneuralnet/)
 
 [github asian](https://github.com/cfrm17/callableAsian)
 

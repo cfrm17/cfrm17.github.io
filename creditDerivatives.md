@@ -92,7 +92,10 @@ By definition the hazard rate has to be positive to ensure a larger than zero de
 
 Given all the input parameters, the hazard rate curve is calculated via bootstrapping. There exists a possibility of failing to building a valid one, either because 1) the input implies a negative hazard rate or 2) a value outside of root finding range. In the GSP model, a root finding scheme is used in which we set the searching range to be 0 and 20.  
 
+
 References
+
+[More details](cdsHcurve.md)
 
 [Zenodo Hazard Rate Curve pdf](https://zenodo.org/record/7373116/files/CDSHCurve.pdf)
 
