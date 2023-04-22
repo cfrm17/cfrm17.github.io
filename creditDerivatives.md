@@ -52,7 +52,10 @@ The credit contingent interest rate swap (CCIRS or CCDS) valuation model serves 
 
 In essence, a CCIRS trade can be regarded as an interest rate swaption with two special features. One is that the maturity of the swaption is the default time of the reference obligor, which is unknown. The other feature is that, although the strike of the underlying swap is predetermined, the tenor and the notional amount of the underlying swap are dependent on the default time and recovery rate of the reference obligor, respectively. The trade provides a hedging of the counterparty risk in an IRS. 
 
+
 References
+
+[More details](ccds.md)
 
 [Zenodo CCDS pdf](https://zenodo.org/record/7362947/files/ccds.pdf)
 
