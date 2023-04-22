@@ -23,4 +23,4 @@ References:
 
 [github bond](https://github.com/cfrm17/bondFuturesOption)
 
-[github cppi](https://osf.io/rcf93/download)
+[osf cppi](https://osf.io/rcf93/download)

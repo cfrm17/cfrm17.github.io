@@ -197,7 +197,10 @@ References
 
 The methodology of the model is considered acceptable, based on the fact that the model can be calibrated to the pertinent spot market information with different terms, effectively deal with market implied correlation skew structure, and reasonably model the default events before the forward starting date. However, there are two embedded model uncertainties. One is the calibration process of WMC in which the optimization of hundreds of instruments is involved for a normal FSCDO trade. This task is difficult and it is unlikely to achieve a perfect calibration to all instruments. The selection of the spot calibrating instruments, specially the spot tranches, also contributes to the uncertainties of the calibration.  The other uncertainty resides in the generation of the prior MC scenario. Two different choices would give different prices of the forward trade, even if both can be successfully calibrated to the spot market information. 
 
+
 References
+
+[More detals](fscdoImp.md)
 
 [Zenodo Forward CDO Implementation pdf](https://zenodo.org/record/7374369/files/FSCDOImplementation.pdf)
 

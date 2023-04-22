@@ -28,4 +28,4 @@ References:
 
 [github basket](https://github.com/cfrm17/basketAsianRpo)
 
-[github quanto](https://osf.io/2qjps/download)
+[osf quanto](https://osf.io/2qjps/download)

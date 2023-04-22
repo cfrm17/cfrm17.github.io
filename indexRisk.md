@@ -28,4 +28,4 @@ References:
 
 [github bond](https://github.com/cfrm17/bondOption)
 
-[github spread](https://osf.io/4kcrh/download)
+[osf spread](https://osf.io/4kcrh/download)

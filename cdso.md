@@ -25,4 +25,4 @@ References:
 
 [github cds](https://github.com/cfrm17/cds)
 
-[github touch](https://osf.io/6m5jx/download)
+[osf touch](https://osf.io/6m5jx/download)

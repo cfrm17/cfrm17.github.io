@@ -24,4 +24,4 @@ References:
 
 [github cds](https://github.com/cfrm17/CdsTermStructure)
 
-[github asian](https://osf.io/e9wb3/download)
+[osf asian](https://osf.io/e9wb3/download)

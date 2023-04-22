@@ -23,4 +23,4 @@ References:
 
 [github asian](https://github.com/cfrm17/callableAsian)
 
-[github coupon](https://osf.io/x2rf8/download)
+[osf coupon](https://osf.io/x2rf8/download)
