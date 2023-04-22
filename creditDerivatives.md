@@ -18,7 +18,10 @@ References:
 
 The approach implements a base correlation, which is employed to calculate an appropriate correlation in the valuation of a collateral debt obligation (CDO) tranche using market information.  The credit default swaps (CDS) indexes iBoxx and Trac-X portfolios have been introduced in the market and the standard tranches linked to these reference sets are actively quoted. From this market information, we intend to retrieve the correlation information of the standardized collateral pool and then use it to get the market implied correlation for 1) non-standard CDO tranches with standard collateral pools and 2) tranches of a bespoke non-index CDO trade.
 
+
 References: 
+
+[More details](baseCorrApproach.md)
 
 [Zenodo Base Correlation Approach pdf](https://zenodo.org/record/7831646/files/CDSO.pdf)
 
