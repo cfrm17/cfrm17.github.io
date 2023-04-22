@@ -142,6 +142,8 @@ It is important to note that, from the viewpoint of mathematical modeling, there
 
 References:
 
+[More details](basisAdj.md)
+
 [Zenodo Basis Adjustment pdf](https://zenodo.org/record/7387930/files/basisAdjustment.pdf)
 
 [Zenodo Basis Adjustment](https://zenodo.org/record/7387930)
