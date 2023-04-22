@@ -304,7 +304,10 @@ References
 
 To our best knowledge there is no generally accepted mapping methodology. It is an open question and subject to future research. Furthermore, several ad hoc adjustments have to be made, if a bespoke tranche is to be calibrated to different indices. This makes it more difficult for the market participants to find a consensus solution to the mapping methodology. In our opinion, the base correlation mapping is theoretically sound only if the risk profile of the bespoke portfolio is similar to that of the indices. For example, if a bespoke portfolio has well-diversified North America names with similar trade definition of the CDX and similar credit spread levels, it would be reasonable to use the base correlation implied by CDX indices.  If they are different, there exist uncertainties with respect to dispersion of credit quality, portfolio diversification, and portfolio mixture issues. No known mapping methodology can fully address all the uncertainties. 
 
+
 References
+
+[More details](lrMapping.md)
 
 [Zenodo Implied Correlation pdf](https://zenodo.org/record/7382668/files/LRMapping.pdf)
 
