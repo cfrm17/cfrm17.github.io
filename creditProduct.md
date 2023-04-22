@@ -174,7 +174,10 @@ The new components developed in the Oscar/Fritz credit library enable us to capt
 
 The credit spread sensitivity is switched to a bucketed one (CSPDH). In the model, parallel shift credit spread sensitivity has been used for many years. However, recent development in the market, especially the popularity of longer term trades, makes this measure inaccurate.
 
+
 References:
+
+[More details](indexRisk.md)
 
 [Zenodo Bespoke pdf](https://zenodo.org/record/7388002/files/RiskMeasuresIndexBespoke.pdf)
 
