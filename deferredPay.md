@@ -25,4 +25,4 @@ References:
 
 [github forward](https://github.com/cfrm17/specialEquityForward)
 
-[github var](https://osf.io/uzpk3/download)
+[osf var](https://osf.io/uzpk3/download)

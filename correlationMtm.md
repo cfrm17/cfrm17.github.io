@@ -28,4 +28,4 @@ References:
 
 [github binary](https://github.com/cfrm17/binaryReturn)
 
-[github var](https://osf.io/m9j7v/download)
+[osf var](https://osf.io/m9j7v/download)

@@ -26,4 +26,4 @@ References:
 
 [github futures](https://github.com/cfrm17/equityFutures)
 
-[github market](https://osf.io/rbxqz/download)
+[osf market](https://osf.io/rbxqz/download)

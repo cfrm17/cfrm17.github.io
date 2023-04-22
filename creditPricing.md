@@ -26,4 +26,4 @@ References:
 
 [github reverse](https://github.com/cfrm17/reverseConvertibleModel)
 
-[github collateral](https://osf.io/zuhcw/download)
+[osf collateral](https://osf.io/zuhcw/download)
