@@ -18,7 +18,10 @@ References:
 
 The MezzMezzMezz or Mezzcubed trade model implements a trade structure in which the tranches defined by MezzOfMezz or Caribou structures are aggregated under a new Collateral Debt Obligation (CDO) structure. The synthetic CDO trade models used by the  system are FirstLoss, MezzOfMezz, and MezzMezzMezz. The following diagrams show how these models are structured*.
 
+
 References:
+
+[More details](mezz.md)
 
 [Zenodo MezzMezzMezz pdf](https://zenodo.org/record/7383005/files/MezzMezzMezz.pdf)
 
