@@ -255,7 +255,10 @@ The testing process was carried out in two stages.  First, the independent imple
 
 The second phase of the process was carried out using the previous version of the model independently modified to conform to the new specifications by the author to make further tests.  These tests were conducted with both the new implementation of the model and the previous version of the model.
 
+
 References
+
+[More details](creditCalib.md)
 
 [Zenodo Credit Calibration pdf](https://zenodo.org/record/7378454/files/CreditModCorr.pdf)
 
