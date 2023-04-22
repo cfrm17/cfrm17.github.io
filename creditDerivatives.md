@@ -110,7 +110,10 @@ The European Credit Default Swap Option (CDSO) pricing model serves the purpose 
 
 It is natural to try to value a CDSO by using an approach similar to that of the valuing a European swaption in interest rate markets. It has been proved that a modified Black future pricing closed form solution can be derived to price CDSO, by which the model follows.
 
+
 References
+
+[More details](cdso.md)
 
 [Zenodo CDSO pdf](https://zenodo.org/record/7373465/files/CDSO.pdf)
 
