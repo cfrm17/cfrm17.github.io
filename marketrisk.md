@@ -71,7 +71,10 @@ VPC holds a month-end meeting to review all IPV/VA with representatives from the
 
 VPC will identify material IPV and VA balance for each portfolio (as defined by a unique limit letter) that have a potential impact on VaR. Materiality will be set at total IPV adjustment or total VA greater than $1MM per portfolio. Note that individual rather than net IPV and VA balances should be reviewed as there may be offsetting effects within a portfolio.
 
+
 References: 
+
+[More details](ipv.md)
 
 [Studylib vpc](https://studylib.net/flashcards/set/independent-price-verification_255533)
 
