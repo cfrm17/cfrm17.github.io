@@ -175,7 +175,10 @@ References:
 
 The proposal is to capture the dividend risk under normal market conditions. Stress test is considered a more appropriate approach to capture the risk of severe cutting or eliminating dividend of large blue chip stocks during financial crisis.
 
+
 References:
+
+[More details](divEx.md)
 
 [Studylib dividend exposure](https://studylib.net/flashcards/set/dividend-exposure-measurement-and-management_256121)
 
