@@ -158,7 +158,10 @@ References:
 
 OSFI recommended that dividend risk should be captured in market risk framework. To achieve that, a dividend risk model is developed by Market Risk (MR) and will be implemented in system. The model calls for the introduction of new dividend risk factors as the expected dividend amount of an equity asset, either a stock, or a basket of stocks, or an equity index. 
 
+
 References:
+
+[More details](dividend.md)
 
 [Studylib dividend risk](https://studylib.net/flashcards/set/dividend-risk_256120)
 
