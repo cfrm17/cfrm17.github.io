@@ -209,7 +209,10 @@ References:
 
 As described in model description and calibration of the model, the daily innovation to expected dividend of an index is simulated from double exponential distribution with specified correlation with all other risk factors. The daily innovation to expected dividend of a single stock is simulated on the fly without correlation with other risk factors. 
 
+
 References:
+
+[More details](divCalib.md)
 
 [Studylib dividend Calibration](https://studylib.net/flashcards/set/dividend-risk-model-calibration_256123)
 
