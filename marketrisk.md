@@ -192,7 +192,10 @@ References:
 
 In practice, most traders treated dividend amount as “known” and risk managers do not monitor the price sensitivity to dividend amount as long as the total price sensitivity to underlying asset price is properly captured in case the dividend yield is used in pricing. If they think there is any dividend risk, that is only associated with the big negative jumps described above. Stress test, rather than daily VaR, is a proper way to capture that kind of risk.
 
+
 References:
+
+[More details](divModel.md)
 
 [Studylib dividend model](https://studylib.net/flashcards/set/dividend-risk-modeling-and-methodology_256122)
 
