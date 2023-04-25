@@ -14,6 +14,8 @@ The Market Risk Measurement Management and Data Review Process establishes the l
 
 References: 
 
+[More details](riskFlow.md)
+
 [Studylib flow](https://studylib.net/flashcards/set/market-risk-data-flow_255525)
 
 [Readkong flow](https://www.readkong.com/page/aabd2bbe43e94b494f6b7de3f61c2c77-4897149)
