@@ -110,7 +110,10 @@ References:
 
 The goal of this work is to translate or convert simulated risk factors into market observables. There are three translations in commodity framework: price translation, volatility translation, and all-in translation.
 
+
 References:
+
+[More details](riskTranslation.md)
 
 [Studylib commodity translation](https://studylib.net/flashcards/set/commodity-simulation-translation_256082)
 
