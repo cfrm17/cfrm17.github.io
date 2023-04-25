@@ -127,7 +127,10 @@ References:
 
 We use the Omega type models to model the implied volatility skew for commodity derivatives.  These surfaces are incorporate moneyness and time to maturity into the skew definition and are a function of calibrated parameters (skew, wing, boost etc).
 
+
 References:
+
+[More details](volRate.md)
 
 [Studylib commodity vol](https://studylib.net/flashcards/set/commodity-volatility-closing-rate-calculation_256102)
 
