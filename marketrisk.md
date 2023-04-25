@@ -52,7 +52,10 @@ Root cause investigations are required to validate instances of backtest excepti
 
 Exceptions may be classified as legitimate, or false. For instances where the exceptions are deemed as false, such as spurious market data input, and IT system issues, appropriate operational procedures need to be followed for issue resolution including reruns, market data 
 
+
 References: 
+
+[More details](backtestEx.md)
 
 [Studylib backtest exception](https://studylib.net/flashcards/set/backtest-exception_255532)
 
