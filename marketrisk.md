@@ -12,6 +12,7 @@ In the Risk Measurement Data Flow, positions are valued using models and market 
 
 The Market Risk Measurement Management and Data Review Process establishes the linkages which are required in an effective risk management system. All data composing these linkages can theoretically trace dependencies back to market inputs and position inputs. Market inputs are defined as the inputs required in the valuation model that are dynamic in nature and are sourced from markets. As an input to the risk process, the positions require thorough review and validation processes to ensure completeness and consistency. The set of inputs required for valuation should also be employed for other calculations such as P&L attribution (PAA) and should be simulated when computing Value at Risk (VaR).
 
+
 References: 
 
 [More details](riskFlow.md)
@@ -30,7 +31,10 @@ Market data accuracy will also improve significantly with the common set of pric
 
 The identification and selection of market risk factors to be captured in a risk model, such as VaR, are critical to building strong risk measurement platform. The Risk Management Completeness Review Stream will be responsible for regular validation of the risk factors. Risk factors are market variables which are expected to impact valuation P&L. In VaR, “risk factors” also define the returns which are simulated and subsequently mapped to market instruments. 
 
+
 References: 
+
+[More details](pnl.md)
 
 [Studylib PnL](https://studylib.net/flashcards/set/profit-and-loss-explanation_255531)
 
