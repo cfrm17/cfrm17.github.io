@@ -93,7 +93,10 @@ Given the base and spread scenarios, those for the all-in curve can be generated
 
 Using these scenarios, the absolute change for the all-in curve is constructed 
 
+
 References: 
+
+[More details](gammaShock.md)
 
 [Studylib gamma shock](https://studylib.net/flashcards/set/constructing-all-in-gamma-shocks_255534)
 
