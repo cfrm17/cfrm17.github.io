@@ -15,6 +15,8 @@ With a semi-annual frequency, factors used to decompose P&L for PAA purposes sho
 
 References:
 
+[More details](PnLExplain.pdf)
+
 [bitbucket pdf](https://bitbucket.org/timxiao1203/profit-and-loss-explanation/downloads/PnLExplain.pdf)
 
 [github vol](https://github.com/cfrm17/volInterpolation)
