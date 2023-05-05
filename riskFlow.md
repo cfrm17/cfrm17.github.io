@@ -15,6 +15,8 @@ The Market Risk Measurement and Data Review needs to consider all potential risk
 
 References:
 
+[More detail](MarketRiskDataFlow.pdf)
+
 [bitbucket pdf](https://bitbucket.org/timxiao1203/market-risk-data-flow/downloads/MarketRiskDataFlow.pdf)
 
 [github ratio](https://github.com/cfrm17/ratioSwaption)
