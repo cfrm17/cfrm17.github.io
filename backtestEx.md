@@ -17,6 +17,8 @@ Cases where the market move is in line with its historical trend, implying the V
 
 References:
 
+[More details](BacktestException)
+
 [bitbucket pdf](https://bitbucket.org/timxiao1203/backtest-exception/downloads/BacktestException.pdf)
 
 [github aeco](https://github.com/cfrm17/aecoOption)
