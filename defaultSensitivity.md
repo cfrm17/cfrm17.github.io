@@ -17,6 +17,8 @@ In order to test the Scenario Manager model, three other measures of default sen
 
 References:
 
+[Ref](GammaShock.pdf)
+
 [zenodo pdf](https://zenodo.org/record/7373904/files/DefaultSensitivity.pdf)
 
 [archive gic](https://ia601507.us.archive.org/23/items/gicPricing/gicPricing.pdf)
