@@ -1,5 +1,5 @@
 
-### CDS Index Curve Adjustment
+### Market Risk Data Flow
 
 
 Effective market risk management requires all markets risks to be appropriately identified, measured and controlled. Market risk itself is defined as the potential (adverse) change in portfolio value from changes in the market inputs. A well-functioning risk control process reflects the foundational role of valuation and the direct linkage with risk from end-to-end with appropriate control points and feedback loops.
