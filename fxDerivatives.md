@@ -215,9 +215,8 @@ References:
 
 ### FX Option Valuation via BGM
 
-The interest rate diffusion refers to the Brace-Gatarek-Musiela (BGM) model that is a multi-factor log-normal model. The very brief description of BGM approach in Monte Carlo setting is 
+The interest rate diffusion refers to the Brace-Gatarek-Musiela (BGM) model that is a multi-factor log-normal model. The very brief description of BGM approach in Monte Carlo setting is found in the following link.
 
-	Select almost periodic grid of forward dates, typically 3m apart
 
 [Details](fxBgm.md)
 
