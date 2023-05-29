@@ -1,5 +1,7 @@
 ## Derivatives Valuation
 
+[Reference](https://derivatives.hcommons.org/2021/08/)
+
 ### GIC Pooling
 
 The payoff at maturity from a GIC can be shown equal to the invested principal plus these principal times the sum of the minimum guaranteed interest rate and the payoff from a European 
