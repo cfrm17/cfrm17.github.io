@@ -1,5 +1,7 @@
 ## Analytic Tool
 
+[Reference](https://derivatives.hcommons.org/2021/07/)
+
 ### Implied Volatility Calculator
 
 An implied volatility is the volatility implied by the market price of an option based on the Black-Scholes option pricing model. Given an option price, the model can calculate implied volatility.
@@ -8,8 +10,6 @@ The term structures of implied volatilities which provide indications of the mar
 
 Vol skew or smile pattern is directly related to the conditional non-normality of the underlying return risk-neutral distribution. In particular, a smile reflects fat tails in the return distribution whereas a skew indicates return distribution asymmetry.
 
-
-[Reference](https://derivatives.hcommons.org/2021/07/)
 
 References:
  
