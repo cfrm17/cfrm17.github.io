@@ -1,6 +1,9 @@
 ## Credit Derivatives
 
 
+[Reference](https://derivatives.hcommons.org/2020/09/02/product/)
+
+
 ### Base Correlation
 
 The base correlation curve is defined as the correlation inputs required for a series of equity tranches that gives the tranche value consistent with quoted spreads. It was introduced by JPMorgan to address the difficulty of applying market-implied correlation to a tranche with non-standard attachment and detachment points. 
