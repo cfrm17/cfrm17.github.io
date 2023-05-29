@@ -1,5 +1,7 @@
 ## Market Data
 
+[Reference](https://derivatives.hcommons.org/2022/07/26/derivatives-modeling/)
+
 ### Yield Curve Introduction
 
 The term structure of interest rates, also known as yield curve, is defined as the relationship between the yield-to-maturity on a zero 
