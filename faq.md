@@ -8,6 +8,9 @@ settlement of the trade in a systematic manner. In other words, it is regarded a
 where the trade is allowed to go through keeping track of its related objective and importance. 
 
 
+[Reference](https://derivatives.hcommons.org/2022/07/26/fx-derivatives/)
+
+
 ### Account Management
 
 Back office functions include user account management, settlements, clearances, record maintenance, regulatory compliance, accounting, and IT services. 
