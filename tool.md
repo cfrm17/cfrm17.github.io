@@ -9,6 +9,8 @@ The term structures of implied volatilities which provide indications of the mar
 Vol skew or smile pattern is directly related to the conditional non-normality of the underlying return risk-neutral distribution. In particular, a smile reflects fat tails in the return distribution whereas a skew indicates return distribution asymmetry.
 
 
+[Reference](https://derivatives.hcommons.org/2021/07/)
+
 References:
  
 [Link](/ToolEqVol-1.pdf)
