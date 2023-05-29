@@ -17,6 +17,9 @@ a bilateral financial derivative contract may fail to fulfill its contractual ob
 offers capital market risk management products and services to help your organization effectively identify and address the risk you face in financial 
 markets.
 
+[Reference](https://derivatives.hcommons.org/2022/07/27/analytics/")
+
+
 ### Counterparty Credit Risk
 
 
