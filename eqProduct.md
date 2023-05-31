@@ -1,6 +1,9 @@
 ## Equity Products
 
 
+[Github Tim References](https://github.com/timxiao1203?tab=repositories)
+
+
 ### Stable Value Wrap Model
 
 The stable value model is aimed at estimating the value of providing protection on a portfolio consisting of fixed income and equity instruments.  The fund upon which stable value protection is provided is assumed to be under active management and thus to have a constant duration for the purposes of modeling.  The protection provided by the stable value contract is written on any shortfall between the market value of the fund and a defined “book value” which exists when redemptions of the fund are made.
