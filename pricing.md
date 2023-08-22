@@ -294,3 +294,11 @@ A pricing model for bet options is presented by using Monte Carlo simulation.  A
 [Reference:](/BetOption.pdf)
 
 
+### Expiration Price Option Model
+
+The model allows users to calculate daily amortization amount using total number of amortization dates and amortization of the initial premium based on the specified amortization history.
+
+[Reference:](/EpoModel.pdf)
+
+
+
