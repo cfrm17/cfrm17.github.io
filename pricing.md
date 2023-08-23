@@ -309,3 +309,10 @@ The spot underlying price in foreign currency is converted into an amount in dom
 
 [Reference:](/CrossCcyOption.pdf)
 
+
+### Asian Basket Options with Individually Capped Returns
+
+A model is presented for pricing Asian basket options with individually capped returns. Crude Monte Carlo method is employed to value the derivatives. Each asset return is capped with a rate.  Volatility smile is utilized in the calculation.
+
+[Reference:](/AsianBasket.pdf)
+
