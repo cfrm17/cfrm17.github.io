@@ -301,4 +301,11 @@ The model allows users to calculate daily amortization amount using total number
 [Reference:](/EpoModel.pdf)
 
 
+### Cross Currency Option Model
+
+A cross currency option is a currency translated option of the type foreign equity option struck in domestic currency, which is a call or put on a foreign asset with a strike price set in domestic currency and payoff measured in domestic currency.
+
+The spot underlying price in foreign currency is converted into an amount in domestic currency using the spot exchange rate.  This amount is then adjusted by the current value of predicted future discrete dividends, measured in domestic currency.
+
+[Reference:](/CrossCcyOption.pdf)
 
