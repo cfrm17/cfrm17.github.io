@@ -77,6 +77,8 @@ We will give an outline of the methodology employed to estimate parameters, and 
 
 References:
 
+[More details](fee.md)
+
 [Zenodo Fee Estimation pdf](https://zenodo.org/record/7570000/files/FeeProcessParameterEstimation.pdf)
 
 [Zenodo Fee Estimation](https://zenodo.org/record/7570000)

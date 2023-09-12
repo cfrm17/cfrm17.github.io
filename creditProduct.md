@@ -86,6 +86,8 @@ Within the modeling framework, the sensitivities measure the change of present v
 
 References:
 
+[More details](creditBasket.md)
+
 [Zenodo Basket Default pdf](https://zenodo.org/record/7387516/files/basketDefault.pdf)
 
 [Zenodo Basket Default pdf](https://zenodo.org/record/7387516)
