@@ -23,9 +23,6 @@ As to the discrete dividends, since they are a riskless component in the stock p
 
 References:
 
-[Zenodo XCCY Option pdf](https://zenodo.org/record/7474447/files/CrossCcyOption.pdf)
-
-[Zenodo XCCY Option](https://zenodo.org/record/7474447)
 
 [Github XCCY Option](https://github.com/cfrm17/xccyOption)
 
@@ -48,10 +45,6 @@ References:
 A pricing model is presented for capped-accumulated-return-call (CARC) with multiple underlyings. At each reset date, a weighted stock price is calculated.  These weighted stock prices are used to compute returns.
 
 References:
-
-[Zenodo Multi CARC pdf](https://zenodo.org/record/7480124/files/MultiCarc.pdf)
-
-[Zenodo Multi CARC](https://zenodo.org/record/7480124)
 
 [Github Multi CARC](https://github.com/cfrm17/multiCarc)
 

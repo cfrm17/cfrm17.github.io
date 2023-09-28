@@ -20,8 +20,6 @@ References:
 
 [gitbook](https://finwhite.gitbook.io/lookbackcall/)
 
-[github carc](https://github.com/cfrm17/multiCarc)
-
 [core bond pdf](https://core.ac.uk/download/534868166.pdf)
 
 [core bond](https://core.ac.uk/works/127930344)
