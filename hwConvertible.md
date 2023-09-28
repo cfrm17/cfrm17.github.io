@@ -33,11 +33,13 @@ References:
 
 [osf pdf](https://osf.io/eyb8c/download)
 
+[zenodo xccy option](https://zenodo.org/record/7474447)
+
 [zenodo xccy option pdf](https://zenodo.org/record/7474447/files/CrossCcyOption.pdf)
 
-[zenodo xccy option](https://zenodo.org/record/7474447)
+[zenodo xccy option](https://zenodo.org/record/7478480)
 
 [zenodo average option pdf](https://zenodo.org/record/7478480/files/AverageRateOption.pdf)
 
-[zenodo xccy option](https://zenodo.org/record/7478480)
+
 
