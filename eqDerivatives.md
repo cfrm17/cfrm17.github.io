@@ -55,9 +55,6 @@ An enhanced Quasi-Monte Carlo method is employed to evaluation this feature of C
 
 References:
 
-[Zenodo Two Way CARC pdf](https://zenodo.org/record/7480149/files/TwoWayCarc.pdf)
-
-[Zenodo Two Way CARC](https://zenodo.org/record/7480149)
 
 [Github Two Way CARC](https://github.com/cfrm17/twoWayCarc)
 
