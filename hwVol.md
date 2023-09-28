@@ -23,11 +23,11 @@ References:
 
 [zenodo multi carc](https://zenodo.org/record/7480124)
 
-[zenodo multi carc](https://zenodo.org/record/7480124/files/MultiCarc.pdf)
+[zenodo multi carc pdf](https://zenodo.org/record/7480124/files/MultiCarc.pdf)
 
 [zenodo two carc](https://zenodo.org/record/7480149)
 
-[zenodo two carc](https://zenodo.org/record/7480149/files/TwoWayCarc.pdf)
+[zenodo two carc pdf](https://zenodo.org/record/7480149/files/TwoWayCarc.pdf)
 
 
 
