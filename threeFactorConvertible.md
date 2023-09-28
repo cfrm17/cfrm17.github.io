@@ -43,11 +43,12 @@ References:
 
 [osf pdf](https://osf.io/pbjf8/download)
 
-[zenodo bet pdf](https://zenodo.org/record/7675640/files/BetOption.pdf)
-
 [zenodo bet](https://zenodo.org/record/7675640)
 
-[zenodo rpo pdf](https://zenodo.org/record/7675618/files/AsianBasketRpo.pdf)
+[zenodo bet pdf](https://zenodo.org/record/7675640/files/BetOption.pdf)
 
-[zenodo rpo](https://zenodo.org/record/7675618)
+[zenodo Asian basket](https://zenodo.org/record/7675618)
+
+[zenodo Asian basket pdf](https://zenodo.org/record/7675618/files/AsianBasketRpo.pdf)
+
 
