@@ -158,3 +158,26 @@ References:
 
 [Detals](firstLoss.md)
 
+
+
+
+### Forward Starting CDO 
+
+Compared to the standard first loss model with the same collateral pool and tranche structure, the new model predicts smaller B/E spreads for each tranche. Further, it is more sensible to the interest rate and the sensitivity to the interest rate term structure changes dramatically. The B/E spreads for each tranche calculated by both models converge when the hazard rates of the obligors become very small.
+
+
+References:
+
+[Detals](firstLoss.md)
+
+
+
+### Ratio Tunnel Option 
+
+A ratio tunnel option offers the contract holder the right either long or short, at a contract maturity, a preset underlying collar. Notional principals and strikes in the collar may be different. In the system, the ratio tunnel option and the underlying collar are strictly European type. The ratio tunnel option model applies analytical close form pricing formulae for vanilla compound options.
+
+References:
+
+[Detals](ratioTunnel.md)
+
+
