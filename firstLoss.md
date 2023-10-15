@@ -17,9 +17,9 @@ We can find two trends. First, the new model is more sensitive. Given the same a
 
 References:
 
-[credit risk](https://works.bepress.com/davidlee/1/)
+[credit risk](https://figshare.com/articles/preprint/_b_The_Impact_of_Collateralization_on_Derivatives_Markets_b_/24201222)
 
-[credit risk pdf](https://works.bepress.com/davidlee/1/download/)
+[credit risk pdf](https://figshare.com/articles/preprint/_b_The_Impact_of_Collateralization_on_Derivatives_Markets_b_/24201222/2/files/42470781.pdf)
 
 
 
