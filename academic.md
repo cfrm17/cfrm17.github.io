@@ -181,3 +181,12 @@ References:
 [Detals](ratioTunnel.md)
 
 
+### Hedge Fund Return 
+
+Daily net asset value of hedge funds normally are not market observable. The model allows financial market participants to produce a daily mark-to-model for their hedge fund positions, and eventually options derived thereon. We use the historical data of indices to generate a robust estimate of the required index weighting parameters. Empirical study shows that the model makes reasonable predictions when appropriate index choices have been made and produces diagnostic information that can indicate the relative reliability of predicted daily hedge fund returns.
+
+References:
+
+[Detals](hedgeFundReturn.md)
+
+
