@@ -58,3 +58,11 @@ The three volatility adjustment factors reflect the average level of High/Medium
 which is different from the average level). This may lead to biased exposure result so we regard this uncertainty to be an observation.
 
 [Volatility Adjustment Introduction](volAdj.md)
+
+
+### Real Return Bond
+
+We review the pricing and risk sensitivities calculations for the following inflation-linked bonds: real return bonds (RRBs) and year-on-year (YOY) inflation bonds. Inflation-linked bonds have cash flows that are 
+contingent on one of the inflation measures—the consumer price index (CPI). 
+
+[Real Return Bond Introduction](realBond.md)
