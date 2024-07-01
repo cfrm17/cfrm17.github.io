@@ -44,3 +44,10 @@ References:
 [Github Dividend](https://github.com/cfrm17/forwardDiv)
 
 
+### CNY Curve
+
+The market standard is to generate the base curve using market quotes and a bootstrap method. FX forward spreads are used as quote inputs to generate FX curve and combined with the CNY zero curve to derive the necessary quoting currency.
+
+[CNY Curve Introduction](cny.md)
+
+
