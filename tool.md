@@ -46,8 +46,15 @@ References:
 
 ### CNY Curve
 
-The market standard is to generate the base curve using market quotes and a bootstrap method. FX forward spreads are used as quote inputs to generate FX curve and combined with the CNY zero curve to derive the necessary quoting currency.
+The market standard is to generate the base curve using market quotes and a bootstrap method. FX forward spreads are used as quote inputs to generate FX curve and combined with the CNY zero curve to derive the necessary 
+quoting currency.
 
 [CNY Curve Introduction](cny.md)
 
 
+### Volatility Adjustment Factors
+
+The three volatility adjustment factors reflect the average level of High/Medium/Low issuer-specific spread risks, which may not be granular enough (e.g. some issuers may have extremely high or low spread volatilities 
+which is different from the average level). This may lead to biased exposure result so we regard this uncertainty to be an observation.
+
+[Volatility Adjustment Introduction](volAdj.md)
