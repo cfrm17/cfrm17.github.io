@@ -29,7 +29,7 @@ References:
 
 [Hcommons hitting probability Introduction](https://hcommons.org/deposits/item/hc:63249/)
 
-[Science hitting probability Introduction](https://science-media.org/userfiles/1020/presentations/1020_presentation_652.pdf)
+[Science hitting probability Introduction](https://science-media.org/presentation/652)
 
 
 
