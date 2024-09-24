@@ -220,6 +220,13 @@ References:
 
 The interest rate diffusion refers to the Brace-Gatarek-Musiela (BGM) model that is a multi-factor log-normal model. The very brief description of BGM approach in Monte Carlo setting is found in the following link.
 
-
 [Details](fxBgm.md)
+
+
+### FX Implied Curve
+
+TThe risk uncertainty of the FX derived curve is based on the USD zero rate curve, FX forwards and their correct market conventions. This model inherits all the risks and weaknesses of the USD zero yield rate curve 
+construction process.
+
+[Details](fxCurve.md)
 
