@@ -18,12 +18,15 @@ The key model assumptions for Bond Option are
 
 •	There are no taxes, margins or transaction costs. This assumption is commonly accepted in the industry.
 •	The underlying bond forward price follows a lognormal distribution. This assumption is commonly accepted in the industry.
-•	The risk-free interest rate is constant (see https://www.researchgate.net/profile/Tim-Xiao/publication/385275783_Modeling_Term_Structure_of_Cross-_Currency_Interest_Rates/links/671d479dacba566ad501e638/Modeling-Term-Structure-of-Cross-Currency-Interest-Rates.pdf). 
-This assumption is reasonable in the real world and commonly accepted in the industry.
+•	The risk-free interest rate is constant This assumption is reasonable in the real world and commonly accepted in the industry.
 •	The valuation methodologies assume there is no arbitrage. The no-arbitrage assumption makes it possible to state the price of an asset in terms of risk-neutral probabilities where the discounting is done at 
 the risk-free rate. This is commonly used and universally accepted in both the industry and the academic world.
 
 
+
+References:
+
+[Interest rate](https://www.researchgate.net/profile/Tim-Xiao/publication/385275783_Modeling_Term_Structure_of_Cross-_Currency_Interest_Rates/links/671d479dacba566ad501e638/Modeling-Term-Structure-of-Cross-Currency-Interest-Rates.pdf)
 
 
 
