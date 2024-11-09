@@ -26,6 +26,8 @@ the risk-free rate. This is commonly used and universally accepted in both the i
 
 References:
 
+[Cross rate](https://www.researchgate.net/publication/385275783_Modeling_Term_Structure_of_Cross-_Currency_Interest_Rates)
+
 [Interest rate](https://www.researchgate.net/profile/Tim-Xiao/publication/385275783_Modeling_Term_Structure_of_Cross-_Currency_Interest_Rates/links/671d479dacba566ad501e638/Modeling-Term-Structure-of-Cross-Currency-Interest-Rates.pdf)
 
 
