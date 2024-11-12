@@ -196,3 +196,9 @@ The Pricer Bond Option (European style) assumes that the forward bond price is l
 
 [Detals](bondOption.md)
 
+
+### FX Rate Calibration
+
+We use a customized version of the Black-Karansinski (BK) model for the simulation of (logarithm of) FX rates.  The model is based on a volatility term structure, a  time-dependent long run mean, and assumes a constant speed of reversion to the mean. 
+
+[Detals](fxCalibration.md)
