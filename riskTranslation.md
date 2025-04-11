@@ -13,7 +13,7 @@ In order to capture cross Gamma for pipelines that have spreads over bases, we n
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/commoditytranslation/downloads/CommodityTranslation.pdf)
+[archive bond abs](https://ia600703.us.archive.org/34/items/bond-abs-test/BondAbsTest.pdf)
 
 [github double](https://github.com/cfrm17/doubleWindowBarrier)
 

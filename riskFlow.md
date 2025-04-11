@@ -17,7 +17,7 @@ References:
 
 [More detail](MarketRiskDataFlow.pdf)
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/market-risk-data-flow/downloads/MarketRiskDataFlow.pdf)
+[science-media bond asset](https://science-media.org/userfiles/1071/presentations/1071_presentation_706.pdf)
 
 [github ratio](https://github.com/cfrm17/ratioSwaption)
 

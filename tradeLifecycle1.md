@@ -32,7 +32,7 @@ Reference:
 
 [Zenodo lifecycle1](https://zenodo.org/record/6514321/files/Zenodo-TradeLifecycleInto-1.pdf)
 
-[Fliphtml5 lifecycle1](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjMyYTM3ITPkl0av9mY)
+[Zenodo bond asset](https://zenodo.org/records/15027036/files/BondAssetBacked.pdf)
 
 [OSF lifecycle1](https://osf.io/jskg5/download)
 
