@@ -35,5 +35,5 @@ Reference:
 
 [Zenodo curve](https://zenodo.org/record/6512460/files/Zenodo-CurveConstruction.pdf)
 
-[Fliphtml5 curve](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO0MTM3ITPkl0av9mY)
+[OSF default bond](https://osf.io/pv7mw/download)
 

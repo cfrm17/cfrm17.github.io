@@ -17,7 +17,7 @@ References:
 
 [More details](PnLExplain.pdf)
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/profit-and-loss-explanation/downloads/PnLExplain.pdf)
+[archive corporate bond](https://ia601308.us.archive.org/10/items/corporate-bond_202504/CorporateBond.pdf)
 
 [github vol](https://github.com/cfrm17/volInterpolation)
 
