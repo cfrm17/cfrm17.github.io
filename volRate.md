@@ -13,7 +13,7 @@ One way to think of the u and the v above, are as the weights used in linear int
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/volrate/downloads/CommodityVol.pdf)
+[Zenodo Greeks](https://zenodo.org/records/14996548)
 
 [github fader](https://github.com/cfrm17/FadeOption)
 
