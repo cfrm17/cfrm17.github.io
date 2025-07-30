@@ -18,6 +18,7 @@ References:
 
 [Guaranteed note pdf](https://www.researchgate.net/profile/Tim-Xiao/publication/385743880_Pricing_Guaranteed_Withdrawal_Notes/links/6733981a69c07a4114454fdf/Pricing-Guaranteed-Withdrawal-Notes.pdf)
 
+[Brownian Bridge](https://works.hcommons.org/records/dk6ne-gph28/files/brownianbridge.pdf)
 
 
 
