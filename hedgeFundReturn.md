@@ -19,6 +19,7 @@ References:
 
 [hedge fund return](https://advance.sagepub.com/users/745559/articles/717733/master/file/data/HedgeFund/HedgeFund.pdf)
 
+[Daily digital](https://works.hcommons.org/records/yvad1-hzm71/files/dailydigital.pdf?download=1)
 
 
 
