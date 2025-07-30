@@ -21,6 +21,7 @@ References:
 
 [credit risk pdf](https://figshare.com/articles/preprint/_b_The_Impact_of_Collateralization_on_Derivatives_Markets_b_/24201222/2/files/42470781.pdf)
 
+[Carc Locking](https://works.hcommons.org/records/51yby-t5s06/files/carclockin.pdf?download=1)
 
 
 
