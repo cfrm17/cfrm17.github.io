@@ -25,7 +25,7 @@ References:
 
 [Archive hitting probability](https://ia600203.us.archive.org/31/items/barrierProbabilityNew/barrierProbabilityNew.pdf)
 
-[https://works.hcommons.org/records/4jdjr-21b15/files/barrierprobability.pdf?download=1)
+[Hcommons hitting probability](https://works.hcommons.org/records/4jdjr-21b15/files/barrierprobability.pdf?download=1)
 
 [Hcommons hitting probability Introduction](https://hcommons.org/deposits/item/hc:63249/)
 
