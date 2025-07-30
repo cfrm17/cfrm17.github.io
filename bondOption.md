@@ -30,7 +30,7 @@ References:
 
 [Interest rate](https://www.researchgate.net/profile/Tim-Xiao/publication/385275783_Modeling_Term_Structure_of_Cross-_Currency_Interest_Rates/links/671d479dacba566ad501e638/Modeling-Term-Structure-of-Cross-Currency-Interest-Rates.pdf)
 
-
+[Quanto Himalaya](https://works.hcommons.org/records/ftwqx-4kz72/files/quantohimalaya.pdf?download=1)
 
 
 
