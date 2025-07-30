@@ -22,6 +22,6 @@ References:
 
 [valuation details](https://www.authorea.com/doi/pdf/10.22541/au.156881621.17931411)
 
-
+[CDS basis](https://works.hcommons.org/records/4mywt-nxf83/files/basisadjustment.pdf)
 
 
