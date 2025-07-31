@@ -23,3 +23,5 @@ References:
 [Articles](https://authors.repec.org/pro/pwh61/)
 
 [More](http://citec.repec.org/p/w/pwh61.html)
+
+[Research Gate](https://www.researchgate.net/profile/Tim-Xiao/publication/369898784_Convertible_Bond_Model_with_Soft_Call/links/6431a429ad9b6d17dc44cea0/Convertible-Bond-Model-with-Soft-Call.pdf)
