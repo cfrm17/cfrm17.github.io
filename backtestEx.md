@@ -19,7 +19,7 @@ References:
 
 [More details](BacktestException.pdf)
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/backtest-exception/downloads/BacktestException.pdf)
+[Researchgate asian](https://works.hcommons.org/records/kg50z-44298/files/asianbasketrpooption.pdf)
 
 [github aeco](https://github.com/cfrm17/aecoOption)
 
