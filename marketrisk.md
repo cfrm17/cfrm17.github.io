@@ -17,11 +17,7 @@ References:
 
 [More details](riskFlow.md)
 
-[Studylib flow](https://studylib.net/flashcards/set/market-risk-data-flow_255525)
-
-[Readkong flow](https://www.readkong.com/page/aabd2bbe43e94b494f6b7de3f61c2c77-4897149)
-
-[Bitbucket flow](https://bitbucket.org/timxiao1203/market-risk-data-flow/downloads/MarketRiskDataFlow.pdf)
+[Researchgate variance swap](https://www.researchgate.net/profile/Tim-Xiao/publication/369907899_Variance_Swap_Model/links/6433107420f25554da1d49fb/Variance-Swap-Model.pdf)
 
 
 
@@ -36,12 +32,7 @@ References:
 
 [More details](pnl.md)
 
-[Studylib PnL](https://studylib.net/flashcards/set/profit-and-loss-explanation_255531)
-
-[Readkong PnL](https://www.readkong.com/page/profit-and-loss-explanation-6423884)
-
-[Bitbucket PnL](https://bitbucket.org/timxiao1203/profit-and-loss-explanation/downloads/PnLExplain.pdf)
-
+[Researchgate hedge fund](https://www.researchgate.net/publication/378435843_A_Model_for_Estimating_Daily_Hedge_Fund_Net_Asset_Value/fulltext/65d93fa5c3b52a1170f26ef9/A-Model-for-Estimating-Daily-Hedge-Fund-Net-Asset-Value.pdf)
 
 
 ### Backtest Exception
@@ -57,11 +48,7 @@ References:
 
 [More details](backtestEx.md)
 
-[Studylib backtest exception](https://studylib.net/flashcards/set/backtest-exception_255532)
-
-[Readkong backtest exception](https://www.readkong.com/page/862c0ea2b888a978f7149403f1fef68f-8915848)
-
-[Bitbucket backtest exception](https://bitbucket.org/timxiao1203/backtest-exception/downloads/BacktestException.pdf)
+[Researchgate IR term](https://www.researchgate.net/profile/Tim-Xiao/publication/385275783_Modeling_Term_Structure_of_Cross-_Currency_Interest_Rates/links/671d479dacba566ad501e638/Modeling-Term-Structure-of-Cross-Currency-Interest-Rates.pdf)
 
 
 
@@ -76,11 +63,8 @@ References:
 
 [More details](ipv.md)
 
-[Studylib vpc](https://studylib.net/flashcards/set/independent-price-verification_255533)
 
-[Readkong vpc](https://www.readkong.com/page/independent-price-verification-3995317)
-
-[Bitbucket vpc](https://bitbucket.org/timxiao1203/price-verification/downloads/IndependentValidation.pdf)
+[Researchgate Guaranteed-Withdrawal-Notes](https://www.researchgate.net/profile/Tim-Xiao/publication/385743880_Pricing_Guaranteed_Withdrawal_Notes/links/6733981a69c07a4114454fdf/Pricing-Guaranteed-Withdrawal-Notes.pdf)
 
 
 
@@ -98,11 +82,7 @@ References:
 
 [More details](gammaShock.md)
 
-[Studylib gamma shock](https://studylib.net/flashcards/set/constructing-all-in-gamma-shocks_255534)
-
-[Readkong gamma shock](https://www.readkong.com/page/11bc376ef34263cc95154937c512ed8e-2460064)
-
-[Bitbucket gamma shock](https://bitbucket.org/timxiao1203/constructing-all-in-gamma-shocks/downloads/GammaShock.pdf)
+[Researchgate zero](https://www.researchgate.net/profile/Tim-Xiao/publication/369920969_Zero_Curve_Construction/links/6434782bad9b6d17dc4b85f1/Zero-Curve-Construction.pdf)
 
 
 
@@ -115,11 +95,7 @@ References:
 
 [More details](riskTranslation.md)
 
-[Studylib commodity translation](https://studylib.net/flashcards/set/commodity-simulation-translation_256082)
-
-[Readkong commodity translation](https://www.readkong.com/page/d68646898b227610dd91dc66cd6cf4bd-8643543)
-
-[Bitbucket commodity translation](https://bitbucket.org/timxiao1203/commoditytranslation/downloads/CommodityTranslation.pdf)
+[Researchgate correlation swap](https://www.researchgate.net/profile/Tim-Xiao/publication/369898787_Correlation_Swap_Model/links/6431a73420f25554da1b4848/Correlation-Swap-Model.pdf)
 
 
 
@@ -132,11 +108,7 @@ References:
 
 [More details](volRate.md)
 
-[Studylib commodity vol](https://studylib.net/flashcards/set/commodity-volatility-closing-rate-calculation_256102)
-
-[Readkong commodity vol](https://www.readkong.com/page/f3e7fc493b351fb59e863391afeda09e-5813799)
-
-[Bitbucket commodity vol](https://bitbucket.org/timxiao1203/volrate/downloads/CommodityVol.pdf)
+[Researchgate convertible](https://www.researchgate.net/profile/Tim-Xiao/publication/369881226_Convertible_Bond_with_Refix_Feature/links/643061d7609c170a13ff5527/Convertible-Bond-with-Refix-Feature.pdf)
 
 
 
@@ -146,11 +118,7 @@ Futures contracts are typically valued as a spread to the forwards curves.  This
 
 References:
 
-[Studylib PM basis](https://studylib.net/flashcards/set/precious-metal-futures_256119)
-
-[Readkong PM basis](https://www.readkong.com/page/ddd68d14959f38d5317e09c5be9e4d30-4962003)
-
-[Bitbucket PM basis](https://bitbucket.org/timxiao1203/pmfutures/downloads/PreciousMetalFutures.pdf)
+[Researchgate binary](https://www.researchgate.net/profile/Tim-Xiao/publication/369878648_Binary_Return_Note_Model/links/64302aec20f25554da15a5ca/Binary-Return-Note-Model.pdf)
 
 
 
@@ -163,11 +131,7 @@ References:
 
 [More details](dividend.md)
 
-[Studylib dividend risk](https://studylib.net/flashcards/set/dividend-risk_256120)
-
-[Readkong dividend risk](https://www.readkong.com/page/44229fa074278a10cf9dfc6d638efd1f-9446385)
-
-[Bitbucket dividend risk](https://bitbucket.org/timxiao1203/dividendrisk/downloads/DividendRisk.pdf)
+[Researchgate bet](https://www.researchgate.net/profile/Tim-Xiao/publication/369878537_Bet_Option_Model/links/643025894e83cd0e2f97a3b5/Bet-Option-Model.pdf)
 
 
 
@@ -180,11 +144,7 @@ References:
 
 [More details](divEx.md)
 
-[Studylib dividend exposure](https://studylib.net/flashcards/set/dividend-exposure-measurement-and-management_256121)
-
-[Readkong dividend exposure](https://www.readkong.com/create/preview/e66f03a99516814b5ac50b8d9777f4f9-7267783)
-
-[Bitbucket dividend exposure](https://bitbucket.org/timxiao1203/dividendexposure/downloads/DividendExposure.pdf)
+[Researchgate forward](https://www.researchgate.net/profile/Tim-Xiao/publication/369899083_Fixed_Forward_Option_Model/links/6431c9a9609c170a1302eb82/Fixed-Forward-Option-Model.pdf)
 
 
 
@@ -197,11 +157,7 @@ References:
 
 [More details](divModel.md)
 
-[Studylib dividend model](https://studylib.net/flashcards/set/dividend-risk-modeling-and-methodology_256122)
-
-[Readkong dividend model](https://www.readkong.com/create/preview/46b214dd09912278e2a2be4a6a5e5e26-4427754)
-
-[Bitbucket dividend model](https://bitbucket.org/timxiao1203/dividendmodel/downloads/DividendModel.pdf)
+[Researchgate cross](https://www.researchgate.net/profile/Tim-Xiao/publication/369997382_Cross_Currency_Swaption_Model/links/6438378620f25554da2bbae9/Cross-Currency-Swaption-Model.pdf)
 
 
 
@@ -214,9 +170,5 @@ References:
 
 [More details](divCalib.md)
 
-[Studylib dividend Calibration](https://studylib.net/flashcards/set/dividend-risk-model-calibration_256123)
-
-[Readkong dividend Calibration](https://www.readkong.com/page/37d55160d761971bfc351a91a735edab-1838459)
-
-[Bitbucket dividend Calibration](https://bitbucket.org/timxiao1203/dividendcalibration/downloads/dividendCalibration.pdf)
+[Researchgate dividend](https://www.researchgate.net/profile/Tim-Xiao/publication/369899100_Equity_Forward_with_Dividend_Reinvestment/links/6431d2e0609c170a1302ebe1/Equity-Forward-with-Dividend-Reinvestment.pdf)
 
