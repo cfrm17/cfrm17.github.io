@@ -25,3 +25,5 @@ References:
 [Idea](https://ideas.repec.org/f/ple990.html)
 
 [Author](https://authors.repec.org/pro/ple990/)
+
+[Asian Basket](https://www.researchgate.net/profile/Tim-Xiao/publication/369876624_Asian_Basket_Relative_Performance_Option_Model/links/64301f20609c170a13fd4cc1/Asian-Basket-Relative-Performance-Option-Model.pdf)
