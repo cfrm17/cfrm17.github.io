@@ -15,7 +15,7 @@ Unlike bond coupon, the perceived dividend is not guaranteed. The market expecta
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/dividendmodel/downloads/DividendModel.pdf)
+[Hcommons creditVar](https://works.hcommons.org/records/ppetd-dfa44/files/creditvar.pdf?download=1)
 
 [github touch](https://github.com/cfrm17/touchOption)
 
