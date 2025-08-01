@@ -15,7 +15,7 @@ As an alternative, Bloomberg projected dividend amount is a forward-looking esti
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/dividendexposure/downloads/DividendExposure.pdf)
+[Hcommons volMod](https://works.hcommons.org/records/jxdp5-5af32/files/volatilitymodel.pdf?download=1)
 
 [github compound](https://github.com/cfrm17/CompoundOption)
 
