@@ -14,7 +14,7 @@ Given the base and spread scenarios, those for the all-in curve can be generated
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/constructing-all-in-gamma-shocks/downloads/GammaShock.pdf)
+[Hcommons barrier](https://works.hcommons.org/records/9kywg-b2d48/files/barrierprobabilitynew.pdf)
 
 [github reciprocal](https://github.com/cfrm17/FxReciprocal)
 
