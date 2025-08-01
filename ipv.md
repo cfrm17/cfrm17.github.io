@@ -14,7 +14,7 @@ The origin of IPV balances can generally be ascribed to two principle effects. T
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/price-verification/downloads/IndependentValidation.pdf)
+[Hcommons callable](https://works.hcommons.org/records/dmyx8-mme31/files/callableasiannew.pdf)
 
 [github digital](https://github.com/cfrm17/fxDigital)
 
