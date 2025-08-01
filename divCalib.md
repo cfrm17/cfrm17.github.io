@@ -15,7 +15,7 @@ However, we found that the day-to-day volatility of expected dividend calculated
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/dividendcalibration/downloads/dividendCalibration.pdf)
+[Hcommons shink](https://works.hcommons.org/records/7k774-vad94/files/shinkbasket.pdf)
 
 [github exam](https://github.com/cfrm17/baseCorrelationExam)
 
