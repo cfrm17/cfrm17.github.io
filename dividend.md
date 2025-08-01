@@ -17,7 +17,7 @@ Under the proposal, there will be a newly introduced dividend risk factor for ea
 
 References:
 
-[bitbucket pdf](https://bitbucket.org/timxiao1203/dividendrisk/downloads/DividendRisk.pdf)
+[Hcommons double](https://works.hcommons.org/records/z2m18-px347/files/doublewindowdoublebarrieroption.pdf?download=1)
 
 [github power](https://github.com/cfrm17/PowerSwap)
 
