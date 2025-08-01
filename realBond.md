@@ -24,9 +24,11 @@ where t cf is the remaining cash flows (or the treasury coupon bond value at the
 the cumulative default probability 
 
 
+References:
 
+[Hcommons Put](https://works.hcommons.org/records/aeqwe-48926/files/putprotection.pdf?download=1)
 
-
+[Hcommons gold](https://works.hcommons.org/records/fvxgt-tbe11/files/goldoption.pdf)
 
 
 
