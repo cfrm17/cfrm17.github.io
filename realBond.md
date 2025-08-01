@@ -30,5 +30,6 @@ References:
 
 [Hcommons gold](https://works.hcommons.org/records/fvxgt-tbe11/files/goldoption.pdf)
 
+[Hcommons American](https://works.hcommons.org/records/w2mac-t4p48/files/americanbarrier.pdf)
 
 
