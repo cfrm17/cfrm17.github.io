@@ -124,9 +124,10 @@ principal of the notes.
 [pdf](https://osf.io/eg6mv/download)
 
 
-### Hull White Volatility Calibration
+### Workflow Context 
 
-Hull White model is a short rate model that is used to price interest rate derivatives, such as Bermudan swaption and accumulator exotics 
+Workflow Templates are designed and are defined by a set of Workflow States, Workflow Transitions, and associated Workflow Actions. Users interact with a particular Workflow Instance, and each Instance is created 
+from a Workflow Template.
 
 
 [Reference:](/hwVol.md)
