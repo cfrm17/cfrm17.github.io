@@ -1,19 +1,22 @@
 
-### Hull White Volatility Calibration
+###	Workflow Context 
 
-Hull White model is a short rate model that is used to price interest rate derivatives, such as Bermudan swaption and accumulator exotics (see https://finpricing.com/lib/FxAccumulator.html)
+Workflow Templates are designed and are defined by a set of Workflow States, Workflow Transitions, and associated Workflow Actions. Users interact with a particular Workflow Instance, and each Instance is created 
+from a Workflow Template.
 
-We map implied Black's at the money (ATM) European swaption volatilities into corresponding Hull-White (HW) short rate volatilities. We seek to determine a HW volatility to match the market 
-price of a certain ATM European payer swaption.  
+Workflow Template can be designed, such that workflow states, transitions, actions, and rules can be created/updated/deleted. Workflow Instance Users are able to participate within a Workflow Instance and can cause 
+transitions and actions to occur.
 
+The term delete shall mean: indicate as no longer active, not physically deleted.  Any deleted entity shall still be retrievable up to the retention period.
 
-We present an approach that calculates the HW volatility to make the swaption price calculated on a HW tree match Black's price for the same swaption at each grid point.
+A configurable set of filter rules shall mean: Filter rules shall be based on meta-data driven constructs, using SDR catalogues to define the business logic and simple comparison operators. 
+1.	Examples of simple comparison operators include “>=”, “=”, “AND”, “OR”, and “IN”. 
+2.	Groups. It will be possible to define groups of a set of parameters for the purposes of applying filter rules, e.g. set up a list of the usernames for all users who are in the Credit Models team.
+3.	The specific functionality is defined in the DRS documents for Data requirements, however applications are described here.
 
-At each grid point, we compared respective Black’s and HW trinomial tree payer swaption pricing benchmarks. Specifically, using the interest rate and implied Black’s volatility .
-
-We priced the payer swaption using our benchmark Black’s model and then priced the same swaption, using our benchmark HW trinomial tree model, based on the corresponding HW volatility.
-
-We found close agreement in the two benchmark prices above; however, for short swaption tenors and swap terms, the agreement between these two prices was only marginally acceptable.
+Workflow Instance Attributes are a set that includes:
+1.	The values in the database record for a given workflow instance, i.e. values in the respective entry in the tables WF_Step_F, and WF_Instance_F.
+2.	The values in the RDR record of the Object being approved.
 
 
 
@@ -21,12 +24,9 @@ References:
 
 [osf pdf](https://osf.io/k3wc9/download)
 
-
 [zenodo carc vol](https://zenodo.org/record/7487163)
 
 [zenodo carc vol pdf](https://zenodo.org/record/7487163/files/CarcVolSurface.pdf)
-
-
 
 [zenodo two carc](https://zenodo.org/record/7480149)
 
