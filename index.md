@@ -93,6 +93,11 @@ Research papers are presented.
 
 [More details](/academic.md) 
 
+### Market Risk KPI
+
+Introduces KPI (Key Performance Indicator) Guidelines for the VaR model
+
+[More details](/kpi.md) 
 
 
 ### List of Derivative Pricing Models
